@@ -1,0 +1,3928 @@
+WEBVTT
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/12-0
+00:00:03.696 --> 00:00:10.296
+<v Zimanyi, Peter>And Darren's did a lot of prep work
+already and conversations as well, and...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/13-0
+00:00:11.576 --> 00:00:18.773
+<v Zimanyi, Peter>So we had some chat, including Isaiah,
+and we decided probably the best to do</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/13-1
+00:00:18.773 --> 00:00:25.416
+<v Zimanyi, Peter>here is to have a kickoff meeting to get
+everybody on the same page. So</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/15-0
+00:00:27.096 --> 00:00:33.288
+<v Zimanyi, Peter>The goal that I set for this meeting is
+to do a quick review on where we are,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/15-1
+00:00:33.288 --> 00:00:37.336
+<v Zimanyi, Peter>what we know, to create a starting point,
+and then</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/16-0
+00:00:39.136 --> 00:00:43.231
+<v Zimanyi, Peter>From there,
+discussing Terrence has a high level</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/16-1
+00:00:43.231 --> 00:00:48.746
+<v Zimanyi, Peter>schedule. So discussing what is needed,
+what's applicable for Q3,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/16-2
+00:00:48.746 --> 00:00:55.096
+<v Zimanyi, Peter>and trying to answer any questions that
+may come up during this discussion.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/17-0
+00:00:56.216 --> 00:00:57.736
+<v Zimanyi, Peter>Terrence,
+do you want to add anything else?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/18-0
+00:01:02.016 --> 00:01:02.856
+<v Van Valkenhoef, Terrence>Nothing else.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/19-0
+00:01:03.576 --> 00:01:03.976
+<v Zimanyi, Peter>OK.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/20-0
+00:01:05.096 --> 00:01:05.416
+<v Zimanyi, Peter>Do it.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/24-0
+00:01:12.096 --> 00:01:14.869
+<v Zimanyi, Peter>Right, so I suggest, Terrence,
+we start with you,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/24-1
+00:01:14.869 --> 00:01:19.416
+<v Zimanyi, Peter>if you could provide us a quick summary
+of the background of this project, and...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/25-0
+00:01:21.776 --> 00:01:23.016
+<v Zimanyi, Peter>where we are today.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/26-0
+00:01:27.616 --> 00:01:30.517
+<v Van Valkenhoef, Terrence>Sure.
+I don't know how much I need to explain</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/26-1
+00:01:30.517 --> 00:01:34.238
+<v Van Valkenhoef, Terrence>about what NCIS is.
+I think everyone here is familiar with</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/26-2
+00:01:34.238 --> 00:01:36.256
+<v Van Valkenhoef, Terrence>the project appear. Maybe I can.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/28-0
+00:01:37.536 --> 00:01:44.016
+<v Van Valkenhoef, Terrence>Mention what we're marching towards,
+that'd be good use of our time. I have...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/29-0
+00:01:45.376 --> 00:01:53.811
+<v Van Valkenhoef, Terrence>A request for supporting the networks
+firmware development effort which aims at</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/29-1
+00:01:53.811 --> 00:02:01.929
+<v Van Valkenhoef, Terrence>delivering a utilized firmware that
+supports this and other solutions by the</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/29-2
+00:02:01.929 --> 00:02:03.616
+<v Van Valkenhoef, Terrence>end of the year.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/30-0
+00:02:05.696 --> 00:02:13.405
+<v Van Valkenhoef, Terrence>networks will want us to have our code
+completed so that end-to-end testing can</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/30-1
+00:02:13.405 --> 00:02:21.498
+<v Van Valkenhoef, Terrence>be done before they release the product.
+So we're marching towards end of the year.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/30-2
+00:02:21.498 --> 00:02:23.136
+<v Van Valkenhoef, Terrence>That is to say we</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/31-0
+00:02:24.736 --> 00:02:30.950
+<v Van Valkenhoef, Terrence>Should ideally start development in the
+app services beyond Dan this quarter to</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/31-1
+00:02:30.950 --> 00:02:35.920
+<v Van Valkenhoef, Terrence>support that activity.
+I know we have dependencies on Tommi for</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/31-2
+00:02:35.920 --> 00:02:41.823
+<v Van Valkenhoef, Terrence>completing system design features.
+I know we have competing priorities that</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/31-3
+00:02:41.823 --> 00:02:43.376
+<v Van Valkenhoef, Terrence>will get on the way.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/32-0
+00:02:43.496 --> 00:02:45.856
+<v Van Valkenhoef, Terrence>Like power five and no control switch.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/33-0
+00:02:47.136 --> 00:02:52.040
+<v Van Valkenhoef, Terrence>So at this point is, you know,
+best said for in my mind,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/33-1
+00:02:52.040 --> 00:02:58.922
+<v Van Valkenhoef, Terrence>time to accommodate NCIS development in
+observe this quarter in support of that</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/33-2
+00:02:58.922 --> 00:02:59.696
+<v Van Valkenhoef, Terrence>activity.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/34-0
+00:03:01.696 --> 00:03:09.696
+<v Van Valkenhoef, Terrence>I can maybe also add that we now have
+features loaded into ADS.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/35-0
+00:03:11.296 --> 00:03:18.437
+<v Van Valkenhoef, Terrence>Those have been reviewed by Vineet team.
+Some feedback has been provided.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/35-1
+00:03:18.437 --> 00:03:25.482
+<v Van Valkenhoef, Terrence>Next step is to review what we said to
+that mean we should change in the</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/35-2
+00:03:25.482 --> 00:03:26.736
+<v Van Valkenhoef, Terrence>requirements.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/36-0
+00:03:28.256 --> 00:03:33.136
+<v Van Valkenhoef, Terrence>to make sure that we're fully aligned
+across product management and engineering.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/37-0
+00:03:35.216 --> 00:03:41.106
+<v Van Valkenhoef, Terrence>And we should probably start reviewing
+those requirements with networks at this</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/37-1
+00:03:41.106 --> 00:03:42.136
+<v Van Valkenhoef, Terrence>point in time.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/38-0
+00:03:44.336 --> 00:03:47.869
+<v Van Valkenhoef, Terrence>Here,
+we also have a CR with networks to secure</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/38-1
+00:03:47.869 --> 00:03:51.769
+<v Van Valkenhoef, Terrence>resources.
+There is some amount of work they need to</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/38-2
+00:03:51.769 --> 00:03:53.976
+<v Van Valkenhoef, Terrence>do in support of this project.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/39-0
+00:03:54.896 --> 00:04:00.278
+<v Van Valkenhoef, Terrence>I don't know if you were on that call
+with Vineet the other day.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/39-1
+00:04:00.278 --> 00:04:05.825
+<v Van Valkenhoef, Terrence>It is limited to creating a
+sub-certification authority within HSM</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/39-2
+00:04:05.825 --> 00:04:09.136
+<v Van Valkenhoef, Terrence>for the purpose of signing certificates.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/41-0
+00:04:11.696 --> 00:04:17.077
+<v Van Valkenhoef, Terrence>So that that work needs to be done.
+I don't know that we have yet commitments</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/40-0
+00:04:12.056 --> 00:04:12.456
+<v Zimanyi, Peter>OK.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/41-1
+00:04:17.077 --> 00:04:21.216
+<v Van Valkenhoef, Terrence>from networks to do that work by any
+particular time frame.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/42-0
+00:04:23.416 --> 00:04:23.896
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/43-0
+00:04:24.936 --> 00:04:27.861
+<v Zimanyi, Peter>Terrence,
+do you have something that shows the</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/43-1
+00:04:27.861 --> 00:04:31.656
+<v Zimanyi, Peter>network program and the Outcomes program
+next to each other?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/45-0
+00:04:32.736 --> 00:04:37.536
+<v Zimanyi, Peter>Because you mentioned end of year,
+so what's the milestone end of year?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/44-0
+00:04:35.216 --> 00:04:35.616
+<v Van Valkenhoef, Terrence>Yeah.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/45-1
+00:04:37.536 --> 00:04:39.736
+<v Zimanyi, Peter>Is that, what is it representing?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/47-0
+00:04:41.656 --> 00:04:45.999
+<v Zimanyi, Peter>Is that the finish of the end-to-end
+testing or the start of the end-to-end</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/46-0
+00:04:45.216 --> 00:04:45.296
+<v Van Valkenhoef, Terrence>EE.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/47-1
+00:04:45.999 --> 00:04:46.456
+<v Zimanyi, Peter>testing?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/48-0
+00:04:47.456 --> 00:04:53.624
+<v Van Valkenhoef, Terrence>So, by then,
+we should have done end-to-end testing,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/48-1
+00:04:53.624 --> 00:04:58.744
+<v Van Valkenhoef, Terrence>and this is really a question for
+networks.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/48-2
+00:04:58.744 --> 00:05:06.656
+<v Van Valkenhoef, Terrence>End of year is production release of
+UtiloS 58X and X is left at X.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/49-0
+00:05:06.936 --> 00:05:13.142
+<v Van Valkenhoef, Terrence>on purpose, so we don't know we need it.
+And not relevant for this project,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/49-1
+00:05:13.142 --> 00:05:17.877
+<v Van Valkenhoef, Terrence>but also Gen. 5 Riba 3.1.4.
+We care only in this project,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/49-2
+00:05:17.877 --> 00:05:23.021
+<v Van Valkenhoef, Terrence>we only care about UtiloS.
+So whatever networks needs to do to</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/49-3
+00:05:23.021 --> 00:05:26.776
+<v Van Valkenhoef, Terrence>release that firmware by the end of the
+year.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/50-0
+00:05:29.136 --> 00:05:34.702
+<v Van Valkenhoef, Terrence>I have to think that they would want full
+end-to-end validation before they release</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/50-1
+00:05:34.702 --> 00:05:35.696
+<v Van Valkenhoef, Terrence>that framework.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/51-0
+00:05:39.576 --> 00:05:40.056
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/52-0
+00:05:43.416 --> 00:05:47.336
+<v Zimanyi, Peter>And do we know what's their development
+readiness?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/53-0
+00:05:48.536 --> 00:05:53.656
+<v Zimanyi, Peter>Are they doing development right now,
+just waiting for us to complete?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/54-0
+00:05:54.336 --> 00:06:01.536
+<v Van Valkenhoef, Terrence>They have included the requested features
+in Filward 580.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/57-0
+00:06:02.696 --> 00:06:08.526
+<v Van Valkenhoef, Terrence>It has not been tested,
+because obviously we don't have support</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/57-1
+00:06:08.526 --> 00:06:15.448
+<v Van Valkenhoef, Terrence>in-app services for those features.
+There's no way for networks to validate</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/57-2
+00:06:15.448 --> 00:06:21.459
+<v Van Valkenhoef, Terrence>what they did is correct.
+But they did build the features per our</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/56-0
+00:06:17.936 --> 00:06:18.296
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/57-3
+00:06:21.459 --> 00:06:22.096
+<v Van Valkenhoef, Terrence>design.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/58-0
+00:06:22.576 --> 00:06:24.176
+<v Van Valkenhoef, Terrence>Document specifications.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/59-0
+00:06:25.496 --> 00:06:25.976
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/61-0
+00:06:26.656 --> 00:06:30.352
+<v Van Valkenhoef, Terrence>Yeah,
+in the event that we find out that there</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/61-1
+00:06:30.352 --> 00:06:35.856
+<v Van Valkenhoef, Terrence>is a need for changes in UtiloS,
+that will trigger data 58 something.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/60-0
+00:06:37.056 --> 00:06:37.416
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/62-0
+00:06:37.696 --> 00:06:37.936
+<v Van Valkenhoef, Terrence>Bye.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/63-0
+00:06:40.016 --> 00:06:43.626
+<v Van Valkenhoef, Terrence>So,
+networks is on this one is ahead of the</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/63-1
+00:06:43.626 --> 00:06:49.860
+<v Van Valkenhoef, Terrence>ahead of the curve on on the right?
+There is again some amount of work they</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/63-2
+00:06:49.860 --> 00:06:54.536
+<v Van Valkenhoef, Terrence>need to do in HSM,
+and that that work has not been done.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/64-0
+00:06:56.256 --> 00:06:58.216
+<v Zimanyi, Peter>And the HSM is Peter Hand.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/65-0
+00:06:58.936 --> 00:06:59.936
+<v Van Valkenhoef, Terrence>Peter Hunt, yes.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/66-0
+00:07:02.296 --> 00:07:02.696
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/68-0
+00:07:04.736 --> 00:07:05.496
+<v Facker, Dan>Is there a...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/67-0
+00:07:05.496 --> 00:07:05.536
+<v Zimanyi, Peter>EE.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/69-0
+00:07:06.856 --> 00:07:09.056
+<v Facker, Dan>Need your firmware component of that.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/71-0
+00:07:10.096 --> 00:07:11.296
+<v Van Valkenhoef, Terrence>No, there's none.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/70-0
+00:07:10.216 --> 00:07:10.656
+<v Facker, Dan>What?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/72-0
+00:07:12.896 --> 00:07:13.216
+<v Facker, Dan>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/73-0
+00:07:16.816 --> 00:07:25.398
+<v Srivastava, Vineet>When is the like integration testing?
+By integration I mean DI plus network</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/73-1
+00:07:25.398 --> 00:07:31.608
+<v Srivastava, Vineet>which is the Riva Gen.
+5314 util OS and our component.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/73-2
+00:07:31.608 --> 00:07:36.576
+<v Srivastava, Vineet>What's the integration time frame for
+that?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/74-0
+00:07:38.776 --> 00:07:43.096
+<v Van Valkenhoef, Terrence>I had a hard time hearing you, Vineet.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/75-0
+00:07:44.096 --> 00:07:49.901
+<v Srivastava, Vineet>So my question is when is the our
+integration with the network would happen?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/75-1
+00:07:49.901 --> 00:07:51.936
+<v Srivastava, Vineet>Like what's the time frame?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/76-0
+00:07:53.896 --> 00:08:00.003
+<v Van Valkenhoef, Terrence>Well, they they are ready to go again.
+They they introduce the NMNTT features in</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/76-1
+00:08:00.003 --> 00:08:03.696
+<v Van Valkenhoef, Terrence>UtilOS,
+so that the the UtilOS firmware is ready</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/76-2
+00:08:03.696 --> 00:08:05.656
+<v Van Valkenhoef, Terrence>to go. I I think at least.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/79-0
+00:08:04.816 --> 00:08:08.499
+<v Srivastava, Vineet>No, but see,
+even given like the app server will be</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/79-1
+00:08:08.499 --> 00:08:12.181
+<v Srivastava, Vineet>start to work on Q4,
+and we are also not ready. So,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/77-0
+00:08:10.216 --> 00:08:10.616
+<v Van Valkenhoef, Terrence>Yeah.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/79-2
+00:08:12.181 --> 00:08:16.076
+<v Srivastava, Vineet>what my question is,
+what time frame we should target,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/79-3
+00:08:16.076 --> 00:08:21.104
+<v Srivastava, Vineet>then we should have all the feature
+complete so that we can start some</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/79-4
+00:08:21.104 --> 00:08:23.016
+<v Srivastava, Vineet>integration with with with.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/80-0
+00:08:23.136 --> 00:08:26.896
+<v Srivastava, Vineet>Gen. 5, and then the util is so.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/78-0
+00:08:23.176 --> 00:08:23.736
+<v Van Valkenhoef, Terrence>Yes.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/82-0
+00:08:27.496 --> 00:08:30.920
+<v Van Valkenhoef, Terrence>Right,
+so that's part of piecing together a</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/82-1
+00:08:30.920 --> 00:08:35.976
+<v Van Valkenhoef, Terrence>high-level plan, right?
+As what we need to work on on this call.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/81-0
+00:08:32.736 --> 00:08:33.536
+<v Srivastava, Vineet>Right, right.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/84-0
+00:08:36.816 --> 00:08:40.933
+<v Srivastava, Vineet>Okay,
+and so one more question regarding so the</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/84-1
+00:08:40.933 --> 00:08:47.966
+<v Srivastava, Vineet>so Gen. 5 Riva will not be used as it is,
+so which is the current version, right?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/84-2
+00:08:47.966 --> 00:08:53.970
+<v Srivastava, Vineet>So Dina should be interact,
+Dina should make sure that the version of</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/84-3
+00:08:53.970 --> 00:08:55.256
+<v Srivastava, Vineet>Gen. 5 Riva is.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/86-0
+00:08:55.336 --> 00:08:59.656
+<v Srivastava, Vineet>314, otherwise don't do anything.
+Is that a requirement?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/85-0
+00:08:58.736 --> 00:08:59.016
+<v Van Valkenhoef, Terrence>Mm.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/87-0
+00:08:59.976 --> 00:09:03.216
+<v Van Valkenhoef, Terrence>No, no, no, no, not at all, so the...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/88-0
+00:09:04.696 --> 00:09:08.696
+<v Van Valkenhoef, Terrence>There is no new...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/90-0
+00:09:09.656 --> 00:09:15.016
+<v Van Valkenhoef, Terrence>Fisher in Gen. Five,
+we were needed for this project, yeah.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/89-0
+00:09:12.776 --> 00:09:14.616
+<v Srivastava, Vineet>OKOKOK.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/94-0
+00:09:16.576 --> 00:09:20.759
+<v Srivastava, Vineet>Maybe that's a current version, right?
+So then,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/94-1
+00:09:20.759 --> 00:09:27.469
+<v Srivastava, Vineet>so I'm just trying to make understand,
+like when they have this project Gen.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/91-0
+00:09:25.736 --> 00:09:26.216
+<v Van Valkenhoef, Terrence>Mhm.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/94-2
+00:09:27.469 --> 00:09:33.046
+<v Srivastava, Vineet>Five P14 Util OS 58X,
+so that means the current version of Gen.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/94-3
+00:09:33.046 --> 00:09:37.142
+<v Srivastava, Vineet>Five,
+making sure it's is integrated with with</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/92-0
+00:09:33.336 --> 00:09:33.656
+<v Van Valkenhoef, Terrence>Oops.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/94-4
+00:09:37.142 --> 00:09:38.536
+<v Srivastava, Vineet>the util OS, so.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/93-0
+00:09:37.936 --> 00:09:38.216
+<v Van Valkenhoef, Terrence>Yeah.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/95-0
+00:09:38.656 --> 00:09:41.456
+<v Srivastava, Vineet>There is a communication between these
+two devices. OK.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/98-0
+00:09:41.256 --> 00:09:48.981
+<v Van Valkenhoef, Terrence>Yeah, we have only depends on UtilOS now.
+If it's making it easier for us to test,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/96-0
+00:09:47.216 --> 00:09:47.376
+<v Srivastava, Vineet>Ashish.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/98-1
+00:09:48.981 --> 00:09:56.520
+<v Van Valkenhoef, Terrence>because I don't know if you want to test
+multiple versions of Gen. 5 Srivastava.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/98-2
+00:09:56.520 --> 00:10:00.056
+<v Van Valkenhoef, Terrence>At the end, all customers are expected</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/97-0
+00:10:00.176 --> 00:10:00.216
+<v Srivastava, Vineet>I.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/99-0
+00:10:03.776 --> 00:10:04.256
+<v Srivastava, Vineet>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/101-0
+00:10:04.416 --> 00:10:10.374
+<v Van Valkenhoef, Terrence>A number of different features that we
+want to deliver to all these accounts</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/100-0
+00:10:05.736 --> 00:10:05.856
+<v Srivastava, Vineet>Yeah.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/101-1
+00:10:10.374 --> 00:10:13.856
+<v Van Valkenhoef, Terrence>next year.
+So they will all converge to 314.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/102-0
+00:10:15.376 --> 00:10:15.816
+<v Srivastava, Vineet>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/105-0
+00:10:15.776 --> 00:10:19.326
+<v Van Valkenhoef, Terrence>So,
+so if it reduces the amount of work that</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/104-0
+00:10:19.256 --> 00:10:19.376
+<v Srivastava, Vineet>Yeah.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/105-1
+00:10:19.326 --> 00:10:23.350
+<v Van Valkenhoef, Terrence>we need to do,
+we can we can say we will only test</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/105-2
+00:10:23.350 --> 00:10:24.296
+<v Van Valkenhoef, Terrence>against 314.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/106-0
+00:10:27.456 --> 00:10:27.856
+<v Srivastava, Vineet>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/107-0
+00:10:37.256 --> 00:10:37.696
+<v Zimanyi, Peter>All right.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/109-0
+00:10:40.256 --> 00:10:45.605
+<v Zimanyi, Peter>So, Terrence, do we have the requirements?
+Sorry, I think you mentioned that,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/109-1
+00:10:45.605 --> 00:10:50.885
+<v Zimanyi, Peter>but let me let me check again. So,
+do we have the requirements ready for all</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/109-2
+00:10:50.885 --> 00:10:51.776
+<v Zimanyi, Peter>of our teams?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/110-0
+00:10:52.736 --> 00:10:54.576
+<v Van Valkenhoef, Terrence>Yeah, yes, the requirements are in.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/111-0
+00:10:55.616 --> 00:10:59.536
+<v Zimanyi, Peter>Awesome. OK, do can you?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/115-0
+00:10:58.816 --> 00:11:02.440
+<v Facker, Dan>Well,
+we need to boil down those requirements</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/115-1
+00:11:02.440 --> 00:11:06.221
+<v Facker, Dan>into features.
+So we're looking for some system</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/112-0
+00:11:03.376 --> 00:11:03.936
+<v Van Valkenhoef, Terrence>Yes.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/115-2
+00:11:06.221 --> 00:11:11.813
+<v Facker, Dan>engineering support for that.
+So I'm not entirely confident yet I know</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/113-0
+00:11:08.096 --> 00:11:08.576
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/115-3
+00:11:11.813 --> 00:11:14.176
+<v Facker, Dan>how much work this will be. So</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/114-0
+00:11:15.136 --> 00:11:16.336
+<v Zimanyi, Peter>Got it, got it.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/116-0
+00:11:18.096 --> 00:11:20.736
+<v Zimanyi, Peter>So I'm going to try to sketch something.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/118-0
+00:11:26.016 --> 00:11:26.496
+<v Zimanyi, Peter>Some.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/121-0
+00:11:28.416 --> 00:11:33.696
+<v Zimanyi, Peter>So we're in Q3 and we need Tommi,
+we need design work.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/123-0
+00:11:35.376 --> 00:11:38.736
+<v Zimanyi, Peter>From Tommi, right then?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/124-0
+00:11:40.896 --> 00:11:41.776
+<v Facker, Dan>Yeah, that's correct.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/126-0
+00:11:43.376 --> 00:11:43.856
+<v Zimanyi, Peter>And.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/128-0
+00:11:45.856 --> 00:11:49.216
+<v Zimanyi, Peter>Do we have on a high level what are the
+key things or?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/129-0
+00:11:50.376 --> 00:11:52.096
+<v Zimanyi, Peter>Embel is them, or are they?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/131-0
+00:11:53.376 --> 00:11:54.896
+<v Zimanyi, Peter>Too much to put it on this table.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/132-0
+00:11:56.176 --> 00:11:56.656
+<v Facker, Dan>Hello.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/135-0
+00:12:00.176 --> 00:12:05.856
+<v Facker, Dan>I think probably not appropriate for this
+table. We could probably just go with.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/136-0
+00:12:06.576 --> 00:12:07.056
+<v Zimanyi, Peter>OK.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/138-0
+00:12:08.576 --> 00:12:11.136
+<v Facker, Dan>Design work for for this solution.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/140-0
+00:12:11.936 --> 00:12:15.076
+<v Zimanyi, Peter>Okay,
+so we got design and we do some</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/140-1
+00:12:15.076 --> 00:12:16.976
+<v Zimanyi, Peter>development after that.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/141-0
+00:12:18.976 --> 00:12:19.456
+<v Zimanyi, Peter>Um...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/144-0
+00:12:20.656 --> 00:12:24.976
+<v Zimanyi, Peter>So are we expecting to finish everything
+by end of Q3?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/145-0
+00:12:27.296 --> 00:12:29.376
+<v Zimanyi, Peter>Or do we expect more development?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/146-0
+00:12:28.176 --> 00:12:29.856
+<v Facker, Dan>I'm not committed to that yet.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/148-0
+00:12:30.656 --> 00:12:31.136
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/152-0
+00:12:30.816 --> 00:12:35.696
+<v Facker, Dan>Not committed to that yet,
+but that's desire. Let's put it that way.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/149-0
+00:12:33.536 --> 00:12:34.096
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/155-0
+00:12:36.656 --> 00:12:40.025
+<v Zimanyi, Peter>Okay,
+so that is dependent on what the design</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/155-1
+00:12:40.025 --> 00:12:41.856
+<v Zimanyi, Peter>work will show us, right?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/154-0
+00:12:41.856 --> 00:12:42.496
+<v Facker, Dan>Exactly.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/156-0
+00:12:44.336 --> 00:12:44.736
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/158-0
+00:12:47.136 --> 00:12:47.296
+<v Zimanyi, Peter>Um...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/165-0
+00:13:01.296 --> 00:13:05.696
+<v Zimanyi, Peter>And the design work is dependent on Tommi,
+so...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/167-0
+00:13:07.856 --> 00:13:10.895
+<v Zimanyi, Peter>Are we sure no one else can do that?
+I know Tommi is out.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/167-1
+00:13:10.895 --> 00:13:12.256
+<v Zimanyi, Peter>Do we know when he's back?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/170-0
+00:13:14.256 --> 00:13:16.096
+<v Facker, Dan>End of next week, yeah.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/168-0
+00:13:14.496 --> 00:13:15.136
+<v Van Valkenhoef, Terrence>Looks like.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/171-0
+00:13:16.016 --> 00:13:16.416
+<v Van Valkenhoef, Terrence>Yeah.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/172-0
+00:13:17.536 --> 00:13:18.496
+<v Zimanyi, Peter>He's here next week.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/174-0
+00:13:19.056 --> 00:13:20.416
+<v Facker, Dan>No, he was out next week.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/173-0
+00:13:19.816 --> 00:13:20.096
+<v Van Valkenhoef, Terrence>No.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/176-0
+00:13:22.096 --> 00:13:23.136
+<v Zimanyi, Peter>He's out next week.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/177-0
+00:13:22.136 --> 00:13:23.456
+<v Facker, Dan>He'll be back the week after again.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/181-0
+00:13:24.416 --> 00:13:29.758
+<v Zimanyi, Peter>Okay, so basically,
+and did he provide any like lead time?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/181-1
+00:13:29.758 --> 00:13:36.096
+<v Zimanyi, Peter>Does he need a week or two weeks or more
+to do that? Do we know that?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/182-0
+00:13:38.176 --> 00:13:39.176
+<v Facker, Dan>I don't know the answer.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/183-0
+00:13:39.776 --> 00:13:40.176
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/185-0
+00:13:41.056 --> 00:13:45.002
+<v Van Valkenhoef, Terrence>Wait, wait, we, we don't,
+there are also new requirements that he</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/185-1
+00:13:45.002 --> 00:13:46.496
+<v Van Valkenhoef, Terrence>has not seen, by the way.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/188-0
+00:13:53.856 --> 00:13:54.416
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/189-0
+00:13:56.496 --> 00:13:57.936
+<v Van Valkenhoef, Terrence>Yeah, I am.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/196-0
+00:13:58.976 --> 00:14:04.598
+<v Van Valkenhoef, Terrence>Not sure if you knew that there was a
+security threat analysis done last</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/196-1
+00:14:04.598 --> 00:14:10.296
+<v Van Valkenhoef, Terrence>quarter. Out of that assessment,
+there were a number of features that our</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/196-2
+00:14:10.296 --> 00:14:16.072
+<v Van Valkenhoef, Terrence>InfoSec and the networks team requested
+as mandatory requirements for this</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/196-3
+00:14:16.072 --> 00:14:19.768
+<v Van Valkenhoef, Terrence>solution.
+So those are part of the requirements</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/196-4
+00:14:19.768 --> 00:14:21.616
+<v Van Valkenhoef, Terrence>they capture in ADS, but</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/197-0
+00:14:21.696 --> 00:14:24.926
+<v Van Valkenhoef, Terrence>Tommi has not seen them and he needs to
+create features,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/197-1
+00:14:24.926 --> 00:14:27.136
+<v Van Valkenhoef, Terrence>system features for those requirements.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/199-0
+00:14:28.576 --> 00:14:28.976
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/201-0
+00:14:31.656 --> 00:14:35.456
+<v Zimanyi, Peter>All right, so for a second, let's assume.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/202-0
+00:14:36.656 --> 00:14:37.216
+<v Zimanyi, Peter>At.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/207-0
+00:14:40.256 --> 00:14:46.336
+<v Zimanyi, Peter>Tommi is doing his part and even
+development can be completed by end of Q3.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/207-1
+00:14:46.336 --> 00:14:49.856
+<v Zimanyi, Peter>So what would App Service need to do in
+Q4?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/207-2
+00:14:49.856 --> 00:14:53.856
+<v Zimanyi, Peter>Is that bug fix support or some
+integration work?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/208-0
+00:14:55.696 --> 00:14:56.256
+<v Zimanyi, Peter>Pulse.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/211-0
+00:14:57.136 --> 00:15:00.558
+<v Van Valkenhoef, Terrence>Well,
+I I don't know that Dan has the capacity</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/211-1
+00:15:00.558 --> 00:15:04.416
+<v Van Valkenhoef, Terrence>to do this work in Q.T. right,
+that you you have it.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/212-0
+00:15:03.696 --> 00:15:05.696
+<v Zimanyi, Peter>No, no, no, no, Q4, Q4.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/215-0
+00:15:06.656 --> 00:15:09.669
+<v Facker, Dan>You're asking about if we finish,
+what would be left?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/213-0
+00:15:06.976 --> 00:15:07.536
+<v Zimanyi, Peter>Sorry.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/215-1
+00:15:09.669 --> 00:15:12.736
+<v Facker, Dan>I don't know the answer to that yet,
+obviously, but...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/217-0
+00:15:15.296 --> 00:15:19.136
+<v Facker, Dan>This, I assume,
+is all part of the 314 program, right?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/219-0
+00:15:21.856 --> 00:15:22.416
+<v Van Valkenhoef, Terrence>Yes.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/220-0
+00:15:22.896 --> 00:15:23.616
+<v Facker, Dan>And so...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/223-0
+00:15:24.576 --> 00:15:30.787
+<v Facker, Dan>That's a lot of stuff in it,
+so we'll be busy definitely through Q4 on</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/223-1
+00:15:30.787 --> 00:15:31.136
+<v Facker, Dan>314.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/225-0
+00:15:32.576 --> 00:15:35.889
+<v Zimanyi, Peter>Yeah,
+but what is what what work is involved in</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/225-1
+00:15:35.889 --> 00:15:38.788
+<v Zimanyi, Peter>that?
+Is it development or just fixing or</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/225-2
+00:15:38.788 --> 00:15:39.616
+<v Zimanyi, Peter>integration?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/226-0
+00:15:40.656 --> 00:15:41.696
+<v Zimanyi, Peter>In the type of work.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/228-0
+00:15:43.656 --> 00:15:46.416
+<v Facker, Dan>Probably integration and bug fixing by
+Q4O.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/230-0
+00:15:50.896 --> 00:15:51.296
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/232-0
+00:15:54.336 --> 00:15:54.376
+<v Zimanyi, Peter>EE.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/234-0
+00:15:56.096 --> 00:15:58.576
+<v Zimanyi, Peter>Okay, so that's app serve on a high level.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/235-0
+00:16:00.096 --> 00:16:01.056
+<v Zimanyi, Peter>And we have.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/237-0
+00:16:02.696 --> 00:16:03.936
+<v Zimanyi, Peter>Do we have Dina, right?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/238-0
+00:16:04.816 --> 00:16:05.296
+<v Van Valkenhoef, Terrence>Mmh.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/245-0
+00:16:06.256 --> 00:16:09.795
+<v Zimanyi, Peter>So we need,
+I think I heard you were saying that</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/245-1
+00:16:09.795 --> 00:16:14.995
+<v Zimanyi, Peter>there's development ongoing,
+although you have dependency on app serve,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/241-0
+00:16:12.856 --> 00:16:13.216
+<v Srivastava, Vineet>Yes.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/245-2
+00:16:14.995 --> 00:16:20.483
+<v Zimanyi, Peter>but you were able to get some details,
+assuming that those will not change.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/245-3
+00:16:20.483 --> 00:16:24.816
+<v Zimanyi, Peter>You will not need to change so much when
+app serve is done.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/249-0
+00:16:24.576 --> 00:16:28.679
+<v Srivastava, Vineet>Yeah, yeah,
+so there is a there's a requirement,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/249-1
+00:16:28.679 --> 00:16:35.125
+<v Srivastava, Vineet>like go some package request response,
+so those are all documented in system</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/249-2
+00:16:35.125 --> 00:16:39.646
+<v Srivastava, Vineet>design, and Tommi did that,
+and there are a few left,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/249-3
+00:16:39.646 --> 00:16:42.576
+<v Srivastava, Vineet>like those we need a discussion on.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/254-0
+00:16:43.936 --> 00:16:47.581
+<v Srivastava, Vineet>Further continue,
+then the dependency with Tommi,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/250-0
+00:16:45.776 --> 00:16:46.256
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/254-1
+00:16:47.581 --> 00:16:52.246
+<v Srivastava, Vineet>but with the app start,
+we are like based on the on the request</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/254-2
+00:16:52.246 --> 00:16:53.776
+<v Srivastava, Vineet>from the response we.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/256-0
+00:16:53.136 --> 00:16:55.993
+<v Zimanyi, Peter>I'm sorry, Vineet,
+I have to stop you there,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/256-1
+00:16:55.993 --> 00:17:00.816
+<v Zimanyi, Peter>so I can't hear you very clearly.
+Your voice is low. Okay, it's better now.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/262-0
+00:16:58.176 --> 00:17:06.415
+<v Srivastava, Vineet>Okay, am I? Is it? It's okay,
+so we do have some dependency on this</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/262-1
+00:17:06.415 --> 00:17:14.896
+<v Srivastava, Vineet>design part based on the template. Yeah,
+yes, so that's what we need.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/259-0
+00:17:09.776 --> 00:17:11.856
+<v Zimanyi, Peter>On Tommy's Tommy's design.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/260-0
+00:17:13.016 --> 00:17:13.376
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/268-0
+00:17:15.216 --> 00:17:21.371
+<v Srivastava, Vineet>I already added as a dependency,
+so that should be in place for further to</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/268-1
+00:17:21.371 --> 00:17:26.459
+<v Srivastava, Vineet>us to continue the development,
+and what we are hoping, like,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/265-0
+00:17:25.136 --> 00:17:25.616
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/268-2
+00:17:26.459 --> 00:17:31.793
+<v Srivastava, Vineet>by the time App Service is ready,
+we can do integration testing,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/268-3
+00:17:31.793 --> 00:17:34.336
+<v Srivastava, Vineet>so we plan to do it Q3, but Q3.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/271-0
+00:17:34.976 --> 00:17:37.850
+<v Srivastava, Vineet>that it won't happen. So yeah,
+we'll in Q4,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/271-1
+00:17:37.850 --> 00:17:43.205
+<v Srivastava, Vineet>there would be some effort in case of the
+issues coming out from the integration,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/271-2
+00:17:43.205 --> 00:17:44.576
+<v Srivastava, Vineet>but that's something.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/274-0
+00:17:46.776 --> 00:17:51.020
+<v Srivastava, Vineet>We don't want to get blocked.
+There is definitely a dependency.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/274-1
+00:17:51.020 --> 00:17:56.656
+<v Srivastava, Vineet>We cannot do actual testing on the device.
+So that is something will be moved to Q4.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/280-0
+00:17:57.696 --> 00:18:01.816
+<v Zimanyi, Peter>Okay,
+so that so that part is dependent on app</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/280-1
+00:18:01.816 --> 00:18:09.178
+<v Zimanyi, Peter>serve and you've mentioned the dependency
+on Tommi's design can change change could</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/276-0
+00:18:02.256 --> 00:18:02.576
+<v Srivastava, Vineet>Rai.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/278-0
+00:18:07.016 --> 00:18:08.056
+<v Srivastava, Vineet>No, Miss Dezsenyi.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/280-2
+00:18:09.178 --> 00:18:11.456
+<v Zimanyi, Peter>can change things for you.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/281-0
+00:18:12.576 --> 00:18:13.616
+<v Srivastava, Vineet>Yes, so we.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/284-0
+00:18:13.056 --> 00:18:19.416
+<v Van Valkenhoef, Terrence>And the dependency Vineet is on the push
+API.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/283-0
+00:18:18.336 --> 00:18:18.816
+<v Srivastava, Vineet>Goodnight.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/286-0
+00:18:20.296 --> 00:18:20.736
+<v Srivastava, Vineet>Right.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/288-0
+00:18:21.616 --> 00:18:25.121
+<v Van Valkenhoef, Terrence>Alright,
+so that part of the design is captured in</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/288-1
+00:18:25.121 --> 00:18:26.976
+<v Van Valkenhoef, Terrence>his system design document.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/291-0
+00:18:27.776 --> 00:18:33.816
+<v Van Valkenhoef, Terrence>So that at least that portion of the app
+services development is not blocked.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/290-0
+00:18:30.816 --> 00:18:31.936
+<v Srivastava, Vineet>Also, yeah.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/298-0
+00:18:34.976 --> 00:18:38.459
+<v Gupta, Ishank>No, it's not complete.
+It's not complete document.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/293-0
+00:18:35.376 --> 00:18:35.856
+<v Srivastava, Vineet>Yeah.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/298-1
+00:18:38.459 --> 00:18:41.601
+<v Gupta, Ishank>So Tommi knows like there are things
+missing.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/294-0
+00:18:39.456 --> 00:18:39.736
+<v Srivastava, Vineet>G.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/298-2
+00:18:41.601 --> 00:18:46.176
+<v Gupta, Ishank>Not all the custom APIs are defined in
+the system design document.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/297-0
+00:18:46.336 --> 00:18:46.816
+<v Van Valkenhoef, Terrence>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/301-0
+00:18:56.576 --> 00:18:56.976
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/302-0
+00:18:58.896 --> 00:18:59.456
+<v Zimanyi, Peter>All right.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/311-0
+00:19:03.696 --> 00:19:08.573
+<v Srivastava, Vineet>And for for one one thing for Dino,
+so Dino will continue to have</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/304-0
+00:19:03.896 --> 00:19:04.576
+<v Zimanyi, Peter>Okay, and...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/306-0
+00:19:05.616 --> 00:19:05.776
+<v Zimanyi, Peter>M.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/311-1
+00:19:08.573 --> 00:19:13.893
+<v Srivastava, Vineet>implementation or development in Q4 along
+with the integration testing,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/311-2
+00:19:13.893 --> 00:19:18.696
+<v Srivastava, Vineet>so we can have half a block for the
+development and for testing.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/308-0
+00:19:14.736 --> 00:19:15.296
+<v Zimanyi, Peter>Got it.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/312-0
+00:19:20.336 --> 00:19:20.656
+<v Srivastava, Vineet>Yeah.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/313-0
+00:19:22.256 --> 00:19:24.176
+<v Zimanyi, Peter>Is it overlapping or is it?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/316-0
+00:19:24.056 --> 00:19:28.958
+<v Srivastava, Vineet>It will be, yeah, it will be overlapping,
+so we can continue to test and,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/316-1
+00:19:28.958 --> 00:19:34.256
+<v Srivastava, Vineet>at the same time, develop other pieces,
+especially the two-party authorization.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/318-0
+00:19:38.256 --> 00:19:38.816
+<v Zimanyi, Peter>OK.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/320-0
+00:19:40.816 --> 00:19:41.216
+<v Zimanyi, Peter>All right.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/321-0
+00:19:43.056 --> 00:19:43.696
+<v Zimanyi, Peter>Um...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/323-0
+00:19:47.456 --> 00:19:47.536
+<v Srivastava, Vineet>Oh.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/325-0
+00:19:47.536 --> 00:19:52.816
+<v Zimanyi, Peter>Is there anything on the agent side?
+Any testing that needs to be done?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/327-0
+00:19:56.176 --> 00:19:57.056
+<v Srivastava, Vineet>But hope so.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/329-0
+00:19:56.496 --> 00:20:03.478
+<v Van Valkenhoef, Terrence>I think testing of the of the solution,
+so end-to-end should include an agent</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/329-1
+00:20:03.478 --> 00:20:05.536
+<v Van Valkenhoef, Terrence>that uses peer-to-peer.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/332-0
+00:20:08.256 --> 00:20:11.134
+<v Zimanyi, Peter>Okay,
+so only Logan's team will do testing</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/332-1
+00:20:11.134 --> 00:20:15.216
+<v Zimanyi, Peter>because there's no functional change in
+the agents required.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/333-0
+00:20:15.616 --> 00:20:16.896
+<v Van Valkenhoef, Terrence>There is no chance to it.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/335-0
+00:20:18.496 --> 00:20:19.056
+<v Zimanyi, Peter>All right.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/338-0
+00:20:23.616 --> 00:20:26.259
+<v Zimanyi, Peter>So, Logan,
+what are your thoughts you see in this in</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/338-1
+00:20:26.259 --> 00:20:27.056
+<v Zimanyi, Peter>the screen that?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/344-0
+00:20:30.176 --> 00:20:34.249
+<v Zimanyi, Peter>We don't have much confidence in the app
+serve,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/340-0
+00:20:32.576 --> 00:20:32.776
+<v Srivastava, Vineet>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/344-1
+00:20:34.249 --> 00:20:41.292
+<v Zimanyi, Peter>but also even DI is dependent on design.
+Integration can start in Q4 the earliest,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/344-2
+00:20:41.292 --> 00:20:46.976
+<v Zimanyi, Peter>but we're likely shifting based on what
+we find out along the way.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/345-0
+00:20:48.096 --> 00:20:48.416
+<v Zimanyi, Peter>Um...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/347-0
+00:20:50.176 --> 00:20:52.416
+<v Zimanyi, Peter>So, what are your questions?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/349-0
+00:20:54.016 --> 00:20:58.184
+<v Modahala, Logan>Yeah,
+so I want to get a complete solution</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/349-1
+00:20:58.184 --> 00:20:59.056
+<v Modahala, Logan>overview.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/355-0
+00:21:00.456 --> 00:21:08.449
+<v Modahala, Logan>if there is any document to understand,
+but from a timeline point of view,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/355-1
+00:21:08.449 --> 00:21:15.376
+<v Modahala, Logan>I think like we have to look at this and
+plan for in Q1 of 2027.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/356-0
+00:21:16.496 --> 00:21:17.776
+<v Zimanyi, Peter>Mhm, mhm.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/357-0
+00:21:19.136 --> 00:21:19.536
+<v Zimanyi, Peter>Yep.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/359-0
+00:21:19.776 --> 00:21:23.456
+<v Modahala, Logan>But if there are things that make sense
+to...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/362-0
+00:21:24.736 --> 00:21:28.688
+<v Modahala, Logan>check out like early from an
+understanding point of view from</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/362-1
+00:21:28.688 --> 00:21:32.256
+<v Modahala, Logan>developing knowledge it can happen as
+things get ready.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/366-0
+00:21:35.536 --> 00:21:41.340
+<v Modahala, Logan>But the actual testing will have to wait
+for everything to be completed.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/366-1
+00:21:41.340 --> 00:21:47.462
+<v Modahala, Logan>It doesn't make sense to do end-to-end
+and system test with only part of the</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/366-2
+00:21:47.462 --> 00:21:48.336
+<v Modahala, Logan>components.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/370-0
+00:21:49.536 --> 00:21:53.336
+<v Van Valkenhoef, Terrence>And, and Logan,
+I might there is environment set up work</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/370-1
+00:21:53.336 --> 00:21:57.536
+<v Van Valkenhoef, Terrence>that needs to be done.
+Is that something that we can do in Q4?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/369-0
+00:21:57.136 --> 00:21:57.176
+<v Facker, Dan>EE.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/373-0
+00:21:58.736 --> 00:22:02.262
+<v Modahala, Logan>Yes, the yeah,
+so that's what like actually we should</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/373-1
+00:22:02.262 --> 00:22:06.896
+<v Modahala, Logan>get a solution overview and things that
+we can get prepared for setup.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/375-0
+00:22:08.496 --> 00:22:13.376
+<v Modahala, Logan>And then actual test run, test execution,
+test design.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/376-0
+00:22:15.016 --> 00:22:15.496
+<v Van Valkenhoef, Terrence>Mhm.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/377-0
+00:22:15.616 --> 00:22:16.576
+<v Modahala, Logan>Those things, like...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/379-0
+00:22:17.936 --> 00:22:20.336
+<v Modahala, Logan>will be in Q1 of 2027.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/382-0
+00:22:23.256 --> 00:22:27.825
+<v Van Valkenhoef, Terrence>No,
+there's features that we can also get</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/382-1
+00:22:27.825 --> 00:22:29.456
+<v Van Valkenhoef, Terrence>doing Q4 in my.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/383-0
+00:22:30.976 --> 00:22:32.096
+<v Modahala, Logan>I'm sorry, come again?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/387-0
+00:22:31.936 --> 00:22:36.736
+<v Van Valkenhoef, Terrence>The test features or a test plan that we
+can do in Q4 as well, right?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/391-0
+00:22:38.696 --> 00:22:43.929
+<v Modahala, Logan>Yeah, whatever,
+whatever is ready to start setting up the</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/388-0
+00:22:41.216 --> 00:22:41.376
+<v Van Valkenhoef, Terrence>EE.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/391-1
+00:22:43.929 --> 00:22:46.816
+<v Modahala, Logan>environment, we can build it up.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/396-0
+00:22:48.256 --> 00:22:53.603
+<v Modahala, Logan>But if everything comes,
+integration testing completes in Q4,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/396-1
+00:22:53.603 --> 00:22:57.570
+<v Modahala, Logan>that is the acceptance point for system
+test.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/396-2
+00:22:57.570 --> 00:23:01.536
+<v Modahala, Logan>And so it's gated by the integration
+testing.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/394-0
+00:23:02.216 --> 00:23:02.896
+<v Van Valkenhoef, Terrence>Makes sense.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/398-0
+00:23:07.376 --> 00:23:10.096
+<v Zimanyi, Peter>I put some of these things in.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/399-0
+00:23:11.296 --> 00:23:12.656
+<v Zimanyi, Peter>overlapping each other.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/401-0
+00:23:15.296 --> 00:23:15.336
+<v Zimanyi, Peter>EE.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/402-0
+00:23:17.056 --> 00:23:17.696
+<v Modahala, Logan>Right.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/404-0
+00:23:18.736 --> 00:23:20.576
+<v Zimanyi, Peter>If that's okay with you.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/405-0
+00:23:19.136 --> 00:23:21.616
+<v Facker, Dan>Is this discussion including the too hot?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/407-0
+00:23:24.896 --> 00:23:24.936
+<v Van Valkenhoef, Terrence>EE.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/408-0
+00:23:25.016 --> 00:23:25.376
+<v Facker, Dan>Hello.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/412-0
+00:23:25.056 --> 00:23:28.304
+<v Modahala, Logan>Yeah,
+and there is one component like that.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/412-1
+00:23:28.304 --> 00:23:32.807
+<v Modahala, Logan>I don't think it is.
+I have to look at the overall solution.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/412-2
+00:23:32.807 --> 00:23:36.794
+<v Modahala, Logan>That's right.
+There is 1 component that I don't think</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/412-3
+00:23:36.794 --> 00:23:41.296
+<v Modahala, Logan>my team has the knowledge or skills or
+equipment to test it.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/414-0
+00:23:46.136 --> 00:23:48.336
+<v Zimanyi, Peter>Okay, which component is that?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/416-0
+00:23:48.896 --> 00:23:51.456
+<v Modahala, Logan>Yeah, let me bring up that e-mail.
+Hang on one second.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/418-0
+00:23:52.696 --> 00:23:54.576
+<v Modahala, Logan>Because there are different components.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/417-0
+00:23:52.896 --> 00:23:53.376
+<v Zimanyi, Peter>Hand.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/421-0
+00:23:55.136 --> 00:23:58.440
+<v Zimanyi, Peter>And Terrence,
+do we have that overview that Logan is</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/421-1
+00:23:58.440 --> 00:24:00.496
+<v Zimanyi, Peter>looking for, that solution level?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/423-0
+00:23:59.296 --> 00:24:02.438
+<v Van Valkenhoef, Terrence>Yeah,
+there is a solution document and a</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/423-1
+00:24:02.438 --> 00:24:04.736
+<v Van Valkenhoef, Terrence>systems design document, yeah.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/424-0
+00:24:05.536 --> 00:24:08.096
+<v Zimanyi, Peter>Could you put it in the chat, please?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/426-0
+00:24:08.736 --> 00:24:12.456
+<v Van Valkenhoef, Terrence>Uh, yeah, I have to dig it out.
+Give me a minute.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/430-0
+00:24:16.816 --> 00:24:21.108
+<v Kokkattil, Sajeev>So, as of now,
+there are six SSR assigned to Outcomes</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/430-1
+00:24:21.108 --> 00:24:24.843
+<v Kokkattil, Sajeev>Test. Out of that,
+two are from two whole P2P.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/430-2
+00:24:24.843 --> 00:24:28.816
+<v Kokkattil, Sajeev>One is power mode, one is immunity,
+and one is...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/436-0
+00:24:29.776 --> 00:24:35.939
+<v Kokkattil, Sajeev>Keep on and one regression,
+so everything will be available by end of</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/436-1
+00:24:35.939 --> 00:24:39.636
+<v Kokkattil, Sajeev>Q4,
+or is it like something can be tested</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/436-2
+00:24:39.636 --> 00:24:44.302
+<v Kokkattil, Sajeev>before that?
+The reason I am asking is like they are</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/436-3
+00:24:44.302 --> 00:24:49.936
+<v Kokkattil, Sajeev>keep on sending reminders for giving a
+date for these six SSRs.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/439-0
+00:24:56.176 --> 00:24:59.376
+<v Van Valkenhoef, Terrence>Sorry, I think I pick up,
+you were asking about ePone and...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/440-0
+00:25:01.216 --> 00:25:02.576
+<v Zimanyi, Peter>He put it in the chat.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/442-0
+00:25:04.176 --> 00:25:04.256
+<v Van Valkenhoef, Terrence>EE.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/446-0
+00:25:06.096 --> 00:25:08.589
+<v Kokkattil, Sajeev>Yeah,
+I can send this full subsystem</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/443-0
+00:25:06.416 --> 00:25:06.736
+<v Zimanyi, Peter>And...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/444-0
+00:25:07.696 --> 00:25:08.096
+<v Van Valkenhoef, Terrence>Yeah.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/446-1
+00:25:08.589 --> 00:25:09.936
+<v Kokkattil, Sajeev>requirement as well.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/448-0
+00:25:11.056 --> 00:25:17.456
+<v Van Valkenhoef, Terrence>So, as we are,
+Peter is only looking at NCIS and maybe...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/450-0
+00:25:18.496 --> 00:25:21.936
+<v Van Valkenhoef, Terrence>Maybe we should change that view, Peter,
+but I know that.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/454-0
+00:25:23.136 --> 00:25:30.816
+<v Van Valkenhoef, Terrence>You are not committed to managing to hop
+or EPON, and HPP is finished, by the way.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/452-0
+00:25:27.496 --> 00:25:27.856
+<v Modahala, Logan>S.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/458-0
+00:25:31.616 --> 00:25:35.856
+<v Zimanyi, Peter>And I'm not even committed for NCIS,
+just saying.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/456-0
+00:25:36.536 --> 00:25:36.976
+<v Van Valkenhoef, Terrence>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/457-0
+00:25:37.696 --> 00:25:38.016
+<v Srivastava, Vineet>Oh.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/465-0
+00:25:38.856 --> 00:25:45.365
+<v Van Valkenhoef, Terrence>No, my view on this,
+and this is what I told Claus and I told</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/465-1
+00:25:45.365 --> 00:25:51.243
+<v Van Valkenhoef, Terrence>Steve Hoynes,
+networks needs to own 2 hop peer-to-peer,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/460-0
+00:25:45.456 --> 00:25:45.776
+<v Kokkattil, Sajeev>Ohh.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/465-2
+00:25:51.243 --> 00:25:56.176
+<v Van Valkenhoef, Terrence>and they need to own EPON,
+meaning from a PMO.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/464-0
+00:25:57.216 --> 00:25:57.696
+<v Zimanyi, Peter>Mhm.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/468-0
+00:25:57.256 --> 00:26:00.412
+<v Van Valkenhoef, Terrence>perspective,
+they only manage those products and we</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/468-1
+00:26:00.412 --> 00:26:05.509
+<v Van Valkenhoef, Terrence>contribute. We're part of their core team.
+We don't have a project to support those</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/468-2
+00:26:05.509 --> 00:26:06.176
+<v Van Valkenhoef, Terrence>activities.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/475-0
+00:26:07.856 --> 00:26:14.374
+<v Van Valkenhoef, Terrence>The exception is NCIS, because NCIS has,
+for the most part, these outcomes content.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/475-1
+00:26:14.374 --> 00:26:18.719
+<v Van Valkenhoef, Terrence>And that's why NCIS,
+we kept it as an outcomes project,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/470-0
+00:26:15.056 --> 00:26:15.536
+<v Zimanyi, Peter>Mhm.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/475-2
+00:26:18.719 --> 00:26:23.296
+<v Van Valkenhoef, Terrence>but the other ones network should run
+with those projects.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/473-0
+00:26:24.256 --> 00:26:24.416
+<v Zimanyi, Peter>M.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/474-0
+00:26:25.176 --> 00:26:25.616
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/478-0
+00:26:25.296 --> 00:26:30.688
+<v Modahala, Logan>Yeah, so,
+so the I think like you're referring to</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/478-1
+00:26:30.688 --> 00:26:32.736
+<v Modahala, Logan>two hop P2P, right?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/477-0
+00:26:33.176 --> 00:26:33.376
+<v Van Valkenhoef, Terrence>Yeah.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/482-0
+00:26:34.416 --> 00:26:39.456
+<v Modahala, Logan>And then what about entity security,
+entity security?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/480-0
+00:26:34.736 --> 00:26:35.056
+<v Van Valkenhoef, Terrence>DI.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/483-0
+00:26:38.016 --> 00:26:40.336
+<v Van Valkenhoef, Terrence>And an entity is this?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/485-0
+00:26:42.776 --> 00:26:44.816
+<v Van Valkenhoef, Terrence>An entity is NCS.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/487-0
+00:26:43.136 --> 00:26:45.483
+<v Modahala, Logan>Yeah, Jessica, give me,
+let me move to a room,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/487-1
+00:26:45.483 --> 00:26:49.029
+<v Modahala, Logan>do a different room. I'm sorry,
+like there is like a lot of background</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/487-2
+00:26:49.029 --> 00:26:50.976
+<v Modahala, Logan>noise. I have cleaning crew in my home.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/489-0
+00:26:52.496 --> 00:26:56.096
+<v Modahala, Logan>So let me go up in a different room,
+I'm sorry.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/490-0
+00:26:57.496 --> 00:26:58.016
+<v Zimanyi, Peter>No worries.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/494-0
+00:26:58.816 --> 00:27:05.717
+<v Modahala, Logan>Okay, so there are two things, right?
+Like a security and two hop P2P.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/494-1
+00:27:05.717 --> 00:27:11.936
+<v Modahala, Logan>Those should go to network team.
+That's your assessment, right?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/497-0
+00:27:13.376 --> 00:27:20.044
+<v Van Valkenhoef, Terrence>as well as EPOM, yes. No, no, sorry,
+pardon. NM entity is NCIS.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/497-1
+00:27:20.044 --> 00:27:22.336
+<v Van Valkenhoef, Terrence>That's the same thing.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/501-0
+00:27:24.816 --> 00:27:31.409
+<v Van Valkenhoef, Terrence>Okay, and an entity, wicked entity,
+and this is what we're discussing now,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/499-0
+00:27:25.696 --> 00:27:26.256
+<v Modahala, Logan>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/501-1
+00:27:31.409 --> 00:27:31.936
+<v Van Valkenhoef, Terrence>right?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/503-0
+00:27:34.496 --> 00:27:37.456
+<v Van Valkenhoef, Terrence>To hope RF peer-to-peer upon.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/505-0
+00:27:39.216 --> 00:27:40.976
+<v Van Valkenhoef, Terrence>is network's responsibility.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/507-0
+00:27:44.976 --> 00:27:45.456
+<v Modahala, Logan>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/513-0
+00:27:55.856 --> 00:28:01.479
+<v Van Valkenhoef, Terrence>Not to say they might reach out to you
+for support with the testing,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/513-1
+00:28:01.479 --> 00:28:08.080
+<v Van Valkenhoef, Terrence>but they should manage the project and
+they should pull our resources into those</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/513-2
+00:28:08.080 --> 00:28:08.976
+<v Van Valkenhoef, Terrence>core teams.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/515-0
+00:28:12.656 --> 00:28:13.056
+<v Modahala, Logan>KM.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/518-0
+00:28:18.176 --> 00:28:21.456
+<v Modahala, Logan>So the scope also includes micro AP right
+for Canada.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/520-0
+00:28:22.656 --> 00:28:24.896
+<v Van Valkenhoef, Terrence>No, that's networks only.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/522-0
+00:28:27.016 --> 00:28:32.176
+<v Van Valkenhoef, Terrence>Don't have anything in the Outcomes
+backlog in support of micro APs.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/523-0
+00:28:32.816 --> 00:28:33.216
+<v Modahala, Logan>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/527-0
+00:28:40.936 --> 00:28:48.896
+<v Modahala, Logan>So Outcomes like when I now look at it,
+it's only the agents app serve and HPP.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/528-0
+00:28:51.336 --> 00:28:52.096
+<v Van Valkenhoef, Terrence>EE Yes.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/532-0
+00:28:52.656 --> 00:28:58.976
+<v Zimanyi, Peter>Yeah, and H.H.P.P.
+is assigned to Phyllis Stevenson.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/530-0
+00:28:53.856 --> 00:28:54.256
+<v Modahala, Logan>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/534-0
+00:29:01.536 --> 00:29:04.736
+<v Zimanyi, Peter>Should be should be done by coordinated
+by her.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/535-0
+00:29:05.616 --> 00:29:06.096
+<v Modahala, Logan>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/537-0
+00:29:07.376 --> 00:29:09.696
+<v Modahala, Logan>Rest all belongs to networks.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/538-0
+00:29:10.976 --> 00:29:11.536
+<v Van Valkenhoef, Terrence>Yes.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/539-0
+00:29:12.416 --> 00:29:12.896
+<v Modahala, Logan>Got it.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/548-0
+00:29:26.896 --> 00:29:32.019
+<v Modahala, Logan>Did you get your question answered,
+Sajeev, because of the background noise?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/548-1
+00:29:32.019 --> 00:29:37.142
+<v Modahala, Logan>I didn't hear clearly. So you asked about,
+are there components that will be</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/548-2
+00:29:37.142 --> 00:29:39.936
+<v Modahala, Logan>available in Q4 that we can start testing?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/552-0
+00:29:41.376 --> 00:29:44.085
+<v Kokkattil, Sajeev>Yeah,
+so that is one thing and the other</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/552-1
+00:29:44.085 --> 00:29:49.437
+<v Kokkattil, Sajeev>problem is like if things are going to be
+available for testing in Q1 maybe then</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/552-2
+00:29:49.437 --> 00:29:53.136
+<v Kokkattil, Sajeev>how we will be able to provide a target
+date as of now.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/554-0
+00:30:00.296 --> 00:30:01.216
+<v Zimanyi, Peter>Good question.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/556-0
+00:30:06.176 --> 00:30:07.776
+<v Zimanyi, Peter>Sorry, I was trying to get a view.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/560-0
+00:30:07.856 --> 00:30:14.248
+<v Kokkattil, Sajeev>Because Jason is sending me for the
+target date and he sent a second</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/560-1
+00:30:14.248 --> 00:30:19.528
+<v Kokkattil, Sajeev>remainder saying that this should be
+ended by July 17th,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/560-2
+00:30:19.528 --> 00:30:21.936
+<v Kokkattil, Sajeev>that is today or tomorrow.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/565-0
+00:30:27.336 --> 00:30:30.803
+<v Modahala, Logan>So, Sajeev,
+we cannot provide the schedule now, like,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/565-1
+00:30:30.803 --> 00:30:35.296
+<v Modahala, Logan>without knowing, like, the dependencies,
+availability, and timelines.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/564-0
+00:30:34.496 --> 00:30:35.176
+<v Kokkattil, Sajeev>Correct.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/568-0
+00:30:36.376 --> 00:30:43.354
+<v Modahala, Logan>So if you are getting pressured,
+like redirect the e-mail and conversation</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/568-1
+00:30:43.354 --> 00:30:44.656
+<v Modahala, Logan>to me, please.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/572-0
+00:30:55.576 --> 00:30:57.953
+<v Zimanyi, Peter>Okay,
+so hopefully this is everything assigned</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/572-1
+00:30:57.953 --> 00:30:58.256
+<v Zimanyi, Peter>to us.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/578-0
+00:31:09.056 --> 00:31:10.576
+<v Zimanyi, Peter>Right, so I do see.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/582-0
+00:31:14.576 --> 00:31:20.176
+<v Zimanyi, Peter>To all peer to PM, so,
+so can you come again, Terrence?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/583-0
+00:31:21.256 --> 00:31:24.736
+<v Zimanyi, Peter>how to hope peer-to-peer is related to
+everything else.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/585-0
+00:31:27.136 --> 00:31:29.416
+<v Van Valkenhoef, Terrence>So, that's part of the...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/587-0
+00:31:31.136 --> 00:31:31.376
+<v Van Valkenhoef, Terrence>Um...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/590-0
+00:31:32.216 --> 00:31:34.716
+<v Van Valkenhoef, Terrence>What, what we call the brownfield, um,
+well,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/590-1
+00:31:34.716 --> 00:31:39.216
+<v Van Valkenhoef, Terrence>I call it brownfield bundle that we're
+shooting for towards the end of the year.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/593-0
+00:31:40.976 --> 00:31:46.176
+<v Van Valkenhoef, Terrence>So that RF peer-to-peer or two-hop RF
+peer-to-peer is...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/595-0
+00:31:47.856 --> 00:31:51.616
+<v Van Valkenhoef, Terrence>It is supported in Utilize 58.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/597-0
+00:31:52.736 --> 00:31:58.096
+<v Van Valkenhoef, Terrence>And it is going to be supported in Gen.
+5 Fever T.1.4.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/604-0
+00:32:00.376 --> 00:32:05.539
+<v Van Valkenhoef, Terrence>So how all of this is related?
+So networks is looking at this from a</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/604-1
+00:32:05.539 --> 00:32:08.981
+<v Van Valkenhoef, Terrence>call it a solution bundle perspective,
+right?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/604-2
+00:32:08.981 --> 00:32:14.593
+<v Van Valkenhoef, Terrence>They're including in T14 and Utilo S58,
+all these features that we've been</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/604-3
+00:32:14.593 --> 00:32:18.484
+<v Van Valkenhoef, Terrence>talking about,
+included in two hub and NMNTT. Yeah,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/601-0
+00:32:18.016 --> 00:32:18.896
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/604-4
+00:32:18.484 --> 00:32:24.096
+<v Van Valkenhoef, Terrence>and all of this needs to be, you know,
+tested and ready so we can release.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/605-0
+00:32:24.176 --> 00:32:25.296
+<v Van Valkenhoef, Terrence>Those 3 more versions.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/608-0
+00:32:28.336 --> 00:32:34.656
+<v Zimanyi, Peter>So I see here Util OS to hop peer-to-peer
+support assigned to me and to Sajeev.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/613-0
+00:32:35.776 --> 00:32:39.376
+<v Zimanyi, Peter>to Dan.
+So it so is this managed by the same</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/613-1
+00:32:39.376 --> 00:32:45.856
+<v Zimanyi, Peter>program or it's a different swim lane or
+is it part of what we discussed here or</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/611-0
+00:32:45.416 --> 00:32:45.656
+<v Facker, Dan>Nope.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/613-2
+00:32:45.856 --> 00:32:47.536
+<v Zimanyi, Peter>is it something else?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/612-0
+00:32:47.936 --> 00:32:48.816
+<v Van Valkenhoef, Terrence>Is something else.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/615-0
+00:32:50.376 --> 00:32:50.816
+<v Zimanyi, Peter>Hand.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/619-0
+00:32:52.416 --> 00:32:55.769
+<v Zimanyi, Peter>Okay,
+so I think this is where it gets</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/619-1
+00:32:55.769 --> 00:33:00.496
+<v Zimanyi, Peter>confusing for me.
+So this one is the NCIS only, right?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/618-0
+00:33:00.896 --> 00:33:01.376
+<v Van Valkenhoef, Terrence>Is it?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/622-0
+00:33:04.656 --> 00:33:10.816
+<v Zimanyi, Peter>But the program that they are running
+includes the RF2 hop.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/623-0
+00:33:11.896 --> 00:33:12.816
+<v Zimanyi, Peter>peer-to-peer, right?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/625-0
+00:33:13.776 --> 00:33:18.416
+<v Van Valkenhoef, Terrence>Yeah, includes that,
+includes Power Mon for HPP.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/627-0
+00:33:19.776 --> 00:33:20.896
+<v Zimanyi, Peter>Right, got it now.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/628-0
+00:33:21.456 --> 00:33:23.936
+<v Van Valkenhoef, Terrence>And includes a e-porn too.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/630-0
+00:33:26.256 --> 00:33:27.056
+<v Zimanyi, Peter>KOK.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/632-0
+00:33:29.936 --> 00:33:34.416
+<v Zimanyi, Peter>OK, so that's the scope of their program.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/633-0
+00:33:34.936 --> 00:33:35.376
+<v Van Valkenhoef, Terrence>Yes.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/636-0
+00:33:35.576 --> 00:33:40.647
+<v Zimanyi, Peter>And you're saying that we should be
+involved in the first, no, sorry, wrong,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/636-1
+00:33:40.647 --> 00:33:40.976
+<v Zimanyi, Peter>so...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/638-0
+00:33:41.856 --> 00:33:46.704
+<v Zimanyi, Peter>Can you repeat that? So first is outcomes,
+because we have the majority of the work</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/638-1
+00:33:46.704 --> 00:33:49.475
+<v Zimanyi, Peter>here,
+but we do need to support RF peer-to-peer</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/638-2
+00:33:49.475 --> 00:33:49.936
+<v Zimanyi, Peter>as well.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/640-0
+00:33:50.416 --> 00:33:53.498
+<v Van Valkenhoef, Terrence>Yes,
+there is app services work to support</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/640-1
+00:33:53.498 --> 00:33:53.856
+<v Van Valkenhoef, Terrence>that.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/642-0
+00:33:58.336 --> 00:34:01.616
+<v Van Valkenhoef, Terrence>And there is app services work to support
+EPON.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/646-0
+00:34:03.536 --> 00:34:09.376
+<v Zimanyi, Peter>Is that upon the the the same upon that
+Tommi is tracking or a variant of that?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/647-0
+00:34:09.136 --> 00:34:11.296
+<v Facker, Dan>It's similar, it's a variant of that.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/645-0
+00:34:09.936 --> 00:34:10.016
+<v Van Valkenhoef, Terrence>EE.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/648-0
+00:34:11.776 --> 00:34:12.256
+<v Van Valkenhoef, Terrence>Yeah.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/651-0
+00:34:13.936 --> 00:34:19.487
+<v Van Valkenhoef, Terrence>What Tommi did was a POC build collector,
+and now we're working towards a pilot</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/651-1
+00:34:19.487 --> 00:34:20.736
+<v Van Valkenhoef, Terrence>version of people.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/652-0
+00:34:22.176 --> 00:34:22.736
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/654-0
+00:34:24.256 --> 00:34:24.696
+<v Zimanyi, Peter>And.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/657-0
+00:34:25.496 --> 00:34:31.526
+<v Zimanyi, Peter>Uh, and and H.P.P. is is is,
+so we don't need to support that this</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/657-1
+00:34:31.526 --> 00:34:34.496
+<v Zimanyi, Peter>group is that your understanding?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/658-0
+00:34:33.296 --> 00:34:36.227
+<v Van Valkenhoef, Terrence>Yeah,
+that's Phyllis and there's no scope for</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/658-1
+00:34:36.227 --> 00:34:36.736
+<v Van Valkenhoef, Terrence>us here.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/661-0
+00:34:38.456 --> 00:34:43.216
+<v Zimanyi, Peter>Okay, good.
+So we have the time we talked about this.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/663-0
+00:34:44.736 --> 00:34:50.736
+<v Zimanyi, Peter>Now, for two hop beyond app serve,
+who else is involved in the two hop?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/665-0
+00:34:52.016 --> 00:34:53.376
+<v Van Valkenhoef, Terrence>It's just app services.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/666-0
+00:34:54.416 --> 00:34:56.736
+<v Zimanyi, Peter>Just app services and what do they need
+to do?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/669-0
+00:34:58.336 --> 00:35:03.296
+<v Van Valkenhoef, Terrence>We need to develop new APIs to support
+that, to help our peer-to-peer.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/671-0
+00:35:06.616 --> 00:35:10.496
+<v Zimanyi, Peter>Are those the APIs that we're going to
+take over from load control switch?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/676-0
+00:35:11.456 --> 00:35:17.557
+<v Van Valkenhoef, Terrence>No, this is this is new, this is all new,
+and we don't have a feature for for that</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/672-0
+00:35:11.776 --> 00:35:12.256
+<v Zimanyi, Peter>Sorry.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/674-0
+00:35:14.416 --> 00:35:14.896
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/676-1
+00:35:17.557 --> 00:35:20.496
+<v Van Valkenhoef, Terrence>yet. Tommi needs to work on the feature.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/678-0
+00:35:26.176 --> 00:35:26.736
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/681-0
+00:35:27.936 --> 00:35:31.536
+<v Zimanyi, Peter>So, Tommi, Tommi, um,
+Tommi creates a feature for that.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/684-0
+00:35:32.736 --> 00:35:36.490
+<v Zimanyi, Peter>So, App Service can review the feature,
+understand the asks,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/684-1
+00:35:36.490 --> 00:35:39.936
+<v Zimanyi, Peter>works through the details,
+and come up with a schedule.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/688-0
+00:35:41.136 --> 00:35:47.402
+<v Zimanyi, Peter>So they do this development.
+Do we expect Logan's team to do testing</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/685-0
+00:35:41.536 --> 00:35:41.936
+<v Facker, Dan>Thank you.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/686-0
+00:35:42.896 --> 00:35:43.536
+<v Van Valkenhoef, Terrence>Logan.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/688-1
+00:35:47.402 --> 00:35:47.856
+<v Zimanyi, Peter>here?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/692-0
+00:35:50.976 --> 00:35:54.584
+<v Van Valkenhoef, Terrence>I, I don't know,
+so I expect networks to only full</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/692-1
+00:35:54.584 --> 00:35:58.616
+<v Van Valkenhoef, Terrence>end-to-end testing of the my my one
+outcomes to support.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/693-0
+00:36:00.656 --> 00:36:03.248
+<v Van Valkenhoef, Terrence>I'm not sure.
+We should have that conversation with</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/693-1
+00:36:03.248 --> 00:36:03.696
+<v Van Valkenhoef, Terrence>networks.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/699-0
+00:36:06.096 --> 00:36:10.628
+<v Zimanyi, Peter>So there was a test review that I
+couldn't join, but Sajeev,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/699-1
+00:36:10.628 --> 00:36:15.531
+<v Zimanyi, Peter>I believe you were invited.
+Have you had a chance to join this DI</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/699-2
+00:36:15.531 --> 00:36:21.102
+<v Zimanyi, Peter>test coverage meeting with Boris?
+He has a few requirements and he has the</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/699-3
+00:36:21.102 --> 00:36:21.696
+<v Zimanyi, Peter>two hop.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/700-0
+00:36:23.056 --> 00:36:26.318
+<v Kokkattil, Sajeev>Yes,
+but that did not resolve to any</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/700-1
+00:36:26.318 --> 00:36:27.376
+<v Kokkattil, Sajeev>conclusions.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/701-0
+00:36:27.696 --> 00:36:28.256
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/704-0
+00:36:29.376 --> 00:36:31.995
+<v Zimanyi, Peter>So,
+perhaps we need to repeat that to clarify</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/704-1
+00:36:31.995 --> 00:36:35.296
+<v Zimanyi, Peter>this assumption,
+whether Boris Steam will do this or not.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/706-0
+00:36:36.576 --> 00:36:40.119
+<v Kokkattil, Sajeev>Yeah,
+Boris also had a question like normally</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/706-1
+00:36:40.119 --> 00:36:44.816
+<v Kokkattil, Sajeev>all the NPA testing he does and how this
+came to came to us.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/708-0
+00:36:48.736 --> 00:36:50.176
+<v Zimanyi, Peter>How this came to us?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/711-0
+00:36:51.296 --> 00:36:55.026
+<v Kokkattil, Sajeev>In the sense, like,
+in already all the NPI project testing</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/711-1
+00:36:55.026 --> 00:36:56.416
+<v Kokkattil, Sajeev>his team take care of.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/716-0
+00:37:01.496 --> 00:37:05.496
+<v Kokkattil, Sajeev>So he was also asking, like,
+what is the role of outcome testing team?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/712-0
+00:37:02.016 --> 00:37:02.096
+<v Zimanyi, Peter>EE.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/714-0
+00:37:03.216 --> 00:37:04.256
+<v Modahala, Logan>Yeah, so, so...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/721-0
+00:37:06.016 --> 00:37:10.702
+<v Modahala, Logan>Yeah,
+so I think like the request came from,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/721-1
+00:37:10.702 --> 00:37:16.117
+<v Modahala, Logan>let me look at, yeah,
+that was my initial question,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/721-2
+00:37:16.117 --> 00:37:19.136
+<v Modahala, Logan>like is it a NPA program and.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/723-0
+00:37:22.496 --> 00:37:24.576
+<v Modahala, Logan>I think it came from Jason.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/728-0
+00:37:26.336 --> 00:37:30.854
+<v Modahala, Logan>asking us like because like it's outcomes
+driven project,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/728-1
+00:37:30.854 --> 00:37:35.216
+<v Modahala, Logan>it's a deliverable that networks is doing
+for outcomes.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/728-2
+00:37:35.216 --> 00:37:41.682
+<v Modahala, Logan>So from outcome system test point of view,
+what will you cover and who will be the</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/728-3
+00:37:41.682 --> 00:37:44.096
+<v Modahala, Logan>lead? That's how it came to us.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/730-0
+00:37:48.376 --> 00:37:48.816
+<v Zimanyi, Peter>All right.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/731-0
+00:37:48.576 --> 00:37:51.216
+<v Modahala, Logan>Jason, Jason Bernas reached out.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/732-0
+00:37:52.136 --> 00:37:52.576
+<v Zimanyi, Peter>Yes.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/736-0
+00:37:58.976 --> 00:38:01.807
+<v Zimanyi, Peter>So,
+Outcomes from a document and implement</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/736-1
+00:38:01.807 --> 00:38:05.296
+<v Zimanyi, Peter>app search changes required to fulfill.
+OK, so yeah.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/739-0
+00:38:06.336 --> 00:38:11.300
+<v Zimanyi, Peter>Outcomes GTO is, I assume,
+the Lin's team should conduct end-to-end</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/739-1
+00:38:11.300 --> 00:38:16.336
+<v Zimanyi, Peter>testing, should the apps such as ATLM,
+ATVM are working as expected.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/745-0
+00:38:23.696 --> 00:38:26.957
+<v Modahala, Logan>So,
+so if Boris wants to take take them on,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/745-1
+00:38:26.957 --> 00:38:30.736
+<v Modahala, Logan>like the entire thing,
+like because it is the NPI.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/749-0
+00:38:35.056 --> 00:38:39.296
+<v Modahala, Logan>That's something that we should discuss
+and make sure like the who owns what.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/747-0
+00:38:37.936 --> 00:38:38.416
+<v Zimanyi, Peter>Mhm.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/750-0
+00:38:40.256 --> 00:38:40.816
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/752-0
+00:38:40.576 --> 00:38:43.796
+<v Tan, Theen-Theen>Right,
+if it's associated with a firmware</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/752-1
+00:38:43.796 --> 00:38:46.096
+<v Tan, Theen-Theen>program, Boris can take it on.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/754-0
+00:38:48.336 --> 00:38:50.896
+<v Tan, Theen-Theen>Right, that's maybe what we mean by MPI.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/755-0
+00:38:52.176 --> 00:38:52.656
+<v Modahala, Logan>Right.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/758-0
+00:38:53.376 --> 00:38:56.391
+<v Tan, Theen-Theen>Right,
+so if it's associated with a firmware</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/758-1
+00:38:56.391 --> 00:38:58.936
+<v Tan, Theen-Theen>program, Boris usually takes you long.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/762-0
+00:39:01.136 --> 00:39:04.636
+<v Zimanyi, Peter>So,
+how about I set up a follow-up discussion</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/762-1
+00:39:04.636 --> 00:39:08.896
+<v Zimanyi, Peter>Logan with with Boris and team clarify
+this and others?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/763-0
+00:39:10.016 --> 00:39:11.216
+<v Modahala, Logan>Yeah, that would be helpful.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/766-0
+00:39:14.256 --> 00:39:19.220
+<v Modahala, Logan>Because the meeting that Boris scheduled,
+I was traveling, so I was on the flight,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/766-1
+00:39:19.220 --> 00:39:20.416
+<v Modahala, Logan>so I could not join.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/767-0
+00:39:19.456 --> 00:39:23.445
+<v Tan, Theen-Theen>Ah, so,
+so I think there is like what we covered</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/767-1
+00:39:23.445 --> 00:39:24.096
+<v Tan, Theen-Theen>here is.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/769-0
+00:39:25.456 --> 00:39:28.336
+<v Tan, Theen-Theen>You know, Peter,
+it it has multiple programs.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/771-0
+00:39:29.496 --> 00:39:34.256
+<v Tan, Theen-Theen>So, NCIS itself would be Outcomes.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/772-0
+00:39:34.736 --> 00:39:35.296
+<v Zimanyi, Peter>Yes.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/776-0
+00:39:35.776 --> 00:39:39.628
+<v Tan, Theen-Theen>Right, but so, so,
+but there is some firmware testing</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/776-1
+00:39:39.628 --> 00:39:43.266
+<v Tan, Theen-Theen>happening,
+and and maybe they will test it against</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/776-2
+00:39:43.266 --> 00:39:47.616
+<v Tan, Theen-Theen>some sort of firmware program, right?
+But to test it from...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/778-0
+00:39:49.456 --> 00:39:53.056
+<v Tan, Theen-Theen>NCIS, that's Outcomes then.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/779-0
+00:39:52.496 --> 00:39:55.696
+<v Modahala, Logan>Yeah, I think Boris will use test agent,
+not the real agent.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/785-0
+00:39:56.416 --> 00:40:01.441
+<v Tan, Theen-Theen>Correct,
+then the which is that the there is</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/781-0
+00:39:57.136 --> 00:39:57.936
+<v Zimanyi, Peter>Yeah, yeah, yeah.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/785-1
+00:40:01.441 --> 00:40:07.136
+<v Tan, Theen-Theen>something else which is that P2P, right?
+That one.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/783-0
+00:40:04.496 --> 00:40:04.816
+<v Zimanyi, Peter>Yep.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/787-0
+00:40:08.256 --> 00:40:13.376
+<v Tan, Theen-Theen>should be a firmware program.
+That one is likely not Outcomes.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/788-0
+00:40:13.696 --> 00:40:14.016
+<v Zimanyi, Peter>Yeah.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/790-0
+00:40:14.736 --> 00:40:16.096
+<v Tan, Theen-Theen>Because it's...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/796-0
+00:40:17.296 --> 00:40:24.569
+<v Tan, Theen-Theen>It's networking. Right, right. Yes, yes.
+And then there might be a third thing</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/793-0
+00:40:19.136 --> 00:40:22.816
+<v Zimanyi, Peter>Yeah, yeah,
+so it's likely gonna be Boris this team.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/796-1
+00:40:24.569 --> 00:40:28.896
+<v Tan, Theen-Theen>that we talked about. I seem to recall.
+Right.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/795-0
+00:40:28.176 --> 00:40:29.616
+<v Zimanyi, Peter>Yeah, the the Epon.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/800-0
+00:40:30.496 --> 00:40:36.721
+<v Tan, Theen-Theen>The epon, right? Epon is,
+it might belong to the same category as</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/800-1
+00:40:36.721 --> 00:40:41.247
+<v Tan, Theen-Theen>number one,
+which is there is firmware changes,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/800-2
+00:40:41.247 --> 00:40:44.736
+<v Tan, Theen-Theen>but then to test the agents and such.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/806-0
+00:40:45.696 --> 00:40:50.289
+<v Tan, Theen-Theen>Right, so to test,
+we need to test the end-to-end test</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/806-1
+00:40:50.289 --> 00:40:56.217
+<v Tan, Theen-Theen>agents, app serve, and EPON,
+whereas bottom line is the entry point of</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/806-2
+00:40:56.217 --> 00:41:00.976
+<v Tan, Theen-Theen>the team that's test the firmware is
+slightly different.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/804-0
+00:40:59.856 --> 00:41:00.016
+<v Modahala, Logan>Yeah.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/807-0
+00:41:01.976 --> 00:41:05.976
+<v Tan, Theen-Theen>You know that, from maybe,
+maybe it's a test agent.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/812-0
+00:41:06.896 --> 00:41:10.931
+<v Tan, Theen-Theen>Right,
+and their focus is start with the test</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/812-1
+00:41:10.931 --> 00:41:15.141
+<v Tan, Theen-Theen>agent,
+then they would test app serve and focus</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/812-2
+00:41:15.141 --> 00:41:19.089
+<v Tan, Theen-Theen>on firmware. But then for us, we need to..
+.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/812-3
+00:41:19.089 --> 00:41:23.650
+<v Tan, Theen-Theen>Epon actually is in a weird situation
+because Epon,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/812-4
+00:41:23.650 --> 00:41:26.456
+<v Tan, Theen-Theen>usually the dev team tests Epon.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/815-0
+00:41:28.696 --> 00:41:36.037
+<v Tan, Theen-Theen>Because like now Tracy is himself.
+It is really when for the PAC program,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/815-1
+00:41:36.037 --> 00:41:38.616
+<v Tan, Theen-Theen>I think it is time to ask.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/817-0
+00:41:39.616 --> 00:41:41.096
+<v Tan, Theen-Theen>whether it will get a team.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/819-0
+00:41:43.136 --> 00:41:46.600
+<v Tan, Theen-Theen>Right,
+because Tracy does the dev and he does</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/819-1
+00:41:46.600 --> 00:41:48.256
+<v Tan, Theen-Theen>the testing right now.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/820-0
+00:41:48.656 --> 00:41:49.136
+<v Zimanyi, Peter>Yes.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/825-0
+00:41:49.616 --> 00:41:55.117
+<v Tan, Theen-Theen>But he may not be as comprehensive in a
+sense that, right, there is like,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/825-1
+00:41:55.117 --> 00:41:58.759
+<v Tan, Theen-Theen>you know,
+you need to put in automation as well,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/825-2
+00:41:58.759 --> 00:42:03.368
+<v Tan, Theen-Theen>maybe a bunch of other things.
+So it's time to ask, Dezsenyi,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/825-3
+00:42:03.368 --> 00:42:08.496
+<v Tan, Theen-Theen>now that we're doing EPON, I mean,
+PAC as a pilot instead of a peak.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/827-0
+00:42:08.576 --> 00:42:12.016
+<v Tan, Theen-Theen>No, instead of POC, it's an early release.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/828-0
+00:42:13.216 --> 00:42:13.576
+<v Tan, Theen-Theen>Um...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/829-0
+00:42:14.696 --> 00:42:16.496
+<v Tan, Theen-Theen>whether it's going to get 18.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/831-0
+00:42:17.776 --> 00:42:18.736
+<v Tan, Theen-Theen>Because the team.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/835-0
+00:42:17.776 --> 00:42:22.026
+<v Modahala, Logan>Yes, that's a good point.
+That's a good point, Ting Ting,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/835-1
+00:42:22.026 --> 00:42:27.227
+<v Modahala, Logan>because like POC, that's okay,
+but for when it is a early availability</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/835-2
+00:42:27.227 --> 00:42:31.696
+<v Modahala, Logan>or release, there should be a team.
+I don't know which team.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/836-0
+00:42:31.696 --> 00:42:35.816
+<v Tan, Theen-Theen>Right, but the team,
+because the end-to-end really shouldn't</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/836-1
+00:42:35.816 --> 00:42:36.896
+<v Tan, Theen-Theen>be Logan's team.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/838-0
+00:42:37.856 --> 00:42:40.456
+<v Tan, Theen-Theen>It should be the QA of that team.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/846-0
+00:42:40.896 --> 00:42:45.404
+<v Modahala, Logan>Right, right, exactly.
+So when we talk about we are mixing up</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/839-0
+00:42:42.256 --> 00:42:42.656
+<v Tan, Theen-Theen>Right.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/840-0
+00:42:42.736 --> 00:42:42.816
+<v Zimanyi, Peter>The.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/842-0
+00:42:43.536 --> 00:42:43.776
+<v Tan, Theen-Theen>Right.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/846-1
+00:42:45.404 --> 00:42:50.566
+<v Modahala, Logan>end-to-end here with a broad brush and
+painting it with a broad brush.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/846-2
+00:42:50.566 --> 00:42:56.018
+<v Modahala, Logan>So end-to-end systems test and end-to-end
+outcomes system test is my team.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/846-3
+00:42:56.018 --> 00:43:00.816
+<v Modahala, Logan>But the end-to-end test,
+which is like more functional in nature.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/849-0
+00:42:59.776 --> 00:43:03.721
+<v Tan, Theen-Theen>That includes the agent, right?
+Focusing on the agent itself,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/847-0
+00:43:02.416 --> 00:43:02.816
+<v Modahala, Logan>And.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/849-1
+00:43:03.721 --> 00:43:05.056
+<v Tan, Theen-Theen>that is the dev team.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/853-0
+00:43:05.456 --> 00:43:09.615
+<v Modahala, Logan>Right,
+and I don't know if it is like a Ruchi</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/850-0
+00:43:07.136 --> 00:43:07.456
+<v Tan, Theen-Theen>Right.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/853-1
+00:43:09.615 --> 00:43:12.056
+<v Modahala, Logan>team or like a Matt's team.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/856-0
+00:43:11.536 --> 00:43:15.888
+<v Tan, Theen-Theen>Yeah,
+so I think that's a question to maybe</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/856-1
+00:43:15.888 --> 00:43:20.634
+<v Tan, Theen-Theen>Rusti, which is,
+is it time for Pat to have 18,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/856-2
+00:43:20.634 --> 00:43:22.216
+<v Tan, Theen-Theen>to belong to 18?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/858-0
+00:43:23.616 --> 00:43:25.456
+<v Zimanyi, Peter>Right, so upon.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/860-0
+00:43:27.536 --> 00:43:29.616
+<v Zimanyi, Peter>So I know, so question for Epon.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/864-0
+00:43:32.376 --> 00:43:35.436
+<v Zimanyi, Peter>Which Outcomes teams are involved with
+this beyond pack?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/864-1
+00:43:35.436 --> 00:43:38.496
+<v Zimanyi, Peter>Is there anybody else who needs to do
+testing with that?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/863-0
+00:43:38.176 --> 00:43:38.576
+<v Tan, Theen-Theen>Right.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/865-0
+00:43:40.416 --> 00:43:40.896
+<v Tan, Theen-Theen>Right.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/867-0
+00:43:40.976 --> 00:43:41.616
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/870-0
+00:43:44.176 --> 00:43:46.896
+<v Zimanyi, Peter>Okay, so that's all, all.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/868-0
+00:43:45.296 --> 00:43:45.776
+<v Kokkattil, Sajeev>Agre.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/875-0
+00:43:46.096 --> 00:43:52.948
+<v Tan, Theen-Theen>I think Logan's team role there is scale
+testing. That's one. Maybe he needs to,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/871-0
+00:43:50.416 --> 00:43:50.576
+<v Zimanyi, Peter>M.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/875-1
+00:43:52.948 --> 00:43:58.785
+<v Tan, Theen-Theen>yeah, maybe that's about it, right?
+Because App Store team will test</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/875-2
+00:43:58.785 --> 00:44:01.576
+<v Tan, Theen-Theen>themselves. I don't know whether.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/876-0
+00:44:00.016 --> 00:44:02.398
+<v Modahala, Logan>Yeah,
+so maybe maybe coexistence if other</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/876-1
+00:44:02.398 --> 00:44:04.496
+<v Modahala, Logan>agents have to reside on the meeting.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/877-0
+00:44:03.616 --> 00:44:06.016
+<v Tan, Theen-Theen>Correct. Correct. Right.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/879-0
+00:44:08.496 --> 00:44:08.976
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/880-0
+00:44:09.056 --> 00:44:09.336
+<v Tan, Theen-Theen>Yeah.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/882-0
+00:44:10.336 --> 00:44:12.816
+<v Kokkattil, Sajeev>There is one more item called Power Mohan.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/885-0
+00:44:14.096 --> 00:44:17.616
+<v Kokkattil, Sajeev>Testing for LNG S4X meters.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/883-0
+00:44:14.176 --> 00:44:14.736
+<v Tan, Theen-Theen>I know.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/886-0
+00:44:18.896 --> 00:44:19.736
+<v Kokkattil, Sajeev>Sorry, speak.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/891-0
+00:44:20.656 --> 00:44:25.253
+<v Kokkattil, Sajeev>And they mentioned like there is somebody
+moved from networks to outcome who did</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/887-0
+00:44:20.976 --> 00:44:21.376
+<v Tan, Theen-Theen>Ohh.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/891-1
+00:44:25.253 --> 00:44:27.296
+<v Kokkattil, Sajeev>the power model testing in the past.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/892-0
+00:44:28.056 --> 00:44:29.456
+<v Tan, Theen-Theen>What car won where?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/894-0
+00:44:31.256 --> 00:44:34.736
+<v Tan, Theen-Theen>Where is Power Mount? Is it for more?
+So which heart?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/899-0
+00:44:35.696 --> 00:44:41.678
+<v Srivastava, Vineet>Power mode, it's a firmware changes,
+power mode change for high performance</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/896-0
+00:44:39.136 --> 00:44:39.536
+<v Tan, Theen-Theen>Yeah.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/899-1
+00:44:41.678 --> 00:44:45.456
+<v Srivastava, Vineet>ping,
+so that's for peer-to-peer communication.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/898-0
+00:44:44.096 --> 00:44:44.256
+<v Tan, Theen-Theen>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/900-0
+00:44:45.536 --> 00:44:47.536
+<v Tan, Theen-Theen>So, it's testing the firmware.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/902-0
+00:44:49.056 --> 00:44:49.776
+<v Srivastava, Vineet>Right.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/904-0
+00:44:49.376 --> 00:44:54.736
+<v Tan, Theen-Theen>Right? So not us. Swimware team, go do it.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/906-0
+00:44:56.176 --> 00:45:00.176
+<v Tan, Theen-Theen>So if, yeah,
+firmware team owns Paramount firmware.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/910-0
+00:45:01.336 --> 00:45:07.185
+<v Tan, Theen-Theen>That's it. So Sajeev,
+who is the name that supposedly came over</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/910-1
+00:45:07.185 --> 00:45:12.576
+<v Tan, Theen-Theen>to Outcomes because Paramount is still
+belong to firmware.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/908-0
+00:45:07.696 --> 00:45:07.736
+<v Srivastava, Vineet>EE.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/913-0
+00:45:15.216 --> 00:45:21.136
+<v Tan, Theen-Theen>It has not moved to anybody in Outcomes,
+but I was gone for a month.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/914-0
+00:45:22.256 --> 00:45:23.616
+<v Tan, Theen-Theen>So, could you give a name?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/916-0
+00:45:25.456 --> 00:45:28.496
+<v Tan, Theen-Theen>On who you thought would own Paramount
+Testing?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/922-0
+00:45:29.376 --> 00:45:34.260
+<v Kokkattil, Sajeev>Not on PowerMount testing.
+They mentioned like some results moved</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/918-0
+00:45:29.696 --> 00:45:30.416
+<v Tan, Theen-Theen>Because, by default.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/922-1
+00:45:34.260 --> 00:45:38.182
+<v Kokkattil, Sajeev>from networks to outcomes.
+I cannot recall his name.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/922-2
+00:45:38.182 --> 00:45:41.216
+<v Kokkattil, Sajeev>It is starting with Bren or Ben somebody.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/920-0
+00:45:39.296 --> 00:45:39.776
+<v Srivastava, Vineet>Cool.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/924-0
+00:45:43.136 --> 00:45:47.456
+<v Tan, Theen-Theen>Oh, no. So Van Dahm, right? BNDAMM.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/925-0
+00:45:48.576 --> 00:45:49.616
+<v Kokkattil, Sajeev>Most probably.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/933-0
+00:45:50.336 --> 00:45:54.442
+<v Tan, Theen-Theen>Right, so,
+and that's another question for Rusti,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/933-1
+00:45:54.442 --> 00:46:01.093
+<v Tan, Theen-Theen>which is high performance ping. So far,
+nobody in Rusty's team has done anything</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/928-0
+00:46:00.336 --> 00:46:00.576
+<v Srivastava, Vineet>No.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/933-2
+00:46:01.093 --> 00:46:07.170
+<v Tan, Theen-Theen>against it. But is it time yet?
+Because it has moved to an early release,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/930-0
+00:46:03.216 --> 00:46:03.536
+<v Van Valkenhoef, Terrence>EE.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/933-3
+00:46:07.170 --> 00:46:10.536
+<v Tan, Theen-Theen>right? So then it needs to be handed off.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/935-0
+00:46:11.456 --> 00:46:18.256
+<v Tan, Theen-Theen>But nothing around HVP has involved
+anybody in Rusti's team so far.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/940-0
+00:46:19.776 --> 00:46:24.819
+<v Van Valkenhoef, Terrence>And it shouldn't move forward.
+There is a project that is managed by</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/940-1
+00:46:24.819 --> 00:46:29.715
+<v Van Valkenhoef, Terrence>Phillips with resources that have been
+testing in the past, right?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/940-2
+00:46:29.715 --> 00:46:33.296
+<v Van Valkenhoef, Terrence>That team should take in S4X and do the
+testing.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/938-0
+00:46:30.176 --> 00:46:30.656
+<v Zimanyi, Peter>Yes.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/941-0
+00:46:35.136 --> 00:46:36.896
+<v Tan, Theen-Theen>Right, right, so.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/944-0
+00:46:35.856 --> 00:46:39.325
+<v Van Valkenhoef, Terrence>This, this is not,
+this is not this team's problem, right?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/944-1
+00:46:39.325 --> 00:46:40.736
+<v Van Valkenhoef, Terrence>That's a different team.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/947-0
+00:46:41.696 --> 00:46:43.216
+<v Tan, Theen-Theen>Yep, okay, good.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/946-0
+00:46:42.656 --> 00:46:42.816
+<v Srivastava, Vineet>Like.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/949-0
+00:46:44.296 --> 00:46:45.696
+<v Tan, Theen-Theen>Terrence has some names.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/948-0
+00:46:44.336 --> 00:46:44.816
+<v Zimanyi, Peter>All right.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/951-0
+00:46:47.616 --> 00:46:47.656
+<v Van Valkenhoef, Terrence>EE.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/955-0
+00:46:47.696 --> 00:46:53.545
+<v Zimanyi, Peter>Hey, I want to jump back to the EPON.
+So the EPON that Tommi has been working</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/955-1
+00:46:53.545 --> 00:46:57.369
+<v Zimanyi, Peter>on involved a lot of teams and GTO and
+everything.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/955-2
+00:46:57.369 --> 00:47:02.917
+<v Zimanyi, Peter>So this variant compared to that,
+is that with the same size or how is it</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/955-3
+00:47:02.917 --> 00:47:04.416
+<v Zimanyi, Peter>going to be managed?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/956-0
+00:47:05.936 --> 00:47:07.056
+<v Zimanyi, Peter>Does anybody know that?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/961-0
+00:47:10.176 --> 00:47:13.030
+<v Tan, Theen-Theen>No,
+that's why the question whether it would</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/961-1
+00:47:13.030 --> 00:47:17.849
+<v Tan, Theen-Theen>belong to one of the colored teams, right?
+Then if you get that possession,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/961-2
+00:47:17.849 --> 00:47:21.463
+<v Tan, Theen-Theen>if you get that transfer or that
+migration of ownership,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/961-3
+00:47:21.463 --> 00:47:23.936
+<v Tan, Theen-Theen>then the colored team knows what to do.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/962-0
+00:47:27.136 --> 00:47:27.536
+<v Zimanyi, Peter>And.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/968-0
+00:47:28.656 --> 00:47:32.288
+<v Zimanyi, Peter>So when Tommi did this,
+none of the color teams were involved.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/968-1
+00:47:32.288 --> 00:47:36.496
+<v Zimanyi, Peter>So just try to understand maybe my
+question is that how is it different?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/965-0
+00:47:33.056 --> 00:47:33.616
+<v Tan, Theen-Theen>Purohit.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/966-0
+00:47:34.096 --> 00:47:34.816
+<v Facker, Dan>Cristy.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/967-0
+00:47:35.936 --> 00:47:36.096
+<v Facker, Dan>Oh.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/971-0
+00:47:37.616 --> 00:47:41.536
+<v Facker, Dan>But Tracy was the key guy.
+I don't even know what team he's on.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/974-0
+00:47:42.776 --> 00:47:44.936
+<v Zimanyi, Peter>Yeah, yeah, Tracy Theen.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/973-0
+00:47:45.616 --> 00:47:46.016
+<v Facker, Dan>Yeah.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/978-0
+00:47:45.856 --> 00:47:49.345
+<v Tan, Theen-Theen>Right, the Tracy team, right?
+He did most of the things.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/975-0
+00:47:47.056 --> 00:47:47.456
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/978-1
+00:47:49.345 --> 00:47:53.078
+<v Tan, Theen-Theen>So that's why the question,
+is it time for a team to own it?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/978-2
+00:47:53.078 --> 00:47:57.056
+<v Tan, Theen-Theen>Because if a team owns it,
+then a lot of things fall into place.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/984-0
+00:47:58.736 --> 00:48:03.004
+<v Zimanyi, Peter>Yeah, so before that,
+I want to ask a different question.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/980-0
+00:47:59.056 --> 00:47:59.536
+<v Tan, Theen-Theen>Right.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/984-1
+00:48:03.004 --> 00:48:07.860
+<v Zimanyi, Peter>So is it going to go through the same
+steps, Dan? So what's that?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/984-2
+00:48:07.860 --> 00:48:12.495
+<v Zimanyi, Peter>There was meter firmware change,
+NIC change, app serve change,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/984-3
+00:48:12.495 --> 00:48:16.689
+<v Zimanyi, Peter>so many things.
+What's the scope of this one compared to</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/984-4
+00:48:16.689 --> 00:48:17.056
+<v Zimanyi, Peter>that?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/986-0
+00:48:18.256 --> 00:48:20.416
+<v Zimanyi, Peter>Do you know that or does anybody know
+that?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/990-0
+00:48:19.456 --> 00:48:24.645
+<v Facker, Dan>Scope-wise,
+it's similar to the 311 release two that</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/990-1
+00:48:24.645 --> 00:48:31.400
+<v Facker, Dan>was done early last year,
+or I mean early this year, late last year,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/990-2
+00:48:31.400 --> 00:48:33.456
+<v Facker, Dan>I can't remember now.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/992-0
+00:48:42.896 --> 00:48:44.616
+<v Facker, Dan>Not exactly the same, but similar.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/994-0
+00:48:46.896 --> 00:48:47.936
+<v Zimanyi, Peter>So does it involve?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/996-0
+00:48:46.976 --> 00:48:51.296
+<v Facker, Dan>I think there's an HF1 on the end too,
+hotfix one.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/997-0
+00:48:54.016 --> 00:48:54.576
+<v Zimanyi, Peter>KM.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/998-0
+00:48:54.336 --> 00:48:55.056
+<v Facker, Dan>Crazy name.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1000-0
+00:48:58.096 --> 00:48:58.576
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1006-0
+00:49:02.096 --> 00:49:07.563
+<v Zimanyi, Peter>So, we're talking about EPON,
+but what is EPON? So,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1006-1
+00:49:07.563 --> 00:49:14.816
+<v Zimanyi, Peter>was it what is it covering? Firmware only,
+meter firmware or NIC or?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1004-0
+00:49:12.976 --> 00:49:14.336
+<v Facker, Dan>It's.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1007-0
+00:49:15.456 --> 00:49:19.176
+<v Facker, Dan>This is this is just for 10-5.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1008-0
+00:49:19.776 --> 00:49:20.336
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1010-0
+00:49:20.656 --> 00:49:22.896
+<v Facker, Dan>I think, right, Terrence?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1012-0
+00:49:26.896 --> 00:49:27.936
+<v Van Valkenhoef, Terrence>I eat ****.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1013-0
+00:49:26.976 --> 00:49:27.936
+<v Facker, Dan>Here's that right.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1015-0
+00:49:29.296 --> 00:49:34.736
+<v Van Valkenhoef, Terrence>Is for Gen. Five Riva, and also DI Nick,
+but right now the focus is Gen. Five Riva.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1019-0
+00:49:36.016 --> 00:49:42.496
+<v Facker, Dan>This program is for Gym 5 Riva.
+The 313314 is Gym 5 Riva.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1017-0
+00:49:39.456 --> 00:49:39.856
+<v Van Valkenhoef, Terrence>Yeah.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1020-0
+00:49:42.416 --> 00:49:43.056
+<v Van Valkenhoef, Terrence>Hey, what for?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1022-0
+00:49:44.176 --> 00:49:47.136
+<v Facker, Dan>There is another program going on.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1023-0
+00:49:48.256 --> 00:49:51.296
+<v Facker, Dan>Uh, actually, two, there's a...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1029-0
+00:49:52.416 --> 00:50:01.678
+<v Facker, Dan>The ANSI products are will be including
+the DI Nick Epon and the IEC product will</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1029-1
+00:50:01.678 --> 00:50:09.696
+<v Facker, Dan>do a second V where they will be Epon.
+So it's all over the place. But</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1027-0
+00:50:06.656 --> 00:50:06.776
+<v Zimanyi, Peter>Right.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1031-0
+00:50:10.576 --> 00:50:12.336
+<v Zimanyi, Peter>Too many, too many programs.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1032-0
+00:50:16.096 --> 00:50:16.576
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1035-0
+00:50:17.376 --> 00:50:23.256
+<v Facker, Dan>I would encourage you to name this
+activity the 314 Support.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1040-0
+00:50:24.736 --> 00:50:30.265
+<v Facker, Dan>because we have to do separate things for
+the June to DI Nick items. I mean,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1038-0
+00:50:30.176 --> 00:50:30.656
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1040-1
+00:50:30.265 --> 00:50:33.496
+<v Facker, Dan>this whole set of charts should be just
+314.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1041-0
+00:50:34.656 --> 00:50:35.696
+<v Zimanyi, Peter>Yes, OK.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1042-0
+00:50:35.936 --> 00:50:37.056
+<v Facker, Dan>Yeah, OK.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1047-0
+00:50:36.816 --> 00:50:40.443
+<v Zimanyi, Peter>Alright,
+so there's a media firmware change here,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1047-1
+00:50:40.443 --> 00:50:44.576
+<v Zimanyi, Peter>and there needs to be app serve changes
+too, and then...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1046-0
+00:50:41.936 --> 00:50:43.296
+<v Facker, Dan>Yep, yep.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1051-0
+00:50:47.056 --> 00:50:50.660
+<v Zimanyi, Peter>I'm going to figure out with Rusti the
+pack question,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1051-1
+00:50:50.660 --> 00:50:55.866
+<v Zimanyi, Peter>but then likely other teams will need to
+do some level of testing, Ting Ting,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1051-2
+00:50:55.866 --> 00:50:59.936
+<v Zimanyi, Peter>is that what you were saying?
+So not only pack, but maybe...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1057-0
+00:50:59.216 --> 00:51:06.282
+<v Tan, Theen-Theen>No, so if it belongs to a dev team,
+then dev team would do the end-to-end,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1057-1
+00:51:06.282 --> 00:51:12.217
+<v Tan, Theen-Theen>right? And then systems,
+Logan's team would do coexistence and</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1054-0
+00:51:11.296 --> 00:51:12.736
+<v Zimanyi, Peter>Coexistence, yeah.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1057-2
+00:51:12.217 --> 00:51:13.536
+<v Tan, Theen-Theen>scale testing.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1056-0
+00:51:14.176 --> 00:51:14.496
+<v Zimanyi, Peter>Yeah.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1059-0
+00:51:15.656 --> 00:51:20.723
+<v Zimanyi, Peter>But the question is, in your opinion,
+how many dev teams should be involved</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1059-1
+00:51:20.723 --> 00:51:21.056
+<v Zimanyi, Peter>here?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1060-0
+00:51:21.696 --> 00:51:22.176
+<v Tan, Theen-Theen>One.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1062-0
+00:51:22.816 --> 00:51:25.296
+<v Zimanyi, Peter>One, okay. Is that the Tracy team?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1065-0
+00:51:26.576 --> 00:51:29.456
+<v Tan, Theen-Theen>I don't, that's a question.
+That's the question, right?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1065-1
+00:51:29.456 --> 00:51:31.616
+<v Tan, Theen-Theen>Tracy does not belong to a team right now.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1068-0
+00:51:31.696 --> 00:51:34.996
+<v Zimanyi, Peter>I know, I know, but sorry,
+the question is,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1068-1
+00:51:34.996 --> 00:51:40.096
+<v Zimanyi, Peter>is that only relevant for PAC or is EPON
+relevant for other agents?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1071-0
+00:51:41.536 --> 00:51:47.056
+<v Tan, Theen-Theen>Ohh, no, so, actually,
+I don't know the answer, because I, right?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1070-0
+00:51:45.776 --> 00:51:46.256
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1072-0
+00:51:48.496 --> 00:51:48.816
+<v Zimanyi, Peter>KM.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1075-0
+00:51:50.336 --> 00:51:53.829
+<v Zimanyi, Peter>So, Terrence,
+maybe we we we need to figure it out,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1075-1
+00:51:53.829 --> 00:51:55.776
+<v Zimanyi, Peter>but that that's clear, so OK.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1076-0
+00:51:55.296 --> 00:51:58.776
+<v Facker, Dan>I don't think that this EPON work has
+anything to do with PAC.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1078-0
+00:51:59.856 --> 00:52:02.416
+<v Facker, Dan>Oh, wait,
+packs the name of the never mind.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1079-0
+00:52:02.976 --> 00:52:04.416
+<v Tan, Theen-Theen>Right, it is.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1081-0
+00:52:03.776 --> 00:52:08.096
+<v Facker, Dan>That's Waverly, the wad is now packed,
+right? Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1082-0
+00:52:07.456 --> 00:52:09.136
+<v Tan, Theen-Theen>Correct, correct. It changed me.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1088-0
+00:52:07.936 --> 00:52:16.764
+<v Zimanyi, Peter>Yes, yes. PAC is the new web.
+And PAC is POC. PAC is POC. Sorry,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1084-0
+00:52:11.456 --> 00:52:11.536
+<v Tan, Theen-Theen>The.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1085-0
+00:52:11.616 --> 00:52:12.816
+<v Facker, Dan>Okay, got it.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1088-1
+00:52:16.764 --> 00:52:19.616
+<v Zimanyi, Peter>I stopped here. Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1089-0
+00:52:18.816 --> 00:52:20.816
+<v Tan, Theen-Theen>Yes, it's late.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1090-0
+00:52:21.376 --> 00:52:22.096
+<v Zimanyi, Peter>It's late.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1095-0
+00:52:24.736 --> 00:52:30.308
+<v Zimanyi, Peter>Okay, but hey, so Terrence,
+I think before the Tuesday core team</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1095-1
+00:52:30.308 --> 00:52:34.251
+<v Zimanyi, Peter>meeting,
+probably we should get together with</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1095-2
+00:52:34.251 --> 00:52:38.622
+<v Zimanyi, Peter>networks,
+PLMs and PMO to realign on these things.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1095-3
+00:52:38.622 --> 00:52:43.936
+<v Zimanyi, Peter>Because I'm expecting if we do that on
+the core team meeting.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1099-0
+00:52:44.016 --> 00:52:49.089
+<v Zimanyi, Peter>they will shut down the conversation.
+I think the discussion that we had here</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1099-1
+00:52:49.089 --> 00:52:53.446
+<v Zimanyi, Peter>would be a good discussion with them
+before the core team meeting.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1099-2
+00:52:53.446 --> 00:52:55.136
+<v Zimanyi, Peter>Would you agree with that?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1100-0
+00:52:58.416 --> 00:53:00.256
+<v Van Valkenhoef, Terrence>Yes, let's have that conversation.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1101-0
+00:53:00.976 --> 00:53:01.456
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1103-0
+00:53:02.416 --> 00:53:02.976
+<v Zimanyi, Peter>All right.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1106-0
+00:53:02.736 --> 00:53:08.496
+<v Van Valkenhoef, Terrence>Do you need contact information or do you
+know who we need to have that call with?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1107-0
+00:53:08.576 --> 00:53:11.296
+<v Zimanyi, Peter>If you could share with me,
+that would be great. So I...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1109-0
+00:53:12.416 --> 00:53:14.256
+<v Zimanyi, Peter>Oh yeah, please share with me.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1112-0
+00:53:15.616 --> 00:53:21.216
+<v Van Valkenhoef, Terrence>Yeah, okay. It's Joe Jason is PMO,
+but from PLM is going to be Summer</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1112-1
+00:53:21.216 --> 00:53:22.736
+<v Van Valkenhoef, Terrence>Roberts and Rodney.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1113-0
+00:53:23.976 --> 00:53:25.376
+<v Zimanyi, Peter>Okay, so hold on.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1117-0
+00:53:27.576 --> 00:53:32.614
+<v Zimanyi, Peter>So, Jason, Summer, Rodney, Terrence,
+Peter,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1117-1
+00:53:32.614 --> 00:53:36.736
+<v Zimanyi, Peter>who wants to join that conversation?</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1119-0
+00:53:39.296 --> 00:53:42.336
+<v Zimanyi, Peter>This is the pre-pre-core team meeting
+conversation.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1120-0
+00:53:43.976 --> 00:53:44.416
+<v Zimanyi, Peter>Okay.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1122-0
+00:53:46.096 --> 00:53:47.216
+<v Zimanyi, Peter>All right, I'll set it up.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1125-0
+00:53:48.896 --> 00:53:56.496
+<v Zimanyi, Peter>So we did some discussion on NCIS more or
+less on what are the big activities.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1128-0
+00:53:57.696 --> 00:54:02.731
+<v Zimanyi, Peter>and how they align on a very high level
+to the quarters.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1128-1
+00:54:02.731 --> 00:54:08.736
+<v Zimanyi, Peter>And then we did this mapping with EPON
+and two hop RFP to peer. So.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1131-0
+00:54:12.416 --> 00:54:17.536
+<v Zimanyi, Peter>For the two hop RF peer-to-peer,
+we concluded that this is networks driven.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1136-0
+00:54:18.696 --> 00:54:23.764
+<v Zimanyi, Peter>So the assumption is that Boris's team
+will do the testing,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1136-1
+00:54:23.764 --> 00:54:29.592
+<v Zimanyi, Peter>the end-to-end testing in the end,
+with verify with Boris and Logan.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1136-2
+00:54:29.592 --> 00:54:34.407
+<v Zimanyi, Peter>And for EPON,
+which is similar to what Tommi did before,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1136-3
+00:54:34.407 --> 00:54:37.616
+<v Zimanyi, Peter>but this is Gen. 5 only. Here, it's...</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1140-0
+00:54:39.256 --> 00:54:44.987
+<v Zimanyi, Peter>Dev team will do the end-to-end and
+clarify which dev team,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1140-1
+00:54:44.987 --> 00:54:52.628
+<v Zimanyi, Peter>and I clarify the Tracy team question,
+and Logan's team will do coexistence and</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1140-2
+00:54:52.628 --> 00:54:57.976
+<v Zimanyi, Peter>perhaps scale. So,
+Power Mon is should be out of scope.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1142-0
+00:54:58.256 --> 00:55:00.256
+<v Zimanyi, Peter>For this group, OK.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1146-0
+00:55:02.976 --> 00:55:06.807
+<v Zimanyi, Peter>All right, so that's all for today.
+Terrence,</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1146-1
+00:55:06.807 --> 00:55:12.968
+<v Zimanyi, Peter>I set up more discussion with the other
+folks and we continue from there.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1146-2
+00:55:12.968 --> 00:55:15.216
+<v Zimanyi, Peter>Thank you guys for joining.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1147-0
+00:55:16.496 --> 00:55:17.216
+<v Zimanyi, Peter>Se you later.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1148-0
+00:55:17.456 --> 00:55:18.096
+<v Facker, Dan>Thank you.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1149-0
+00:55:17.856 --> 00:55:18.336
+<v Srivastava, Vineet>Thank you.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1153-0
+00:55:19.216 --> 00:55:20.496
+<v Tan, Theen-Theen>Okay, thank you. Bye-bye.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1152-0
+00:55:19.776 --> 00:55:20.416
+<v Van Valkenhoef, Terrence>Thank you.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1154-0
+00:55:20.336 --> 00:55:21.056
+<v Hames, Isaiah>Thank you.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1157-0
+00:55:20.496 --> 00:55:21.216
+<v Modahala, Logan>Thank you.</v>
+
+4b7addac-e3d1-4b0f-9bec-5ed4bf440b2a/1164-0
+00:55:22.896 --> 00:55:24.576
+<v Modahala, Logan>Hey, Sajeev, get some rest, man.</v>
