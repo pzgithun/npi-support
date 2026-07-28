@@ -1,0 +1,261 @@
+Paluri, Raji [0:35]: Okay.
+Paluri, Raji []: Hello, everybody.
+Kumar, Raj [0:53]: Yeah.
+Paluri, Raji [0:55]: Hello.
+Terry, Jay [0:57]: Right.
+Paluri, Raji [0:57]: Okay.
+Kumar, Raj [1:30]: Bye.
+Kumar, Raj []: Can you brief?
+Terry, Jay [2:23]: Hey, Raji, this is Jay with delivery. I got a quick question, if I could, maybe before we get started. So,
+Paluri, Raji [2:27]: Sure. Yep.
+Terry, Jay [2:32]: We have an issue in Gen. 5 Riva that was just identified across like all branches of firmware with respect to the, like a reconnect switch, reconnect operation that hits the meter right at the top of the minute. And I wanted to see where it was appropriate or who I could talk to about.
+Esper, Esam [40:37]: That's correct, yeah, and it's already marked on the on the document.
+Yada, Suresh [40:37]: Correct.
+Paluri, Raji [40:38]: Okay.
+Paluri, Raji []: Perfect. Thank you. Okay, back to the last subject here, that is the, oh, okay, we talked through that. How defects will be triaged for this milestone do you expect for each open bug a detailed customer impact review by 1st of October? Good God. Good questions.
+Paluri, Raji []: Yeah.
+Esper, Esam [41:00]: I talked with Matt about this and I'm not sure how to answer this because I'm not sure how the process is going internally to do this. But what I would say that whatever we need to do to make sure that the list that PG&E is going to test had been done successfully internally.
+Esper, Esam []: we need to do that. Is it by having the same triage process? Is it by having a different process, imitating what PG&E is going to test, like to simplify the process instead of going our full VE list?
+Esper, Esam []: I'm not sure how to address that, so...
+Esper, Esam []: Again, Matthieu was planning to reply to this comment because we talked about this and he knows more than, better than me on these details. But my insight that whatever needed to make sure the list of PG&E is successfully tested internally, we need to do that.
+Paluri, Raji [41:59]: John Boris, do you have any concerns of not achieving that given this document and the list of test cases?
+White, Jon [42:08]: So I've gone through the list of test cases. The majority of them are presently being tested by the system test team. There's three or four test cases that require rollover of some kind that we're not doing. We can certainly add that to our test plan.
+Paluri, Raji [42:11]: Mhm.
+Daruvuri, Sreenivasa [42:14]: Yeah.
+White, Jon [42:27]: But we're not looking at this as a separate project. This is just what's being done in run one, run two, run three to release this product.
+Paluri, Raji [42:33]: OK.
+White, Jon [42:39]: Now, I had a meeting with David Windsor back in May, because not only are we doing internal testing, what's the expectation for IST to support PG&E? Are we going to be there running the test cases? And he said, discussing it with CJ, we're just there in a support role.
+Paluri, Raji [42:39]: It.
+Paluri, Raji []: Mhm.
+White, Jon [42:58]: PG&E knows how to run all these test cases, so don't expect much interaction with PG&E.
+White, Jon []: at least from the mesh standpoint.
+Daruvuri, Sreenivasa [43:08]: Correct, John, but PG&E, they will run in the road. We are okay. But are we seeing a green light? We tested these test cases and we are good to ship these samples.
+Paluri, Raji [43:08]: Okay.
+White, Jon [43:13]: Yes.
+White, Jon []: That's what I tried to explain. We've reviewed all the requirements in there. We're performing the majority of the test cases that they'll be performing during run one, two, and three. There are a couple of extra test cases that we're not performing that we will include in our
+White, Jon []: run two and three test plans. So to answer your question, we are running all of the PG. We're running the ones that system test normally runs. And I can highlight that in this document as to what we are running and what we are not running. If you want to look at it and see if there are gaps.
+Daruvuri, Sreenivasa [43:56]: Okay.
+Daruvuri, Sreenivasa []: Then, the question is, if you plan in run two, run three, they are not ending before this delivery.
+Paluri, Raji [44:04]: Exactly. Bingo. Yep.
+Daruvuri, Sreenivasa [44:05]: There is no problem. So we had to have a separate run plan for this test case, I mean test cases, to be completed by end of August. Because September, we need to have a plan to fix the bug fixes and do this product secure build testing and all that stuff.
+Daruvuri, Sreenivasa []: So if you plan these test cases in run two or run three, we are way after this delivery.
+White, Jon [44:35]: The issue is resources. This is not part of the existing capacity plan. This is not a project. This is a separate project. We're looking at it that way. Separate group of people.
+Daruvuri, Sreenivasa [44:46]: I understand, but what I'm saying is we cannot plan these test cases.
+Daruvuri, Sreenivasa []: As part of this year, we must plan these test cases by end of August to complete the testing of these, running these test cases by end of August. Either it could be part of your normal plan or we have to have a separate resource to test it.
+Daruvuri, Sreenivasa []: But if you try to test these test cases in late September or mid-September, we will not be able to meet the date what they are asking here.
+White, Jon [45:19]: Test run two starts on August 17th, and that's when the EPON is going to be delivered to Boris to be able to.
+Daruvuri, Sreenivasa [45:29]: And if I understand correctly, the EPON is not part of this request, correct?
+Paluri, Raji [45:32]: Wright.
+Daruvuri, Sreenivasa [45:35]: So if EPON is not part of the request, Raji, one question I think we should ask CA teams, what is missing with respect to the scope mentioned in the CR with the current build set so that we can request ISA team to start this testing immediately and try to complete by end of August.
+Paluri, Raji [45:49]: A.
+White, Jon [45:57]: Sure. So I can...
+Schneider, Boris [45:58]: We start run mid-August, so how we are you are you saying we need to start before mid-August?
+Paluri, Raji [45:58]: Okay.
+Paluri, Raji []: Can some of these be part of 1.1, John, or are you pretty tight in 1.1 already with the scope?
+White, Jon [46:13]: I'm going to look at what we did in run one and assume that the majority of these test cases were performed in run one. Now, my point is there may be a whole lot of bugs that Shirini and team need to fix before we start run two. And then run two, we've only got two weeks before Shirini's timeline of saying you have to.
+Paluri, Raji [46:17]: Okay.
+Paluri, Raji []: Mhm.
+Schneider, Boris [46:32]: Bye.
+White, Jon [46:34]: Be done at the end of August, so...
+Daruvuri, Sreenivasa [46:36]: Yeah, I don't want to link this one with the run 2 because run 2 is 817 and you will not, I mean two weeks will not be enough to run all these test cases.
+White, Jon [46:47]: Sure, but I also want to be realistic. I may have run all the test cases, and I've actually got a very high pass rate. We're at 93%. So I don't anticipate a whole bunch of GTO bugs or IST bugs. What I'll do just to make everybody feel comfortable is to look at all the test cases we ran in 1.1.
+Daruvuri, Sreenivasa [46:57]: Understand.
+Daruvuri, Sreenivasa []: Yep.
+White, Jon [47:07]: run one, compare it against the list, and hopefully we're very close to performing all of the test cases that are in the PG&E document. I know there are four test cases we did not run, and Raji, to answer your question, we can attempt to run those in run 1.1.
+Daruvuri, Sreenivasa [47:15]: Ah.
+Daruvuri, Sreenivasa []: Yeah.
+Paluri, Raji [47:23]: Okay, so I'm going to make this clearly written down here. So John is going to compare test cases. We ran in run one, identify gaps.
+Paluri, Raji []: from the PG&E document, if there are any.
+Paluri, Raji []: Plan will be to run them during.
+Paluri, Raji []: 1.1 or run 2 by before before end of August.
+Daruvuri, Sreenivasa [47:59]: End of forest, yes.
+White, Jon [48:00]: Yeah, and just popped into my mind, we don't have arc detection yet. That is a requirement for PG&E, and we don't plan on getting that through Raj's integration until August 17th.
+Paluri, Raji [48:00]: Okay.
+Paluri, Raji []: 810 is the date for, yeah, 810 to your team is the date for arc.
+White, Jon [48:15]: Yeah.
+White, Jon []: That's to Raj, and then he needs three or four days to run his sanity test before it's given to system test.
+Paluri, Raji [48:27]: 83 to 87 is Raj, 810 is to you and Boris. Still, we're looking at middle of August.
+White, Jon [48:30]: Okay.
+White, Jon []: Yeah.
+White, Jon []: Sure.
+Daruvuri, Sreenivasa [48:35]: We we can add that as a risk arc is 1 feature, yeah.
+Paluri, Raji [48:38]: Right, our feature won't.
+Paluri, Raji []: Deliver to IST until 8:10.
+Daruvuri, Sreenivasa [48:48]: Yeah, and Raji, one more thing I would like from Boris and John is when you guys reviewing your test case run run test cases, and if you see any bug opened against those test cases of PG&E, whatever we have in the CR, can you please add a tag PG&E?
+White, Jon [48:56]: The.
+Daruvuri, Sreenivasa [49:07]: Samples, that's what we are calling here, is it?
+Paluri, Raji [49:10]: Yeah, that's right.
+White, Jon [49:11]: Yes, yes, yeah, we can do that.
+Daruvuri, Sreenivasa [49:12]: Yeah.
+Daruvuri, Sreenivasa []: You can tag that so that we can focus those test bug fixes faster and try to give you builds earlier than 817.
+White, Jon [49:22]: Yes, we can do that.
+Daruvuri, Sreenivasa [49:23]: Yeah.
+Paluri, Raji [49:24]: Okay, good. Raj, you're going to update a query or something to catch these so that we start discussing the most critical ones for PG&E? Okay, thank you. I'm just throwing something here, but we'll come up with a tag that we can set and use that.
+Kumar, Raj [49:31]: Yep.
+Kumar, Raj []: Yeah.
+Daruvuri, Sreenivasa [49:40]: Yeah.
+Paluri, Raji [49:43]: So R&D can prioritize these bug fixes.
+Daruvuri, Sreenivasa [49:50]: Yeah, ultimately, we need to maybe track what are the test cases for PG&E and how many are, I mean, for the sample, how many are run, how many are not executed, how many bugs we have on those test cases.
+Paluri, Raji [50:04]: Okay.
+White, Jon [50:06]: To reset expectations.
+Paluri, Raji [50:06]: So basically that comparison that John was talking about, and then what are must fix bugs that we have to go look at. Okay.
+Daruvuri, Sreenivasa [50:12]: Correct, yeah, yeah, and I make sure I think we need a commitment to be to fix those bugs by run to build, and ultimately I mean our target should be run to build is a candidate for sample.
+Esper, Esam [50:20]: Yeah.
+Paluri, Raji [50:28]: Priya.
+Kumar, Raj [50:30]: Yeah, it it's is it the same exercise like IEC must fix right, Shayne?
+Daruvuri, Sreenivasa [50:35]: Yes.
+Kumar, Raj [50:36]: So make it a PG any mouse fix.
+Daruvuri, Sreenivasa [50:40]: But not PG&E, but this is for sample, not for the end, right?
+Paluri, Raji [50:40]: Okay.
+Paluri, Raji []: Not BE, right? Yeah, so.
+Kumar, Raj [50:45]: Ohh.
+Daruvuri, Sreenivasa [50:46]: I will play sample word there.
+Kumar, Raj [50:48]: Okay.
+Paluri, Raji [50:49]: I don't know. PG October must fix something like that.
+Daruvuri, Sreenivasa [50:57]: I think we can use sample when I don't know whether these are.
+Kumar, Raj [51:07]: Okay.
+White, Jon [51:10]: And I just want to clarify, to set expectations. There are many test cases in the PG&E test plan that system test does not traditionally test. So we're not testing. So I will highlight the test that in the document, the PG&E document, I'll highlight the traditional system test.
+Paluri, Raji [51:20]: Ohh.
+Paluri, Raji []: Mhm.
+White, Jon [51:29]: cases and verify that we do have a test case in our run one, run 1.1 test plans.
+Daruvuri, Sreenivasa [51:36]: Okay, and whatever is not covered by you, John, I think we should review with the PLM and make sure we are not testing and they should either have a plan, separate plan, or make sure that's a risk involved.
+Paluri, Raji [51:37]: Okay.
+White, Jon [51:42]: Yep.
+White, Jon []: Sounds good.
+Paluri, Raji [51:54]: Okay.
+Schneider, Boris [51:55]: Yeah, Srini, on DI side, I think we got a few test cases around app serve or hand functionality. There's several cases in this document related to hand, but I'll add this tag to those bugs so you guys can review.
+Daruvuri, Sreenivasa [52:14]: OK, yeah.
+Daruvuri, Sreenivasa []: And also, what are the agents needed by this PGME and the DI functionality, anything in this here?
+Paluri, Raji [52:24]: There is a PDA. OK, so.
+Schneider, Boris [52:25]: Bye.
+Paluri, Raji [52:28]: PVA and ATXM location awareness.
+Daruvuri, Sreenivasa [52:31]: We need to make sure, yeah, we need to make sure our outcomes QA team are committed to test them before end of August.
+Paluri, Raji [52:40]: Yeah, I'm going to follow up with Peter and David on that.
+Daruvuri, Sreenivasa [52:45]: Yeah.
+Paluri, Raji [52:46]: to make sure end of August they are done testing.
+Paluri, Raji []: their side of the apps as well.
+Paluri, Raji []: Okay.
+Esper, Esam [52:57]: But, but this one is...
+Esper, Esam []: The DI app testing.
+Esper, Esam []: The document doesn't say that it's required for the basic solution, right?
+Paluri, Raji [53:07]: Is it not?
+Esper, Esam [53:09]: I'm trying to remember like that.
+Paluri, Raji [53:11]: Okay.
+Esper, Esam [53:17]: If you go back to the base little in testing paragraph 6.2.
+Esper, Esam []: Aday.
+Paluri, Raji [53:28]: Scope.
+Schneider, Boris [53:41]: Yeah, here is just a basic DI functionality.
+Schneider, Boris []: They don't mention any particular.
+Esper, Esam [53:46]: Then the third part there says DI application functional testing will not be in the scope, but there will be limited testing.
+Paluri, Raji [53:51]: Yeah, explicitly excluding.
+Paluri, Raji []: So maybe Esam, is there a way to just double check that it is not part of this, then I don't have to.
+Esper, Esam [53:59]: Fashion Sen.
+Daruvuri, Sreenivasa [54:06]: Then why can't we clean up this document and attach what is the required here?
+Paluri, Raji [54:10]: Yeah, only what is needed.
+Esper, Esam [54:14]: Because this document is run between CME and the customer, and they are trying to define the full testing cycle for everything, and which includes the final production testing, but it's pretty clearly saying.
+Paluri, Raji [54:28]: But this change request doesn't require everything to be tested, right? That's not the ask. We can leave this as the entire document, but...
+Esper, Esam [54:34]: No, no, no, if you go.
+Esper, Esam []: And the description of the change request, it's very clearly saying that the scope of this change request is high voltage testing and basic solution testing.
+Daruvuri, Sreenivasa [54:51]: Esam, you can go through this document and mention the sections at least there, instead of everybody looking into that, what is required, what is not required.
+Paluri, Raji [54:58]: Yeah.
+Esper, Esam [55:00]: Well, I mean, the document should be read with the description of the change request, right? I mean, you are not going through one of them without the other. If you go to the details of the change request, it is very clearly saying that there is an attachment document, and that document has three sections, and the purpose of this change request is the 1st and the second one.
+Esper, Esam []: defining exactly how many units are going to be used in the basic one and how many, yep, exactly, we go to, yep, exactly, we are not, we didn't talk about the final production testing in this chain request. It's very clear, high voltage, basic solution.
+Daruvuri, Sreenivasa [55:38]: Okay, what is the problem of updating the or removing the document what is not required and attach here?
+Daruvuri, Sreenivasa []: It will be clear for everyone.
+Paluri, Raji [55:46]: Yeah, it.
+Paluri, Raji []: I think it will reduce confusion, Esam. I understand what you're saying, that yeah, what it's in the details, but then somebody jumps to this document. Maybe they're not part of the core team and not reading the whole CR.
+Esper, Esam [56:03]: Okay.
+Paluri, Raji [56:06]: It will reduce a lot of pain.
+Esper, Esam [56:06]: I would suggest that to the CME. I don't know the document. It's very, like, as I say, this is coming from BJ&E and the solution delivery team.
+Paluri, Raji [56:18]: But can there be a version of this that is for the core team that shows exactly which sections are these that we want to test for this October release?
+Esper, Esam [56:18]: Out.
+Daruvuri, Sreenivasa [56:25]: Sample.
+Paluri, Raji [56:27]: I'm not saying change this. It is what it is you're given by the CME team. That's fine.
+Paluri, Raji []: Can there be another document to indicate to the core team test only this section or you don't need to test this? Just be explicit in there so there's no confusion.
+Esper, Esam [56:43]: Well, the point is that the checklist includes both basic solution and final production with a tag that, like, you can see that there's TD01 and SI02, so the list includes both, but we need to do the basic solution first only.
+Esper, Esam []: And remember something that the final production is still required in January 2027. We're not saying we're going to get.
+Paluri, Raji [57:05]: but it's not required for this October release, right? So to Boris's point earlier, even by reading that description, somebody like me, I don't think I would have been able to tell that this part is not required for October.
+Esper, Esam [57:08]: Exactly.
+Paluri, Raji [57:21]: Not everyone who is reading the CR or opening the document are privy to every section, right?
+Paluri, Raji []: If I open this document and read it, I would have thought this section is also part of October test, October release, that this should be tested.
+Esper, Esam [57:39]: Of course, if you are reading the document without the description of the change request, yes, you are right.
+Paluri, Raji [57:45]: Even if I read the description, I would have still misunderstood because I am reading from just a high level perspective. I am not the technical person who can understand this. So for the change request, it should be available for anybody to simply look at it and understand.
+Esper, Esam [58:03]: Let me verify with the team and see what sections you want to have. What are they going to section like they need to be taken out?
+Paluri, Raji [58:10]: Okay.
+Paluri, Raji []: All right, anybody from meter from it or any other questions on that? I think this will be a action, John, that if you can take and let us know. I feel like maybe we need a separate PG&E meeting at least once a week, 30 minutes, just to make sure we're aligned because I don't think we can go through this at core team.
+Paluri, Raji []: Every week, spending an hour. If you guys have other thoughts, let me know, but as we approach...
+Paluri, Raji []: August. We just got to tighten up.
+White, Jon [58:46]: Yeah, we've already started the process. We've already gone through and put together a spreadsheet with the requirements that we can test. And we can certainly link them to the existing test cases and also have a column for bugs. If you want to do that outside of this meeting, as soon as we update the spreadsheet,
+Paluri, Raji [59:00]: Okay.
+White, Jon [59:05]: see what we agreed to do today. Hopefully in the next couple of days, we can call a separate meeting and go through it. You just let me know who you want at that meeting. But that's the only system test. There's a whole bunch of other stuff in there that other teams will be testing or it's going to be NA.
+Paluri, Raji [59:07]: Mmh.
+Paluri, Raji []: Yeah.
+Paluri, Raji []: Okay, sounds good.
+Paluri, Raji []: That's right.
+Paluri, Raji []: Okay, yeah, let's start with that and then we'll see what we, I'll talk to Matt, do on how we should approach so we don't have any gaps.
+White, Jon [59:24]: So I'll do it from a system testing.
+White, Jon []: OK, sounds good.
+Daruvuri, Sreenivasa [59:33]: And Raji, what is the expectation from Metro Farm team here?
+Paluri, Raji [59:40]: I don't know.
+Paluri, Raji []: Esam.
+Paluri, Raji []: Or maybe, maybe we should hold that until we have Summer and Matt on, Srini. I don't know.
+Daruvuri, Sreenivasa [59:52]: Okay.
+Esper, Esam [59:52]: Like, what's the question?
+Daruvuri, Sreenivasa [1:00:00]: The scale requirements is up here.
+Daruvuri, Sreenivasa []: We have a metroform, we do the scale testing there.
+Esper, Esam [1:00:09]: Mhm.
+Daruvuri, Sreenivasa [1:00:12]: Scale and stability. So what is the samples requirement for scale and stability?
+Esper, Esam [1:00:21]: What?
+Daruvuri, Sreenivasa [1:00:21]: Testing.
+Esper, Esam [1:00:23]: Like, for the basic solution testing, we are shaping 12 meters only.
+Daruvuri, Sreenivasa [1:00:30]: Yeah, that that's on the scale and the stability is that there's a two parts we cover there. Maybe I think Raj, we need to see the Metro Farm schedule. They are completing run one or they are, I don't know when they're completing the run one.
+Paluri, Raji [1:00:43]: I thought they were done with run one. They are pretty much on the same schedule as John waiting to start run 2 on 817.
+Daruvuri, Sreenivasa [1:00:56]: Okay.
+Paluri, Raji [1:00:59]: Yeah, let me see if Summer had any updates.
+Paluri, Raji []: Yeah, they they finished their round one.
+Paluri, Raji []: So is there anything specific in that document, you think, Srini, that farm?
+Daruvuri, Sreenivasa [1:01:17]: I think there's no mainly and the stability is the one I think which we need to be.
+Daruvuri, Sreenivasa []: we need to either mention it as an exception. I think we are not able to complete the stability testing for the sample.
+Paluri, Raji [1:01:30]: And that is a farm test.
+Daruvuri, Sreenivasa [1:01:32]: Yes, fantastic.
+Daruvuri, Sreenivasa []: Scale and stability, yeah.
+Paluri, Raji [1:01:42]: Do we know for sure it is an exception to this?
+Daruvuri, Sreenivasa [1:01:49]: Yes, because we are not able to complete that, correct, by this sample.
+Paluri, Raji [1:01:50]: Or we need it.
+Paluri, Raji []: OK.
+Paluri, Raji []: Ting.
+Paluri, Raji []: And.
+Paluri, Raji []: Complete by then.
+Paluri, Raji []: OK.
+Paluri, Raji []: Is that something I should check with Summer?
+Daruvuri, Sreenivasa [1:02:24]: Not someone, I think it should be just to.
+Daruvuri, Sreenivasa []: exception we need to get approval from PLM, correct?
+Paluri, Raji [1:02:31]: OK, so Esam, will you be able to get back to us on the stability and skill testing?
+Daruvuri, Sreenivasa [1:02:32]: Yeah.
+Esper, Esam [1:02:40]: Would you mind to schedule a call? I'm not sure who was asking.
+Esper, Esam []: Who is the stakeholder about this? If you can like schedule a call so we can discuss it offline, that would be good.
+Paluri, Raji [1:02:54]: Do we need a call, Srini, or an e-mail would suffice?
+Daruvuri, Sreenivasa [1:03:01]: I don't think we need a call. I mean, in some way, whom we should send the e-mail there. Or we can put in the CR, I think, while approving.
+Esper, Esam [1:03:13]: Okay. Okay.
+Daruvuri, Sreenivasa [1:03:14]: When ultimately we are saying we made a form, I mean, we have a scale and stability testing, and by October timeframe, we will not be able to complete that. So we are taking exception without completing a stability and scale testing. We are planning to ship these samples.
+Esper, Esam [1:03:31]: I agree. I approve it. I don't mind.
+Daruvuri, Sreenivasa [1:03:34]: Yeah.
+Paluri, Raji [1:03:35]: OK, Shini, is that a comment that you will put in, or will I should I ask Summer to put in? How do we want to approach it so it's captured in the CR?
+Daruvuri, Sreenivasa [1:03:44]: I think if somebody is approval, she can put it.
+Paluri, Raji [1:03:48]: I don't even know if Summer is on the approval list. I don't think she is, but I think she should be.
+Daruvuri, Sreenivasa [1:03:48]: Pichot.
+Paluri, Raji [1:04:01]: Okay, I'll send a note to Summer and have that comment in there and then Esam you can respond.
+Paluri, Raji []: Okay, we're past time. I don't think I have any other critical items. We just got to get those bills done. There will be some...
+Daruvuri, Sreenivasa [1:04:19]: I think the high level overall, Raji, I think the functionality what we need for this sample, it's already present except the arc, correct? So I think we should move forward whatever the run 1.1 testing. We should continue to test these test cases. If any bugs.
+Paluri, Raji [1:04:22]: Mm.
+Paluri, Raji []: That's right.
+Daruvuri, Sreenivasa [1:04:38]: We should tag as a Australia, sorry, PGNE samples. Yeah, PGNE samples, and then we should try to fix them before the run to build.
+Paluri, Raji [1:04:43]: Yeah.
+Daruvuri, Sreenivasa [1:04:49]: And our target is run to candidate, run to build candidate is the candidate for our samples.
+Paluri, Raji [1:04:56]: That's right.
+Daruvuri, Sreenivasa [1:04:57]: Yeah, OK.
+Paluri, Raji [1:04:59]: Sounds good.
+Paluri, Raji []: All right, everybody.
+Paluri, Raji []: We'll talk next week. If you have any questions, let me know.
+Paluri, Raji []: Bye.
+Esper, Esam [1:05:09]: Thank you.
