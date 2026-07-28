@@ -1,0 +1,769 @@
+Facker, Dan [0:13]: Everyone.
+Bernas, Jason [0:14]: Hello.
+Bernas, Jason []: How are you doing?
+Facker, Dan [0:20]: Okay.
+Bernas, Jason [0:21]: Good.
+Bernas, Jason []: Okay, let us start.
+Bernas, Jason []: I start at the top. I wanted to go down the program dependencies that are left open and see if any of them can be closed.
+Bernas, Jason []: A few of them have been closed since our last call, so I removed them.
+Bernas, Jason []: So the ones that are pending, Howard, welcome back. We missed you last week.
+Hardiman, Howard [1:53]: Hello.
+Bernas, Jason [1:55]: Hi, good to hear your voice. Okay, one of the dependencies I noticed was this for the hardware team that we can expecting. He needed to know the pilot scheme for Epon. So I know before you were out last week, you were working on the requirement, refining it. Can you...
+Bernas, Jason []: Tell us if you agree with them.
+Hardiman, Howard [2:14]: Yeah, I mean, yeah, the mature draft that I have now, I mean, I think Waykun knows what we're asking of them. And they, unfortunately, though, he's had some other thing crop up that he's having to prioritize. He just told us this in the
+Bernas, Jason [2:23]: OK.
+Hardiman, Howard [2:35]: some kind of MPU change or something. So we said next week he should be able to, like I said, I'll set a meeting with him next week, he should be able to give us the idea of.
+Bernas, Jason [2:39]: Mm.
+Hardiman, Howard [2:50]: The the the cost of.
+Hardiman, Howard []: how the device will operate. So that's one part of it. Now, I think the other part that he is saying he's gated by, right, is actually getting the firmware where he can test it. I think that's what he's saying, right? He can't say when he'll be done because he doesn't know when he'll have the firmware.
+Bernas, Jason [2:54]: Mm.
+Hardiman, Howard [3:14]: that he would need in order to actually test it. So I think for the pin and pad exercise, I think Waykun and James understand what we need. I don't know if they're on or not. They could be on. But the part where they actually may test it and, you know, want to verify with measurements, they would
+Bernas, Jason [3:18]: Mhm.
+Hardiman, Howard [3:34]: They would need the firmware, and I think that's what he's listing as the dependency.
+Bernas, Jason [3:39]: Okay, and okay, it needs firmware and firmware drop date, and which, like, which team is providing him this firmware?
+Hardiman, Howard [3:50]: Well, so I think we need to take, I think we need to take a step back, right? So when I, before I left, you know, I did the review of that system requirement and we said, you know, it core team members,
+Bernas, Jason [3:52]: Is it the outcomes from our team?
+Bernas, Jason []: Mhm.
+Hardiman, Howard [4:07]: You know, desire that we were wanted to drive that with a change request, right? So, to me, everything we're talking about right now is the impact analysis and everything for that change request, right? So...
+Hardiman, Howard []: I mean, does everybody agree with that? Like, remember, we drove the CR. We said anything that was beyond what was being done in the pilot, new requirement, drove the CR.
+Dahm, Claus [4:33]: Yeah, I I'd like to have the C.R. discussions need to be kept, but I don't wanna be say kept separate, but...
+Dahm, Claus []: We need to prepare ourselves to have these conversations in this meeting for the CR. Should that be part of the scope for this release or not? You know, I don't want to spend a whole lot of time
+Dahm, Claus []: Discussing a CR.
+Dahm, Claus []: in the context of planning the primary project. Like the CR is the CR.
+Dahm, Claus []: And and and that needs to be planned separately, and then we can move it into the program.
+Hardiman, Howard [5:25]: Well, see, I guess that's what we may need to talk about because I mean, in the times we've had this sort of come up, I think we tried to have the evaluation of the CR as part of the planning exit. I think what you're saying is, I guess, to plan the project as if
+Dahm, Claus [5:44]: Well, yeah, it was the CRI. We have a lot of dependencies and this is 1 tiny little part of it. Last week, we heard that there are apparently also some dependencies on
+Hardiman, Howard [5:45]: Like.
+Dahm, Claus [6:00]: Whether that was correct or not, I don't know. I'll have Dan Dan Facker response to that, but apparently there may be some dependencies on on on.
+Hardiman, Howard [6:10]: Yeah, that, yeah, that, that, yeah, that C.R. is is scoping.
+Hardiman, Howard []: You know, changes to app serve and the agent behavior, yes.
+Dahm, Claus [6:20]: Yeah, yeah, so, so I think we I think we need to take a step back on the CR and go and do some serious homework on that so we can bring it into the program as a CR, not make everything in the program that CR, because we can discuss this for the next hour.
+Dahm, Claus []: And I'd rather not do that because we have a lot of other things we need to talk about.
+Dahm, Claus []: A
+Dahm, Claus []: Yeah.
+Bernas, Jason [6:45]: Yeah, so Howard, how is there more work to do the analysis for that to close that off and?
+Hardiman, Howard [6:50]: No, that that's that CR is ready for the impact assessment. As far as I'm concerned, that CR is ready for the impact assessment of the affected teams. So we may need to go to the, you know, back to that to that process because you know, Gene and them, I think we've updated the CR process and everything.
+Bernas, Jason [7:01]: Okay.
+Hardiman, Howard [7:10]: I think we need to update the format of it if it still is not like following the format and then add the approvers, right?
+Bernas, Jason [7:21]: Also has not been approved yet.
+Hardiman, Howard [7:24]: Uh-uh. No, that was the whole, yeah, I think the whole point is that we're going through the, you know, the CR process, you know, to come up with the impact assessment from the affected teams and then
+Dahm, Claus [7:25]: Yeah.
+Bernas, Jason [7:25]: EE.
+Hardiman, Howard [7:37]: determine the impact to the program timelines, yeah.
+Bernas, Jason [7:45]: Okay, so are you driving that to get approval or are you expecting someone else to?
+Hardiman, Howard [7:51]: No, I'm expecting, like, I'm going to go back, like me and Summer should look at it again to be sure that it's formatted like properly, and then that we put the proper approvers on there, right? Because I think there needs to be, there needs to be the, you know, the effective development leads have to be approvers, and we need impact assessment from them.
+Bernas, Jason [7:59]: Mhm.
+Bernas, Jason []: Yes, yeah.
+Bernas, Jason []: Mhm.
+Hardiman, Howard [8:12]: And then also the test resources and the PLMs, most importantly, right? We need them, so, so that's our, you know, approve set of approvers at a high level, and...
+Bernas, Jason [8:13]: Mhm.
+Bernas, Jason []: Okay, okay, so it sounds like you and Sam are working towards approval.
+Bernas, Jason []: Together, yeah.
+Hardiman, Howard [8:31]: Right, but then, so then, yeah, so then once that's done, then we will assign it to you to drive the actual, to get the impacts and the approvals. But the draft system requirement that I reviewed that day, I'll spruce that up a little bit, but that's the target, right? It's that scope that we need to be
+Bernas, Jason [8:38]: Yeah.
+Bernas, Jason []: Understood.
+Bernas, Jason []: Okay.
+Hardiman, Howard [8:53]: Driving the impact of.
+Bernas, Jason [8:55]: Okay, so...
+Bernas, Jason []: The so is Wei Wei Kun blocked until this CR is accepted, or can he proceed without the CR for his piece?
+Hardiman, Howard [9:07]: All of the development aspects can proceed, but I think we're doing this to administratively call out the difference and then any impact to the actual schedules that results from this.
+Bernas, Jason [9:22]: It sounds like they would impact schedule. It increases the scope.
+Bernas, Jason []: for the development teams, right?
+Hardiman, Howard [9:29]: The development teams and then the test scope is probably a little different as well. I think that, you know, it just is what it is, right? Doing the right thing in this moment. I think we will also need to ask ourselves, do we need to see this work on the farm after we do these changes? And
+Bernas, Jason [9:32]: In test as well.
+Bernas, Jason []: Yeah.
+Bernas, Jason []: Yeah.
+Bernas, Jason []: Mm.
+Hardiman, Howard [9:51]: I mean, I think there's that kind of discussion that needs to happen about this now that...
+Hardiman, Howard []: You know, we've unearthed this other mode and set of behavior that we need to support.
+Bernas, Jason [10:05]: Okay.
+Bernas, Jason []: Mm.
+Bernas, Jason []: Do you feel that this would be rejected by the impacted teams or it must be accepted for this program?
+Hardiman, Howard [10:19]: Um...
+Hardiman, Howard []: I mean, it's kind of hard to answer that, right? I mean, I believe that none of this is frivolous, right? We found out something uncomfortable, you know, a couple months back and we've actioned it correctly here, right? And I don't think anyone here is like disputing that, right? Now that we know how they're using the device, we got to try to
+Bernas, Jason [10:34]: Mhm.
+Hardiman, Howard [10:42]: try to at least sit in the ponds. If it don't work out right, then we'll have to deal with that, right? But so I think...
+Hardiman, Howard []: I mean, I, I, I don't see, I don't see a world where we would release it without this, but you know, again, I, I, that's what I think the...
+Bernas, Jason [10:56]: Okay.
+Hardiman, Howard [11:02]: you know, the process would iron out. So maybe we probably need to maybe Summer set up a dedicated, is Summer on? I think she's out.
+Bernas, Jason [11:10]: Hey, I don't know what she's done.
+Hardiman, Howard [11:11]: Yeah, I think she's out and back tomorrow. But it may be that we need to take this, like, kind of like Claus was suggesting, set up a dedicated meeting, you know, for this CR with the players. Me and Summer updated, so it's like, like the format and the approvers are outlined.
+Bernas, Jason [11:14]: OK.
+Bernas, Jason []: Yeah.
+Hardiman, Howard [11:30]: And then we have a dedicated conversation about this, because, in my experience...
+Bernas, Jason [11:36]: Oh.
+Bernas, Jason []: Mhm.
+Hardiman, Howard [11:37]: They will look at us strangely if we present a schedule and go to planning exit with this just hanging out there.
+Hardiman, Howard []: I think whether it's a CR or not, it has to go into the plan or be rejected as not such.
+Bernas, Jason [11:48]: Yeah.
+Bernas, Jason []: Yeah, accepted or approved or rejected. I agree. Okay, so I think the bottom line is, like, Wagner doesn't ask me about when the firmware dates are. You're raising that now. What he needs is, you know, a clear pilot.
+Hardiman, Howard [11:59]: Yes.
+Bernas, Jason [12:13]: Scheme is what he needs, right? And he thinks he believes he needs it from you.
+Hardiman, Howard [12:16]: Yeah, and I, and I, and I contend he has that right. I mean, in in what we talk like, because we talked and like I said, and I set up a meeting with him for this afternoon, his response was not, Howard, what the hell are you asking me? His response was, oh, we had another priority come up. I can't, I had to look at something else last week and this week.
+Bernas, Jason [12:27]: Okay.
+Hardiman, Howard [12:37]: So I think him and James know what we're asking of them.
+Bernas, Jason [12:37]: Yeah.
+Hardiman, Howard [12:41]: In this, in this short-term request, now what they want to do once they actually get some firmware is another story, but, but, but what...
+Bernas, Jason [12:41]: Bookies.
+Bernas, Jason []: Yeah. Okay, does he, okay, I understand, I understand what he has to do, but does he, does he have everything he needs to provide a date, do you think?
+Bernas, Jason []: Or...
+Dahm, Claus [12:59]: Why do we keep speculating? Guys, can we stop this, please? Now we're coming up on almost 15 minutes of discussing something we should really be having in a separate meeting.
+Hardiman, Howard [12:59]: For that, for that.
+Bernas, Jason [13:00]: EE.
+Hardiman, Howard [13:03]: Mhm.
+Hardiman, Howard []: Yeah.
+Hardiman, Howard []: Yeah, let's do that.
+Bernas, Jason [13:13]: Okay, so.
+Hardiman, Howard [13:13]: But the the urgency needs to be up there though, because...
+Dahm, Claus [13:15]: These are all good questions, but we need more time to go through the details of them, and we need to have the right people in the room.
+Hardiman, Howard [13:22]: Yeah.
+Hardiman, Howard []: I'm okay with that.
+Bernas, Jason [13:24]: Right, so Howard, okay, so you will work with Way Kun on this. We'll keep this dependency item open.
+Hardiman, Howard [13:27]: We are working with Waykun on the side, but what Claus is suggesting here is that we should, you know, scribble down a list of the players and set up a dedicated meeting on the CR. And it's part project management, it's part scope discussion, so that
+Bernas, Jason [13:31]: Okay.
+Dahm, Claus [13:37]: Yeah.
+Dahm, Claus []: Exactly.
+Bernas, Jason [13:45]: Mhm.
+Hardiman, Howard [13:46]: so that these guys can go off and come back with the impact. And yeah, because I don't think it's going to be welcomed to us not having this ironed out ahead of the planning exit.
+Bernas, Jason [13:57]: Understood.
+Facker, Dan [14:00]: Can I ask if we put the CR link in this page somewhere? I didn't see it.
+Hardiman, Howard [14:04]: Yeah.
+Bernas, Jason [14:06]: EE.
+Bernas, Jason []: Sure, I think I saw it.
+Bernas, Jason []: Let's see. Yeah, I did.
+Facker, Dan [14:11]: Well, you don't have to look for it. If we, if someone could just make sure.
+Hardiman, Howard [14:13]: Yep. And I'll put it here in the chat. I'll put it in the chat, Dan. And then that system requirement that we reviewed that day, I still have not made, I took your note of calling out, like there was a couple of things you wanted me to change. My vacation started and I wasn't able to do that. I'll do that.
+Bernas, Jason [14:14]: Yeah.
+Bernas, Jason []: Oh, thanks. Thank you, Hart.
+Facker, Dan [14:19]: Thanks.
+Nallam, Prasad [14:30]: Hey, now.
+Facker, Dan [14:32]: Okay.
+Hardiman, Howard [14:32]: Ahead of the meeting that...
+Hardiman, Howard []: Will will be set up to to to discuss this.
+Facker, Dan [14:38]: Sounds good. Thanks.
+Bernas, Jason [14:39]: Howard, can we can we set a target date of resolving this within the before next week?
+Bernas, Jason []: Before next.
+Hardiman, Howard [14:46]: No, I can set a target date that the things that I am responsible for will be done by then. But getting the impacts and weaving it into the schedule and all of that, I...
+Bernas, Jason [14:53]: OK.
+Bernas, Jason []: Yeah, no, no, that's I understand. Yeah, you're not gonna be able to do that, okay?
+Hardiman, Howard [15:01]: Yeah, yeah, certainly. Yeah, no, yeah, that's right. Yeah, but the part that, you know, collectively Summer and I would be responsible for, or I would be responsible for and kind of helping Summer to be sure that it's formatted and everything correctly and updating that system requirement. Yes, yes, certainly. Yep, that's the top priority once I get my cleats in the ground good.
+Bernas, Jason [15:13]: Yeah.
+Bernas, Jason []: Okay, alright.
+Hardiman, Howard [15:21]: Yep.
+Bernas, Jason [15:21]: Okay.
+Dahm, Claus [15:22]: Okay, so Jason, you just wrote 84. What exactly does that mean?
+Bernas, Jason [15:25]: Mhm.
+Bernas, Jason []: I would like, I would like Wei Kong to have what he needs.
+Bernas, Jason []: So he, like, so he can provide us a date so I can build the schedule.
+Dahm, Claus [15:39]: But that's a tiny, tiny, tiny little part of what needed.
+Hardiman, Howard [15:41]: Yeah, that's right. Yeah, the way **** part is pen and paper like that. Yeah.
+Dahm, Claus [15:45]: Yeah, I think you're completely missing the forest for the one little brand. I mean...
+Hardiman, Howard [15:50]: Yeah, yeah.
+Bernas, Jason [15:50]: No.
+Bernas, Jason []: Look, this work. OK, the topic is to discuss this dependency. It is not about the change request. I understand there's a dependency for the change request to be approved for him to do that. Claus.
+Dahm, Claus [16:03]: No, there are many, many aspects to this that need to be ironed out in order to solve the dependency on Outcomes EPON pilot scheme.
+Bernas, Jason [16:15]: Overall EPOM pilot scheme, yes, because that CR is needs to be approved. But this line item is specific to the hardware team's date.
+Dahm, Claus [16:17]: Yeah.
+Hardiman, Howard [16:26]: Yeah, but it's kind of driven, it's a part of this updated decomposition that the CR is addressing.
+Dahm, Claus [16:28]: Yeah.
+Bernas, Jason [16:34]: Agreed.
+Bernas, Jason []: Well, how would, how should I word this then? That makes it clear, inaccurate.
+Hardiman, Howard [16:40]: To me, this line item should not be even about, it should be the CR is the critical line item. And then, and then.
+Bernas, Jason [16:46]: Alright, OK, I can create that new dependency, but this is still an open one that Waikun has been unable to provide me a date.
+Bernas, Jason []: to build a schedule. That's how this line started. I can create one for the CR to be resolved, right, and approved. I have no, that makes sense.
+Hardiman, Howard [16:56]: Yep.
+Hardiman, Howard []: That's.
+Hardiman, Howard []: Yep, and then and then this and then and then this underlying one will sort itself out within within that, because because like I said, there are really two things we're looking for from Waykun before we leave this topic. One is a pin and pad. Hey, what is really going to be the impact of this to ELG whenever we start doing this new thing?
+Bernas, Jason [17:06]: Yes, yeah, okay.
+Hardiman, Howard [17:21]: And then the second is whenever is a part of the actual development and test where he's probably going to want to take the firmware and have the outcomes agent on it and do its thing and then measure actually what he told us. So it's kind of two things. Yeah.
+Bernas, Jason [17:22]: Mhm.
+Bernas, Jason []: Yeah, yeah, the approval has to be is is a predecessor to all to what he has to provide.
+Hardiman, Howard [17:46]: Yeah, that that's the way we should see it now, because, yeah, yeah.
+Bernas, Jason [17:48]: Yeah, I agree. I agree. That's fine. It just, there's more context behind this one line item for hardware that we just discussed. Yeah.
+Hardiman, Howard [17:55]: That's correct. That's right. This one line item is a sub.
+Bernas, Jason [17:59]: Mhm.
+Hardiman, Howard [18:00]: Subtopic in the greater.
+Bernas, Jason [18:03]: Yeah.
+Hardiman, Howard [18:04]: We're having to do something with this pond thing that we weren't expecting six weeks ago, four weeks ago.
+Bernas, Jason [18:10]: Yeah, yeah.
+Hardiman, Howard [18:11]: Two, for that matter, yes.
+Bernas, Jason [18:13]: Right, agreed. All right. All right, so moving on. The other ones, we will not have a date until next week. Dan cannot commit a time to provide a date yet, probably until...
+Bernas, Jason []: After this one, so my so my suspect suspicion for Dan.
+Bernas, Jason []: Uh, Peter, same Outcomes.
+Dahm, Claus [18:36]: Can we let me just get?
+Bernas, Jason [18:36]: Se.
+Facker, Dan [18:37]: I, I will mention Claus that.
+Facker, Dan []: Sorry, go ahead.
+Dahm, Claus [18:42]: Yeah, well, I wanted to get some clarity as to what exactly it is that you are saying, yeah, I'll deliver ABC.
+Dahm, Claus []: Because, but given our conversation last week, it we're...
+Dahm, Claus []: What we're talking about in this meeting and what we're talking about in reality may not be in sync.
+Facker, Dan [19:09]: I'm not sure I know the answer to that question. I'll tell you what I think I know about that. Yeah, you're requesting dates for these two subsystem requirements. The first one, I think, is pretty well understood, but I need a little bit of clarification that Tommi
+Dahm, Claus [19:15]: Poverty.
+Facker, Dan [19:28]: has agreed to put together for us. But per your request, it was last week or the week before, but anyway, when we were talked about, we'd like to get at least a migration of the 311 implementation so that we can start doing some testing.
+Facker, Dan []: So that is underway, and I expect to have it in a week or less.
+Dahm, Claus [19:47]: Mhm.
+Facker, Dan [19:53]: The actual planning schedule for this program probably isn't too long after that. I expect we'll be, we're probably a week away from that. The next row, the two hop piece, I do need some additional support from Tommi on exactly what it is we're supposed to do.
+Facker, Dan []: This hasn't been broken down yet to beyond, you know, do 2 hub, so...
+Facker, Dan []: That's.
+Facker, Dan []: A piece that I need before I can finish.
+Facker, Dan []: The planning before I can finish the planning, right?
+Dahm, Claus [20:33]: So, when we say...
+Dahm, Claus []: Complete planning, you mean you have your complete setup?
+Dahm, Claus []: I will deliver by or I okay.
+Facker, Dan [20:45]: Correct, yeah.
+Facker, Dan []: A date for when it would be delivered.
+Bernas, Jason [21:01]: Pause any further questions.
+Dahm, Claus [21:06]: No, I my primary my ultimately there are three different asks here for for as far as app service is is is.
+Facker, Dan [21:08]: Yeah.
+Facker, Dan []: Yeah.
+Dahm, Claus [21:18]: As far as apps serve, so the first is the pure, quote un quote, pure 311 port. The second is the planning for.
+Dahm, Claus []: EE.
+Dahm, Claus []: The EPON, what I call POC plus of functionality, um, and then...
+Facker, Dan [21:37]: Mhm.
+Hardiman, Howard [21:38]: The C the C AKA the CR.
+Dahm, Claus [21:41]: AKA is CR. Yes, yes, yes, exactly. And thirdly, of course, app serve.
+Hardiman, Howard [21:43]: EE.
+Dahm, Claus [21:49]: an app serve, sorry, app serve, and of course, peer-to-peer. I am assuming, and please correct me if I'm wrong here, that there won't be any app serve changes for any entity whatsoever.
+Hardiman, Howard [22:06]: Mm.
+Dahm, Claus [22:07]: Is that correct?
+Facker, Dan [22:08]: I...
+Facker, Dan []: Not assuming that yet, no.
+Nallam, Prasad [22:11]: Okay.
+Facker, Dan [22:12]: But I don't know, that is another item that I need to break down on exactly what they're looking for for us, what the design should be. So when I have that, I could give a schedule for doing our NCIS portion for an MNT.
+Dahm, Claus [22:20]: Yeah.
+Dahm, Claus []: Lew.
+Dahm, Claus []: OK, that may be the 4th activity then, so.
+Facker, Dan [22:32]: That would be a fourth activity.
+Hardiman, Howard [22:32]: Yeah, because that, because now you're asking a slightly different question, I think, Claus, right? Before your question was, do we need to bring whatever y'all are doing for InMentity onto the Riva meter? I think we, I think we put we put that one to bed.
+Dahm, Claus [22:45]: No, no, no, ohh, no, no, no.
+Dahm, Claus []: Yes, we did. Yeah, no.
+Hardiman, Howard [22:49]: Now, the question is, now the question is...
+Hardiman, Howard []: Does some does something in App Serve need to change because of what y'all are doing on the Util OS endpoint?
+Dahm, Claus [23:02]: Yeah.
+Hardiman, Howard [23:03]: That's the question you're asking now.
+Dahm, Claus [23:05]: That's correct, yes.
+Facker, Dan [23:06]: So you put that to bed with what resolution, Howard? Sorry.
+Facker, Dan []: Yeah.
+Hardiman, Howard [23:12]: Well, we talked about it with those PLMs and I brought it up and I think we walked away saying that. I hope we walked away saying that.
+Hardiman, Howard []: That.
+Dahm, Claus [23:23]: The.
+Hardiman, Howard [23:24]: The thing that they're doing on Utila West, we don't need to do on the RIVA meter because there isn't a use case for it. And the PLMs were there and everything. So I hope that's the correct take away. Claus, do you agree with that?
+Facker, Dan [23:33]: K.
+Dahm, Claus [23:37]: That, that was the take away, yes, that was the explicit take away that the entity functionality we have added on ULOS and has been there for nine months plus now, waiting for end-to-end integration, it is not the.
+Hardiman, Howard [23:40]: Yeah.
+Hardiman, Howard []: Yep.
+Nallam, Prasad [23:56]: To work with.
+Dahm, Claus [23:57]: Quiet on only on.
+Nallam, Prasad [23:58]: Panda.
+Nallam, Prasad []: Hello.
+Hardiman, Howard [24:01]: That's right. And now the second question is a good one that I haven't thought, like I, like you're right, I have no idea what needs to change on the Riva endpoint to be able to accommodate this thing on the, I have not thought about that. I don't, hopefully it's nothing.
+Nallam, Prasad [24:04]: Film of the one for the year.
+Dahm, Claus [24:20]: I assume nothing, but then again, I shouldn't be assuming anything. I'm thinking it's only a DI thing or a transport thing, right? But
+Hardiman, Howard [24:20]: But.
+Hardiman, Howard []: The agent, the agent itself, you're saying only...
+Dahm, Claus [24:32]: Yes, yes, yes, the agent, yeah.
+Hardiman, Howard [24:36]: Maybe that's a Tommi question, Dan, like, yeah, I don't know.
+Facker, Dan [24:36]: Okay, so what I'm hearing is in M&T stuff, I don't have any work to do for AppServe, but there is a question about for Outcomes agents.
+Nallam, Prasad [24:39]: Okay.
+Facker, Dan [24:48]: Is that what I heard? Okay.
+Hardiman, Howard [24:49]: Yes, yeah, and AppServe, right? What we're saying, we don't have to port that functionality to the Riva meter, but how it impacts AppServe or the agents, we need to consult someone that would really know how you're using it and everything or whatever to.
+Nallam, Prasad [25:01]: Andrew.
+Hardiman, Howard [25:08]: to really help us put that part to bed. Because right now I'm looking at like the decomp. We made no assumption of that. The way this decomp is looking right now in Mentity is that this is strictly A UtiloS activity. And I think we want to make sure that that's true.
+Facker, Dan [25:11]: OK.
+Facker, Dan []: OK, well, I'm not personally participating in any of that discussion, but Tommy's back and should be, so...
+Facker, Dan []: I'll wait to, and he decomps that for me, let's put it that way, so...
+Dahm, Claus [25:41]: You see back now.
+Nallam, Prasad [25:42]: Hotel.
+Facker, Dan [25:42]: He is back, yes.
+Dahm, Claus [25:44]: OK.
+Dahm, Claus []: Thank you.
+Nallam, Prasad [25:46]: Yeah.
+Dahm, Claus [25:47]: Yeah, we need to close this ASAP because if all of a sudden some new chunk of work shows up, things change dramatically, right? That's the...
+Hardiman, Howard [25:55]: Yeah, right.
+Dahm, Claus [25:58]: Problem, potential problem.
+Nallam, Prasad [25:59]: So, yes, I can.
+Hardiman, Howard [26:00]: Yeah.
+Hardiman, Howard []: Yep.
+Bernas, Jason [26:07]: Okay, moving on. So these are outcomes that Peter will get back to us with dates next week. Next is...
+Hardiman, Howard [26:09]: The.
+Nallam, Prasad [26:10]: Two figures, like.
+Nallam, Prasad []: Yeah.
+Bernas, Jason [26:16]: I thought logins also in this formless last week that Sajeev was dependent on Outcomes delivery date, so that's pending the previous.
+Bernas, Jason []: The next one is about meter firmware changes and the firmware drops. So last week we discussed that Mark and Anshul discussed test coverage.
+Nallam, Prasad [26:33]: Yes.
+Bernas, Jason [26:35]: Are either of them able to update us on that?
+Dahm, Claus [26:43]: Who are you looking for an update from?
+Nallam, Prasad [26:44]: EE.
+Bernas, Jason [26:45]: Mark and Rancho.
+Dahm, Claus [26:47]: Anshul, I think.
+Greytock, William [26:48]: Yeah, and Angel's out of the office. He's out of the office with a family emergency, so he's...
+Bernas, Jason [26:54]: Okay. Okay.
+Greytock, William [26:54]: I'll put this one.
+Bernas, Jason [26:56]: Okay, thanks, Bill.
+Bernas, Jason []: follow up with both of them offline. The next one also Outcomes P will get back to us next week.
+Bernas, Jason []: Is Max with us?
+Wagner, Max [27:11]: Yep.
+Bernas, Jason [27:12]: Okay, Max, I had a question on this one.
+Nallam, Prasad [27:13]: But.
+Bernas, Jason [27:17]: The.
+Bernas, Jason []: So this is subsystem requirement. I was curious.
+Bernas, Jason []: How is this verified? I noticed it was closed.
+Wagner, Max [27:29]: Yeah, so that subsystem requirement was just a system design one that there's no other state than, you know, verified. So that's, that was me assigning myself work and saying I completed it.
+Nallam, Prasad [27:35]: Is.
+Nallam, Prasad []: No.
+Bernas, Jason [27:38]: So is it okay?
+Bernas, Jason []: I see. Okay.
+Bernas, Jason []: So, I can remove that one.
+Bernas, Jason []: as a dependency. Okay, next is Outcomes again next week.
+Wagner, Max [27:49]: Yeah.
+Nallam, Prasad [27:49]: EE.
+Bernas, Jason [27:54]: And last is Bill's IST. So Bill, I know that you're dependent on Outcomes dates right before for phase one and two. That is fine, but I think what we need, I will need from you if possible, or at least phase one dates. We have less dependency on them.
+Nallam, Prasad [28:00]: Fix.
+Greytock, William [28:02]: Yep.
+Greytock, William []: Yeah, yeah, so we started, so Claus and I started a collaboration session talking about phase one and what's required from a test perspective. So we're still working through that. And I just want to make it clear to everybody, there are no resources allocated to this from an IST perspective.
+Bernas, Jason [28:11]: OK.
+Bernas, Jason []: Mhm.
+Bernas, Jason []: Mhm.
+Nallam, Prasad [28:25]: And.
+Nallam, Prasad []: Okay.
+Greytock, William [28:30]: less util OS to do the solution testing. I'm starting the discussions with Nathan and Steve on this and how this gets prioritized over other MPI programs and we resource it. So I just want to make that clear again, right? We don't have any resources, right, allocated in 2026, but we are working to see if there's a
+Nallam, Prasad [28:33]: No.
+Nallam, Prasad []: Yeah.
+Nallam, Prasad []: Right.
+Nallam, Prasad []: Yeah.
+Nallam, Prasad []: Yes, no.
+Bernas, Jason [28:54]: Okay, thanks for that update. I wasn't aware of that. I would have thought Steve would have already had a resource. Nathan meaning would have a resource for you already for this.
+Nallam, Prasad [28:56]: Some.
+Nallam, Prasad []: EE.
+Nallam, Prasad []: EE.
+Greytock, William [29:05]: Mhm.
+Dahm, Claus [29:05]: What do we need as escalation goes? Is this a PLM? I mean, you're doing, you're working your path, your path, and your part, but do we need any PLM escalation in this?
+Bernas, Jason [29:05]: Program.
+Nallam, Prasad [29:09]: Xbox.
+Nallam, Prasad []: Speaking.
+Greytock, William [29:13]: Mhm.
+Nallam, Prasad [29:16]: I love you.
+Greytock, William [29:19]: I think what we could do is once we come back with a proposal, which I'm working with Nathan and I'm going to propose something to him later on this afternoon around this program, we say this is what we could potentially do in 2026 to cover off the solution side of this. And these are the programs that might
+Nallam, Prasad [29:36]: Estes.
+Nallam, Prasad []: Second.
+Greytock, William [29:39]: take a little impact on the MPI side. And that's what we're going to, we'll put that proposal together. And then I think that that thing goes to PLM to make sure that they're in agreement.
+Nallam, Prasad [29:48]: This.
+Dahm, Claus [29:52]: Sounds good.
+Greytock, William [29:53]: Mhm.
+Bernas, Jason [29:56]: All right, that's dependency. Second is, okay, this ticket states. So Howard, I've noticed some system requirements have not been team review completed yet. Are you aware of that?
+Nallam, Prasad [30:06]: No.
+Hardiman, Howard [30:13]: Yeah, yeah, I am. We'll go in and look. I mean, at this point, I think the only that should be probably in that state. Well, it just depends. I mean, some of like the compatibility matrix and other that, I mean, I don't know. Yeah, I'll sync with Max to see kind of where we are. We probably need to set something up for some more discussions maybe, but
+Bernas, Jason [30:15]: Okay.
+Hardiman, Howard [30:32]: The biggest that.
+Hardiman, Howard []: is, you know, the...
+Hardiman, Howard []: the pond one that we discussed. I think everything else is in a state where we're good, may need some cleanup.
+Bernas, Jason [30:39]: Mhm.
+Bernas, Jason []: Okay, well I can maybe what I should do, I should send you those tickets that I'm I've saw that we're not team review completed yet.
+Hardiman, Howard [30:46]: But yeah.
+Nallam, Prasad [30:52]: Sorry.
+Nallam, Prasad []: Iqbal.
+Hardiman, Howard [30:54]: Yep, that's why.
+Bernas, Jason [30:55]: OK.
+Dahm, Claus [30:55]: Can we just look at the dashboard, please?
+Bernas, Jason [30:58]: Which dashboard are you referring to, Claus?
+Dahm, Claus [31:00]: The one that identifies all of the states of all in the program.
+Bernas, Jason [31:03]: Ohh.
+Bernas, Jason []: Oh, the the one that Howard shared a while back.
+Dahm, Claus [31:06]: You'll see.
+Dahm, Claus []: I think you might have.
+Dahm, Claus []: It shows all the states of all of the.
+Hardiman, Howard [31:18]: Yeah, should should reflect, yeah, what's your yep?
+Bernas, Jason [31:20]: Yeah, did I, when did I captured that?
+Dahm, Claus [31:22]: This is, this should be your number one go-to page.
+Hardiman, Howard [31:26]: Yeah.
+Dahm, Claus [31:27]: In this meeting.
+Wagner, Max [31:27]: I just put the link in the chat.
+Dahm, Claus [31:29]: Yeah.
+Bernas, Jason [31:29]: Oh, thank you.
+Bernas, Jason []: Se.
+Dahm, Claus [31:42]: During this phase of the program, that is pretty much.
+Dahm, Claus []: the number one place to go.
+Nallam, Prasad [31:52]: She doesn't have the right one.
+Dahm, Claus [31:53]: Okay, so go to the correct program.
+Nallam, Prasad [31:54]: I wanna talk.
+Nallam, Prasad []: I'll be through.
+Dahm, Claus [32:01]: There you go.
+Bernas, Jason [32:01]: What is the one?
+Hardiman, Howard [32:01]: Yep, it's there. Yep, that's good.
+Nallam, Prasad [32:01]: So.
+Nallam, Prasad []: No.
+Dahm, Claus [32:05]: And uh, we have yet, so wait.
+Bernas, Jason [32:09]: How do we?
+Dahm, Claus [32:11]: Scroll up.
+Bernas, Jason [32:11]: Hoke.
+Wagner, Max [32:11]: you should go to the subsystem requirements tab.
+Bernas, Jason [32:13]: EE.
+Hardiman, Howard [32:15]: For all of them, right? I mean, this point, you know, we're trying to...
+Bernas, Jason [32:16]: Se.
+Wagner, Max [32:18]: Now, on program every view, but scroll up.
+Bernas, Jason [32:18]: This one.
+Bernas, Jason []: Oh, some more. Oh, this one. Thank you.
+Hardiman, Howard [32:24]: Yep, see subsystem and then system, those, this should all be.
+Nallam, Prasad [32:29]: I must be over there.
+Hardiman, Howard [32:29]: you know, telling you the same things we hope that you, you know, had like read out a second ago. So like go to the system requirements. Let's see if the ones that are hanging out there are the same ones you're
+Dahm, Claus [32:33]: Yeah.
+Greytock, William [32:37]: Akhil.
+Nallam, Prasad [32:37]: Uh, Brindwaal movie.
+Nallam, Prasad []: On top, because, yes.
+Hardiman, Howard [32:42]: So, placeholder is the dark purple.
+Nallam, Prasad [32:44]: Yes.
+Nallam, Prasad []: Everything was different.
+Hardiman, Howard [32:50]: And then, so if you click on like the dark purple, where the ones that are in placeholder, then now when you scroll down, those will be listed down here.
+Nallam, Prasad [32:54]: It's not both.
+Nallam, Prasad []: I am a little.
+Bernas, Jason [33:00]: Mhm.
+Dahm, Claus [33:03]: Gautam.
+Hardiman, Howard [33:04]: Keep, keep, keep going, there you go, yep, so two hop, OK.
+Bernas, Jason [33:04]: Similar, OK.
+Nallam, Prasad [33:05]: No.
+Nallam, Prasad []: Ready now?
+Hardiman, Howard [33:10]: It performance requirements compat matrix.
+Nallam, Prasad [33:11]: And that's it.
+Nallam, Prasad []: Cortana.
+Hardiman, Howard [33:15]: For some reason, that pawn one is not showing up there. Let me make sure I got the iteration set on that one correctly. But, but yeah, I agree with Claus. I mean, yeah, this is this is what we what we want to reference.
+Nallam, Prasad [33:20]: It's.
+Nallam, Prasad []: Singh.
+Bernas, Jason [33:28]: Okay.
+Dahm, Claus [33:32]: So, yeah, you wanna you wanna bookmark that one. You wanna absolutely use that as a reference point in all of our meetings.
+Dahm, Claus []: Because this will tell us.
+Dahm, Claus []: How far away are we?
+Bernas, Jason [33:52]: Okay. All right. Thank you.
+Bernas, Jason []: And...
+Bernas, Jason []: Also, Max, I noticed that some system requirements...
+Bernas, Jason []: Have team review that have team review cleared, but they were unassigned.
+Bernas, Jason []: So who reviews those that were unassigned?
+Dahm, Claus [34:10]: EE.
+Wagner, Max [34:14]: I don't see any system requirements that are unassigned.
+Hardiman, Howard [34:15]: On a on a.
+Bernas, Jason [34:21]: Is there a fast way to see it from here?
+Wagner, Max [34:21]: I see a couple of sub-system requirements that don't have names to them.
+Wagner, Max []: And.
+Wagner, Max []: Yeah, so do we have an operations lead for the the tell it stuff? Claus, who do you know who that is?
+Dahm, Claus [34:41]: I think it's Jeff.
+Wagner, Max [34:43]: Okay, yep. So I'll add that name and then a delivery lead for the Power Mon.
+Wagner, Max []: We have a name there.
+Tomisaka, Scott [34:57]: You can give that to Bark.
+Dahm, Claus [34:57]: I have absolutely no.
+Wagner, Max [35:00]: Mark Livingston, give it to him.
+Dahm, Claus [35:02]: Oh, that sounds right. Yeah, yeah, yeah, of course. Thank you.
+Wagner, Max [35:06]: Okay, and then.
+Wagner, Max []: Not a name for S.I.Q.
+Dahm, Claus [35:12]: Good boy.
+Wagner, Max [35:14]: I couldn't think of anybody off the top of my head.
+Dahm, Claus [35:15]: Is that, is that, or I mean, I don't know who did, did you say delivery? She's not.
+Facker, Dan [35:18]: Yeah.
+Wagner, Max [35:24]: No, it's just SIQ.
+Bernas, Jason [35:27]: Maybe it's Vineet.
+Dahm, Claus [35:28]: Isn't it?
+Bernas, Jason [35:31]: Q. Press AQ.
+Modahala, Logan [35:34]: Yeah, yes, I guess we need.
+Wagner, Max [35:36]: Okay.
+Dahm, Claus [35:36]: Oh.
+Dahm, Claus []: So that's.
+Bernas, Jason [35:38]: Vineet Srivastava, Srivastava.
+Dahm, Claus [35:41]: Is that?
+Modahala, Logan [35:41]: Right, yeah, I think he reports to Theen Theen.
+Wagner, Max [35:41]: Yeah, yeah.
+Dahm, Claus [35:45]: I see.
+Dahm, Claus []: You said.
+Hardiman, Howard [35:47]: Do they, do they, do they gotta actually, they don't have to actually change nothing. That's for the EDMI, right?
+Wagner, Max [35:53]: Yeah, that's for the EDMI. I agreed. I don't think they have any change, but I did throw out a subsystem.
+Hardiman, Howard [35:55]: But they...
+Dahm, Claus [35:59]: Oh, oh, that's the Singapore PowerPoint.
+Wagner, Max [36:04]: Uhh...
+Hardiman, Howard [36:04]: EE.
+Wagner, Max [36:06]: Yes.
+Dahm, Claus [36:07]: Ohh.
+Dahm, Claus []: Yeah, that was...
+Hardiman, Howard [36:10]: Then it then it may it may be.
+Hardiman, Howard []: I mean, either that, either it's just icing on the cake and there's really no development work behind it, or there is development work behind it and we're missing that we need to be lining up with some kind of UIQ release. I hope it's not the latter.
+Dahm, Claus [36:13]: No.
+Wagner, Max [36:29]: I don't think there is development work required.
+Hardiman, Howard [36:33]: Yeah, see, I have no clue.
+Dahm, Claus [36:33]: Well, from their end, no, nothing. Not nothing. And from our end, it was one line to enable it for ADMI. So it's the same functionality across different, all the different.
+Hardiman, Howard [36:41]: Okay.
+Hardiman, Howard []: Okay.
+Hardiman, Howard []: The vendors, okay. Yeah, I didn't know if they had some notion of device type or something that had to be accommodated. So if that's good news, if not, and then.
+Hardiman, Howard []: I would almost say to remove this, but it's not my call to make on that one. Yeah.
+Hardiman, Howard []: Because what are we asking them to do to for their test resources to test it or what would?
+Wagner, Max [37:17]: It's a good question. I want to say somebody asked me to add it. I'll have to go searching.
+Dahm, Claus [37:25]: I just forward, Max, I just forward an e-mail thread to you. I think it'll work some of the, let's call it mysteries.
+Wagner, Max [37:30]: Okay.
+Hardiman, Howard [37:34]: Okay. Okay, good.
+Wagner, Max [37:35]: Okay.
+Wagner, Max []: Oh, okay, because Prakash was asking questions. Okay.
+Bernas, Jason [37:41]: No.
+Dahm, Claus [37:44]: Yeah, to be neat.
+Wagner, Max [37:46]: Yep.
+Bernas, Jason [37:52]: All right, Max, thanks for working through those that need to be assigned.
+Bernas, Jason []: All right, next one is the CAT team. They need to have PD device requirements. Claus, I saw you requesting some. Yeah.
+Dahm, Claus [38:06]: Uh, one quick sec, one quick sec. There's not cat. Cat does not exist anymore. CT.
+Bernas, Jason [38:14]: Is there a difference? Or what is the difference?
+Dahm, Claus [38:18]: It was rebranded. It's called CT.
+Bernas, Jason [38:21]: Okay, what and it stands for?
+Dahm, Claus [38:23]: Yeah.
+Tomisaka, Scott [38:23]: Marketing had to rename that thing back in the 2010s, literally 2010.
+Dahm, Claus [38:27]: Yeah.
+Bernas, Jason [38:28]: Okay.
+Dahm, Claus [38:29]: It's not called cat is what I'm trying to say. So when you say cat.
+Tomisaka, Scott [38:30]: It's a intern internally.
+Bernas, Jason [38:32]: Okay.
+Dahm, Claus [38:35]: People may be wondering which ones to herd now. Sorry. No, it was supposed to be. Yeah.
+Bernas, Jason [38:41]: Okay.
+Tomisaka, Scott [38:41]: In internally, Silver Spring would never let that name go.
+Bernas, Jason [38:46]: Yeah, okay. It's still so got it. All right. Thanks, Scott. Thanks, Claus. All right. Yeah, the CT team needs their PDP to have PD device requirements. And Claus, I saw you were expecting Summer, right, to...
+Tomisaka, Scott [38:47]: Marketing changed it.
+Facker, Dan [38:52]: Ohh.
+Bernas, Jason [39:01]: Provide guidance on this. She's not here, so we'll have to.
+Dahm, Claus [39:03]: Yeah.
+Hardiman, Howard [39:04]: You mean, I thought Summer was going to, so this is where I'm catching up on e-mail. Summer is just going to get them some devices or something, right?
+Dahm, Claus [39:13]: Yeah, the problem was that she started asking a lot of questions as to which one of this, which one of that, you know, what are the configurations, and I'm saying, you know, that she really needs to tell us, or maybe you can, I don't know, but...
+Hardiman, Howard [39:23]: I see.
+Dahm, Claus [39:27]: It ought to be straightforward, because she's looking for some testing. I mean, ultimately, because she owns it, right? So, what configuration is it of the, you know, which variant of the meter would she like this tested on? I don't think it should be a big issue, but...
+Hardiman, Howard [39:46]: I agree. Yeah, I agree. But I do want to just raise one question, though. I mean,
+Dahm, Claus [39:46]: Just decide.
+Hardiman, Howard [39:53]: I.
+Hardiman, Howard []: CT being pulled into this.
+Hardiman, Howard []: is because the common practice is that anytime we add new net manager commands, you guys put in scope CT to support them.
+Hardiman, Howard []: Not because a product manager said they wanted CT support for this use case.
+Bernas, Jason [40:26]: Sounds like whenever there is new net manager commands changed or added or removed, we need CTA to be updated.
+Bernas, Jason []: To reflect.
+Hardiman, Howard [40:37]: And, as I was saying, and if that's the, because Fabrice, I mean, I noticed in your requirement, I don't know if Fabrice is still on, I mean, that was kind of left open and that was this kind of like a system concern. I mean, and I had asked the
+Monier, Fabrice [40:45]: I'm here.
+Monier, Fabrice []: Yeah, this requirement, I mean, it has been there since day one, we noted that, I mean, as you say, assumption was that the Renaud manager could be there for if someone needs to.
+Monier, Fabrice []: Troubleshoot the device in the field, it can accept new statistics, for example. So we don't know what we will need that tool, so make this available.
+Hardiman, Howard [41:17]: Okay.
+Dahm, Claus [41:18]: All 10.
+Monier, Fabrice [41:18]: So, but there, there is no, there is no, I would say.
+Monier, Fabrice []: Practical need to change anything on pin.
+Monier, Fabrice []: That has been in notified, I would say, but...
+Monier, Fabrice []: We let the possibility be if anything happened.
+Monier, Fabrice []: So if.
+Monier, Fabrice []: So, back, so either you bought everything, either Outcomes says this is what we want.
+Monier, Fabrice []: To, to, to have access to, but the middle ground now, I cannot say which one would be in little or not.
+Monier, Fabrice []: If possible, a lower resume, I mean, at least from a statistic and troubleshooting standpoint.
+Hardiman, Howard [42:00]: Okay, yeah, I'm just asking because a while ago I did probe PLM about this. I'm like, hey guys, you know, we're doing all of this too hot peer-to-peer. How do you, I mean, what if you needed to troubleshoot it? And you know, Terrence's response to me was,
+Hardiman, Howard []: You know, don't need to worry about it, I guess, here in the first release or something, but so, so, so, but if we're saying that...
+Monier, Fabrice [42:22]: Yeah.
+Monier, Fabrice []: And it's typically in the first, you want to, but I mean that's.
+Hardiman, Howard [42:26]: I know, I know, but here, but here's the greater problem is that the people troubleshooting this.
+Bernas, Jason [42:27]: EE.
+Monier, Fabrice [42:30]: Yeah.
+Hardiman, Howard [42:37]: I don't know, ma'am. Yeah, some of them are going to, I guess, be CT people, but you know, the way you administer DI on the RIVA meter itself is through FDM Electric, right? So
+Monier, Fabrice [42:50]: Yeah, we have not sitting.
+Hardiman, Howard [42:51]: I mean, yeah, there's complexity. So what I'm kind of just squaring away in my mind is that the reason that CT was pulled into this is because traditionally, anytime we add new net manager commands, we go ahead and just say, CT, you need to support those.
+Monier, Fabrice [43:05]: Exactly.
+Monier, Fabrice []: Exactly, and that was the rationale, and that I mean the I put CT here. I mean, I remember I put CT here at the very beginning because I used other template that was thinking about, okay, you had something you need to think about CT if you need that or not, so I put that on the list and I'm letting the other decide.
+Hardiman, Howard [43:11]: Theen.
+Hardiman, Howard []: That's perfect.
+Hardiman, Howard []: Perfect.
+Hardiman, Howard []: Perfect. Yep, okay.
+Monier, Fabrice [43:31]: Whether there is a user or not, I mean, I have no strong opinion on this. I say, when I'm into, I mean, adding a new feature, I prefer having all the tools to debug it, troubleshooting, if anything happened, but I let people.
+Hardiman, Howard [43:46]: Yeah, I'm fine with that. I'm fine. Yeah, I'm fine with that rationale. I just don't want it to be misconstrued with true.
+Monier, Fabrice [43:46]: Decide whether to put that or not.
+Hardiman, Howard [43:54]: Debugging ability for the customer whenever we, whenever...
+Monier, Fabrice [43:57]: Yeah.
+Monier, Fabrice []: Yeah, just an example, if you remember about long range, I mean, we had to have a way to enable this on feed. So it was mandatory to have CP here because that was the only tool to enable the feature, but here the feature will be enabled by default.
+Hardiman, Howard [44:02]: I, I just, yeah.
+Hardiman, Howard []: Mhm.
+Hardiman, Howard []: I see. Okay. Okay. Sorry about that. Yeah.
+Dahm, Claus [44:20]: The only reason we need this is because we don't have network center support. The real support should be networks.
+Monier, Fabrice [44:27]: Yep, yep.
+Dahm, Claus [44:29]: The CT is really poor.
+Dahm, Claus []: Substitution for network center.
+Dahm, Claus []: It is the last restore because we don't have access to the back office. And if there's no back office access, yeah, to a peer-to-peer ain't going to do anything.
+Monier, Fabrice [44:40]: Yeah, that's another way to see that, yeah.
+Dahm, Claus [44:54]: Bye.
+Dahm, Claus []: It is a use case in search of a problem. I mean, it...
+Dahm, Claus []: CT for this is pretty useless. That's what I'm trying to say.
+Hardiman, Howard [45:07]: It's, but it's useful for development and test, and that's...
+Dahm, Claus [45:11]: No.
+Dahm, Claus []: No.
+Monier, Fabrice [45:13]: On development test, we will plan a job IP.
+Dahm, Claus [45:16]: Exactly, it has zero value.
+Monier, Fabrice [45:18]: It's fairly a non-fin things for customers and not R&D guys. I mean, I won't never use CT to troubleshoot myself in that one.
+Dahm, Claus [45:21]: EE.
+Dahm, Claus []: Yeah.
+Dahm, Claus []: Yeah.
+Dahm, Claus []: Never.
+Monier, Fabrice [45:30]: Never.
+Dahm, Claus [45:32]: We use CT, for example, on APs when we have WAN connectivity issues, as an example, right? Because how else are you going to get to it? But for this, if you don't have back office or WAN connectivity for that matter.
+Hardiman, Howard [45:43]: Okay.
+Dahm, Claus [45:48]: Uhh...
+Dahm, Claus []: To a peer-to-peer ain't gonna do nothing.
+Hardiman, Howard [45:53]: Yeah.
+Hardiman, Howard []: So Prasad, I'll try to, so Prasad, I mean, is what's being asked of you, were you expecting it? Or is it throwing some monkey wrench in your greater plans? Or is it you can consume it and it's fine?
+Nallam, Prasad [46:13]: Yeah, so this is regarding the availability of devices or the dev activities you are asking about.
+Hardiman, Howard [46:18]: The David activities.
+Nallam, Prasad [46:20]: Yeah, we are good actually. We started our dev activities and yeah, we had communicated the schedule also by November 15th. Yeah, we will try to deliver all the 26 new commands and three existing commands update.
+Hardiman, Howard [46:34]: Okay, so Claus and team, it sounds like our response here is what we are offering in terms of any kind of local customer level type debugging for this is via CT, period.
+Dahm, Claus [46:54]: Local in the field on site, yeah.
+Hardiman, Howard [46:55]: in the field, yes, on site, in the test lab or whatever.
+Hardiman, Howard []: Okay.
+Dahm, Claus [47:00]: Well, in a testlet, depending on the situation in a testlet.
+Hardiman, Howard [47:03]: No, the customer customer test lab customer.
+Dahm, Claus [47:07]: Yeah, right, but they would probably either use Net Manager and Net Manager Lite.
+Dahm, Claus []: depending on the customer and depending on who is doing the debugging.
+Hardiman, Howard [47:17]: Okay, and we scope the changes to net manager light or whatever for this too.
+Dahm, Claus [47:24]: Not at this point.
+Monier, Fabrice [47:28]: Like, no, I don't think we did anything. Talk about it, Summer talk about it, but...
+Hardiman, Howard [47:28]: Yeah.
+Dahm, Claus [47:31]: No, I don't think. In the spreadsheet, there were some questions, and I think that you just need to ponder.
+Dahm, Claus []: What was needed in that, and then get it done? I mean, it's a tiny little effort.
+Hardiman, Howard [47:43]: Yeah, I'm afraid that this is happening and the people that are depending on this and that have to answer for it are not in the room. You know, but when I asked Terrence about this, he seemed to think, he seemed to think
+Hardiman, Howard []: this wasn't needed. So I'll leave it alone.
+Dahm, Claus [48:07]: I think Scott might be the...
+Monier, Fabrice [48:09]: If that's the case, you need to mention it very clearly so nobody come later and say, hey, why don't I have this?
+Dahm, Claus [48:13]: Yeah.
+Dahm, Claus []: I think Scott probably has most experience with this of anyone.
+Hardiman, Howard [48:17]: Yeah.
+Dahm, Claus [48:24]: Sorry, Scott, I just threw you on.
+Hardiman, Howard [48:27]: He does, he does, but this is enabling Outcomes, features and such. And that's where it becomes a little bit more, you know, a little bit more interesting.
+Dahm, Claus [48:35]: But that.
+Dahm, Claus []: No.
+Dahm, Claus []: Having CT support does not enable any outcomes feature, right? It enables being able to debug something in a very narrow and very specific use case.
+Hardiman, Howard [48:53]: That's right. That's meant for outcomes applications to run on top of it, is what I mean. The functionality that could be probed or whatever.
+Monier, Fabrice [49:05]: In one sense, it remains a network services, so I mean, I mean, if it does not work at the end, I mean, network would have to look at this, not not that comes.
+Dahm, Claus [49:07]: Yeah, yeah, no spot.
+Dahm, Claus []: Yeah, no, yeah, Outcomes is not involved in any way, shape, or form.
+Hardiman, Howard [49:19]: I agree.
+Dahm, Claus [49:19]: Not more than any other mesh, basic mesh functionality.
+Hardiman, Howard [49:22]: I agree. It's a pipe to them. So, yep, okay. I'm sold, guys. Thank you.
+Dahm, Claus [49:25]: Yeah, yeah.
+Bernas, Jason [49:34]: All right, moving on to the action item. So we don't have Peter here, Anshul, Terrence to move on to the 4th, Epon scope alignment.
+Bernas, Jason []: Uh, Claus, Kevin, and Yacine were to sync up offline with Terrence and Yacine to clarify in the line on the exact scope of E pod for the December release.
+Bernas, Jason []: Did that happen?
+Monier, Fabrice [49:57]: Well, why are we talking about Yacine for Iqbal scope alignment in this program? This is losing me.
+Hardiman, Howard [49:58]: What is this?
+Bernas, Jason [50:06]: He was covering you. He was covering you.
+Khaled, Yacine [50:08]: Because, because just I gave my opinion on this, let's just clarify it, OK.
+Monier, Fabrice [50:12]: Yeah, I'm okay.
+Monier, Fabrice []: Okay, maybe use your opinion, but I mean we don't have any footing in this right now.
+Hardiman, Howard [50:19]: Yeah, the EPON scope alignment is the CR.
+Monier, Fabrice [50:22]: Yeah.
+Dahm, Claus [50:25]: Yeah.
+Monier, Fabrice [50:25]: Yeah, so I mean, it's pilot way. Yeah, so it's pilot, so I mean, we are not here. We are not in, officially, at least.
+Hardiman, Howard [50:25]: AKA the CR. Yeah.
+Dahm, Claus [50:35]: So yeah, this is not the technology program part. This is what I refer to as the POC plus, aka the PR. So.
+Monier, Fabrice [50:38]: Yeah, so...
+Monier, Fabrice []: Pilot. Yeah, so POC or POC plus, so I mean, my team is not involved. Also, we are advising, we are not here. So, I mean, you can remove your single name.
+Dahm, Claus [50:49]: No, it.
+Dahm, Claus []: Well, the reason we pulled Yacine in was because, you know...
+Monier, Fabrice [50:56]: Because he's nice, he's knowledgeable.
+Dahm, Claus [50:58]: No, no, no, because he's a smart guy and he's nice.
+Monier, Fabrice [51:01]: Yeah, he's a smart guy, yeah, but he's not, he's not in the capacity planning for this activity, so you can remove his name.
+Dahm, Claus [51:03]: The.
+Dahm, Claus []: Yeah, please remove him. And you also want to, in this sentence here, sync up offline with Terrence in your, I don't know what, actually, it's not entirely clear what this.
+Monier, Fabrice [51:22]: And you can put Jiangyang. Jiangyang is here.
+Hardiman, Howard [51:23]: Yeah, no, if anything, so Terrence has for December, why does it say December release? I guess that's.
+Dahm, Claus [51:24]: Yeah, Arun.
+Dahm, Claus []: Shouldn't be, we shouldn't say with C.R. This is for the C.R.
+Hardiman, Howard [51:33]: Yes, right. It's just, yeah.
+Hardiman, Howard []: Yeah.
+Dahm, Claus [51:39]: Hood.
+Dahm, Claus []: So, we need to determine, I mean, I think, I think, to be honest, this AI is is is out of date and out of scope and out of alignment. So, what is it that we're asking for here?
+Hardiman, Howard [51:41]: Yeah, yeah, yeah.
+Dahm, Claus [51:55]: As the next.
+Hardiman, Howard [51:55]: Push the R, push the R process.
+Dahm, Claus [51:58]: So, what I think we need, Howard?
+Monier, Fabrice [52:02]: So, POC, the architect is Jiangyang. Jiangyang can talk with can talk with us and we can have internal discussion, but I mean the the architect for the book is is Jiangyang.
+Dahm, Claus [52:07]: But...
+Hardiman, Howard [52:11]: Yeah, but that, yeah, but even that, even, yeah, but even that, I mean, I don't know what this bullet is about. Like, I...
+Monier, Fabrice [52:19]: And yeah, and and so that's even more the case then it needs to go through Jiangyang and Jiangyang may identify if we need to talk internally in the architecture team.
+Dahm, Claus [52:20]: Oh.
+Dahm, Claus []: Yeah, I think what we need, and this came out earlier, Howard, is what we really need is to, as I said, have these conversations outside of this meetings related to the CR. So we can find out what are all of our dependencies and what do we need to communicate in the CR.
+Dahm, Claus []: Who is who is committing to what?
+Dahm, Claus []: So, there's a there's the hardware.
+Hardiman, Howard [52:56]: Yes, now, what I suspect this may be, Terrence pinged me yesterday and says...
+Dahm, Claus [53:02]: EE.
+Hardiman, Howard [53:04]: somebody's, there's some rumors are going around about some performance requirements that don't make sense and such. I suspect that if Terrence brought up something last week, he's pinged me about it and he's looking into it. But that could be, did Terrence bring this up last week?
+Hardiman, Howard []: This topic.
+Dahm, Claus [53:27]: No, I don't think so.
+Hardiman, Howard [53:29]: Okay.
+Dahm, Claus [53:30]: But I.
+Modahala, Logan [53:30]: Yeah, I don't remember.
+Dahm, Claus [53:34]: But I did hear, I'm getting a little nervous when we talk about this in the context of farm testing and in the same sentence using the word scale.
+Dahm, Claus []: Because, as we all know, the scale and this is very low.
+Hardiman, Howard [53:53]: Yep. So I agree with you, but that's the conversation we need to have offline. And Bill needs to be there and the team needs to determine. I mean, the reason I brought it up, Claus, reluctantly is because with this change,
+Dahm, Claus [53:59]: Yes.
+Hardiman, Howard [54:11]: we are ultimately kind of making a change to the legacy ELG at this time, right? With this in-between mode that we're asking. So that's why I reluctantly said that.
+Dahm, Claus [54:22]: Yes, we are.
+Hardiman, Howard [54:31]: So we need to have that dedicated conversation. Yep.
+Bernas, Jason [54:35]: Okay, let's move on. I have a schedule piece I want to cover before we end. Dan, firmware porting for testing.
+Bernas, Jason []: Provide the minimum EPUN port on block testing.
+Facker, Dan [54:48]: Yep.
+Facker, Dan []: That's underway, and we're should have something early next week.
+Bernas, Jason [54:54]: Okay.
+Hardiman, Howard [54:58]: So that, so that's going to be testing pretty much as it is now.
+Bernas, Jason [54:58]: Okay.
+Facker, Dan [55:01]: That's porting as it was in 311, yes.
+Hardiman, Howard [55:06]: And you, and then you, but you did remove the enabler stuff, right? Cause.
+Facker, Dan [55:12]: Not yet, no.
+Dahm, Claus [55:15]: Monday.
+Facker, Dan [55:15]: It was a request to to port it as is, so we could have something to work with.
+Dahm, Claus [55:22]: Yeah, so we we're trying to unplug a FWEQPC, that that's the bottom line without any, there's no POC plus, and that is just...
+Hardiman, Howard [55:22]: OK.
+Facker, Dan [55:28]: Yeah.
+Facker, Dan []: I don't think it'll take very long to undo the enabler stuff, but it's not in this particular deliverable, so I don't expect it to be anyway.
+Dahm, Claus [55:41]: Ohh...
+Dahm, Claus []: So, so, orchestra.
+Facker, Dan [55:47]: August is when we're giving you dates, not deliveries of product.
+Dahm, Claus [55:51]: No, no, no, I'm talking about for this particular thing.
+Facker, Dan [55:55]: Ohh, yeah, yeah.
+Dahm, Claus [55:55]: The.
+Facker, Dan [55:58]: Right.
+Bernas, Jason [56:01]: Okay, thanks, Dan.
+Dahm, Claus [56:02]: I'm happy with Friday or to Thursday, but...
+Facker, Dan [56:06]: I would be too, Claus. I hope it works out, but I don't know. I can't say that will happen.
+Dahm, Claus [56:08]: I know, I know you, I know you.
+Dahm, Claus []: I understand.
+Bernas, Jason [56:15]: All right, moving on to phase.
+Dahm, Claus [56:19]: Wait, wait, wait, wait. You say early next week, but there's no date.
+Bernas, Jason [56:19]: Approach.
+Bernas, Jason []: Before next, before the next meeting, because we do these on Tuesdays, but if you want the date, I will provide August 3.
+Facker, Dan [56:32]: It works.
+Bernas, Jason [56:35]: S.
+Bernas, Jason []: EE.
+Bernas, Jason []: All right, next phase approach to communicate it out to be an e-mail to the stakeholders. I don't think you did this right, Claus.
+Dahm, Claus [56:49]: Correct. I have created a spreadsheet and I'm communicating this to people. So I had a, that was part of the conversation yesterday with Bill and I'll have a conversation with a few others as well. So I've also discussed it with Scott. Unfortunately, Summer is out, so I can't discuss it with her, but I'll, Howard, I'll catch you.
+Bernas, Jason [56:56]: Okay.
+Dahm, Claus [57:15]: Um...
+Dahm, Claus []: as soon as I can to discuss it directly with you as well. And then I'll send it out. I don't want to send it out and people don't have any context.
+Bernas, Jason [57:23]: Okay.
+Bernas, Jason []: Okay, that would be good because I'm trying to, I want to build a schedule, right? Two schedules, a phase one and a phase two schedule. And I'm looking at the system requirements both Howard and Max created. And I'm suspecting it's going to look something like this, but if I'm wrong, please let me know so I can at least start.
+Dahm, Claus [57:33]: Yeah.
+Dahm, Claus []: Good.
+Bernas, Jason [57:48]: on building a schedule, but I'm probably going to cross-reference with what you send out as well, Claus, to make sure we're aligned with what's the content in each phase.
+Dahm, Claus [57:58]: Yeah.
+Bernas, Jason [57:59]: And then I can highlight issues that looks like we're not going to make a phase one expectation. But at a high level, does this look?
+Bernas, Jason []: Correct to you.
+Hardiman, Howard [58:12]: So, so who has asked for phase one and phase two? Summer went ahead and asked for it formally last week, or...
+Dahm, Claus [58:19]: No, no, I'm saying it's not going to happen without a phase one or phase two.
+Dahm, Claus []: because we have some dependencies and outcomes that won't be resolved in time for an end of year delivery. We have a hard...
+Dahm, Claus []: delivery by the end of the year for FPL.
+Hardiman, Howard [58:47]: OK.
+Hardiman, Howard []: But I don't understand why phase one just doesn't have the HPP requirement for...
+Dahm, Claus [58:55]: It's there. Oh, it has to be there.
+Hardiman, Howard [58:57]: But why is there anything else besides it? I thought that was the only thing we needed to get out.
+Dahm, Claus [59:03]: Oh, that, that, that, this other other minor features, but that's the primary thing.
+Hardiman, Howard [59:09]: OK.
+Bernas, Jason [59:17]: But how does this look, Claus, when you're looking at these system requirements that I have for phase one and two?
+Dahm, Claus [59:36]: Yeah, this looks correct.
+Bernas, Jason [59:38]: Oh, good, good. So I'll build, I want to build something to see what it looks like, because...
+Bernas, Jason []: We need to get a schedule for feasibility and planning, which our target date was is August 13 for the team to review.
+Dahm, Claus [59:54]: Yeah, have you? Getting a little too close here.
+Bernas, Jason [59:55]: Right.
+Bernas, Jason []: Way, way too close, yeah.
+Bernas, Jason []: Okay, alright.
+Bernas, Jason []: Well, we're out of time. Is there any...
+Bernas, Jason []: Questions or hot topics that any of the team members want to raise before we end today.
+Bernas, Jason []: All right, okay. Thank you everybody for participating and joining. Enjoy the rest of your day.
+Dahm, Claus [1:00:31]: Thank you. Bye.
+Bernas, Jason [1:00:33]: Goodbye.
+Khaled, Yacine [1:00:33]: But.
+Kogunde Shankarappa, Srinivasa [1:00:34]: The.
